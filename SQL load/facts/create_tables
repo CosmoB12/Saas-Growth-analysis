@@ -1,0 +1,175 @@
+Create SCHEMA IF NOT EXISTS facts
+
+CREATE TABLE facts.fact_subscriptions AS
+SELECT
+    -- keys
+    s.subscription_id,
+    c.customer_id,
+    c.stripe_customer_id,
+    p.price_id                                          AS plan_price_id,
+    p.plan_tier,
+    TO_CHAR(s.current_period_start, 'YYYYMMDD')::INT    AS date_key,
+    TO_CHAR(s.current_period_start, 'YYYY-MM')          AS year_month,
+
+    -- plan details
+    p.plan_name,
+    p.billing_interval,
+    p.price_usd,
+    p.monthly_equivalent_usd                            AS mrr_contribution,  -- key MRR field
+
+    -- subscription lifecycle
+    s.status,
+    s.trial_start                                       AS trial_start_date,
+    s.trial_end                                         AS trial_end_date,
+    s.current_period_start,
+    s.current_period_end,
+    s.canceled_at                                       AS churn_date,
+
+    -- calculated flags
+    CASE
+        WHEN s.status = 'active' THEN TRUE
+        ELSE FALSE
+    END                                                 AS is_active,
+    CASE
+        WHEN s.canceled_at IS NOT NULL THEN TRUE
+        ELSE FALSE
+    END                                                 AS is_churned,
+    CASE
+        WHEN s.trial_end > NOW() THEN TRUE
+        ELSE FALSE
+    END                                                 AS is_in_trial,
+    CASE
+        WHEN s.canceled_at IS NOT NULL
+        THEN EXTRACT(DAY FROM s.canceled_at - s.current_period_start)::INT
+        ELSE EXTRACT(DAY FROM NOW() - s.current_period_start)::INT
+    END                                                 AS days_as_customer,
+
+    -- customer attributes for slicing
+    c.acquisition_channel,
+    c.acquisition_channel_type,
+    c.is_paid_acquisition,
+    c.country,
+    c.initial_plan_tier                                 AS signup_plan_tier
+
+FROM raw.subscriptions s
+
+-- get clean customer attributes
+LEFT JOIN dimensions.dim_customers c
+    ON c.stripe_customer_id = s.customer_id
+
+-- get plan details
+LEFT JOIN dimensions.dim_plans p
+    ON p.price_id = s.plan_id;
+
+ALTER TABLE facts.fact_subscriptions
+ADD CONSTRAINT fact_subscriptions_pk PRIMARY KEY (subscription_id);
+
+
+----------------------------------------------------------------------------------------------------
+
+
+CREATE TABLE facts.fact_product_usage AS
+SELECT
+    -- keys
+    e.distinct_id                                       AS user_id,
+    c.customer_id,
+    TO_CHAR(DATE_TRUNC('month', e.time), 'YYYYMMDD')::INT AS date_key,
+    TO_CHAR(e.time, 'YYYY-MM')                          AS year_month,
+
+    -- usage metrics aggregated by user per month
+    COUNT(*)                                            AS total_events,
+    COUNT(*) FILTER (WHERE e.event_type = 'login')      AS logins,
+    COUNT(*) FILTER (WHERE e.event_type = 'project_created') AS projects_created,
+    COUNT(*) FILTER (WHERE e.event_type = 'task_created')    AS tasks_created,
+    COUNT(*) FILTER (WHERE e.event_type = 'feature_used')    AS feature_interactions,
+    COUNT(*) FILTER (WHERE e.event_type = 'invite_sent')     AS invites_sent,
+    COUNT(*) FILTER (WHERE e.event_type = 'report_viewed')   AS reports_viewed,
+
+    -- engagement score (weighted)
+    ROUND(
+        (COUNT(*) FILTER (WHERE e.event_type = 'login')           * 1.0 +
+         COUNT(*) FILTER (WHERE e.event_type = 'feature_used')    * 2.0 +
+         COUNT(*) FILTER (WHERE e.event_type = 'project_created') * 3.0 +
+         COUNT(*) FILTER (WHERE e.event_type = 'task_created')    * 1.5 +
+         COUNT(*) FILTER (WHERE e.event_type = 'invite_sent')     * 4.0
+        ) / NULLIF(COUNT(*), 0)
+    , 2)                                                AS engagement_score,
+
+    -- platform breakdown
+    COUNT(*) FILTER (WHERE e.platform = 'web')          AS web_events,
+    COUNT(*) FILTER (WHERE e.platform = 'mobile_ios')   AS ios_events,
+    COUNT(*) FILTER (WHERE e.platform = 'mobile_android') AS android_events,
+
+    -- customer attributes for slicing
+    c.initial_plan_tier                                 AS plan_tier,
+    c.country,
+    c.acquisition_channel
+
+FROM raw.events e
+
+LEFT JOIN dimensions.dim_customers c
+    ON c.customer_id = e.distinct_id
+
+GROUP BY
+    e.distinct_id,
+    c.customer_id,
+    DATE_TRUNC('month', e.time),
+    TO_CHAR(e.time, 'YYYY-MM'),
+    c.initial_plan_tier,
+    c.country,
+    c.acquisition_channel;
+
+ALTER TABLE facts.fact_product_usage
+ADD CONSTRAINT fact_product_usage_pk PRIMARY KEY (user_id, year_month);
+
+----------------------------------------------------------------------------------------------------
+
+CREATE TABLE facts.fact_marketing_spend AS
+
+-- Google Ads
+SELECT
+    TO_CHAR(g.date, 'YYYYMMDD')::INT                    AS date_key,
+    TO_CHAR(g.date, 'YYYY-MM')                          AS year_month,
+    'google_ads'                                        AS channel_id,
+    dc.channel_name,
+    dc.channel_type,
+    g.campaign_name,
+    g.impressions,
+    g.clicks,
+    g.cost_usd                                          AS spend_usd,
+    g.conversions,
+    g.ctr                                               AS ctr_pct,
+    g.avg_cpc_usd,
+    g.conversion_rate                                   AS conversion_rate_pct,
+    g.cost_per_conversion                               AS cost_per_conversion_usd,
+    NULL::INTEGER                                       AS leads  -- not tracked in Google export
+
+FROM raw.google_ads g
+LEFT JOIN dimensions.dim_channels dc
+    ON dc.channel_id = 'google_ads'
+
+UNION ALL
+
+-- LinkedIn Ads
+SELECT
+    TO_CHAR(l.start_date, 'YYYYMMDD')::INT              AS date_key,
+    TO_CHAR(l.start_date, 'YYYY-MM')                    AS year_month,
+    'linkedin_ads'                                      AS channel_id,
+    dc.channel_name,
+    dc.channel_type,
+    l.campaign_name,
+    l.impressions,
+    l.clicks,
+    l.spend_usd,
+    NULL::INTEGER                                       AS conversions, -- not tracked in LinkedIn export
+    NULL::NUMERIC                                       AS ctr_pct,
+    l.avg_cpc_usd,
+    NULL::NUMERIC                                       AS conversion_rate_pct,
+    l.cost_per_lead_usd                                 AS cost_per_conversion_usd,
+    l.leads
+
+FROM raw.linkedin_ads l
+LEFT JOIN dimensions.dim_channels dc
+    ON dc.channel_id = 'linkedin_ads';
+
+SELECT * FROM facts.fact_marketing_spend

@@ -1,0 +1,461 @@
+vid,email,firstname,lastname,createdate,lastmodifieddate,hs_lead_status,lifecyclestage,hs_analytics_source,country,company,jobtitle,num_associated_deals,stripe_customer_id,auth_user_id
+100001,user1000@taskflow-demo.io,First0,Last0,2024-11-17T17:37:49Z,2025-06-15T17:38:02Z,CHURNED,other,Google Ads,CA,Company 0,Product Manager,1,cus_y6dpbhsahxthv3,a85748ca-ecbc-4adb-8e74-78f8bdea192f
+100012,user1001@taskflow-demo.io,First1,Last1,2024-03-22T22:28:37Z,2024-08-23T15:49:09Z,CUSTOMER,customer,Organic Search,GH,Company 1,Founder,1,cus_mdd4v30t9nt3w5,5d436bb2-a95c-4e98-96c8-61930e2b2f25
+100017,user1002@taskflow-demo.io,First2,Last2,2024-01-31T10:46:40Z,2025-06-29T18:13:45Z,CHURNED,other,Google Ads,NG,Company 2,Software Engineer,1,cus_5nq4fmyzycwtiq,815de1b8-3b5a-424a-825a-cd114f49b467
+100027,user1003@taskflow-demo.io,First3,Last3,2024-11-19T07:03:44Z,2025-03-11T05:14:14Z,CUSTOMER,customer,Organic Search,NG,Company 3,Analyst,1,cus_c32oc6uzhr5xff,fe20706e-e165-43db-9acd-efa53596b67f
+100029,user1004@taskflow-demo.io,First4,Last4,2024-05-10T03:26:48Z,2025-03-04T13:33:39Z,CUSTOMER,customer,Organic Search,GB,Company 4,CTO,1,cus_9er14ffyvnvqjt,51a0218e-e776-4656-ae1c-957978bd42c3
+100037,user1005@taskflow-demo.io,First5,Last5,2024-02-23T17:33:09Z,2024-03-09T09:33:43Z,CUSTOMER,customer,Organic Search,GB,Company 5,Marketing Manager,1,cus_epq85jsg65kxvf,d90fa6e4-420c-42a2-a4d6-44c8aeb5042e
+100047,user1006@taskflow-demo.io,First6,Last6,2025-01-31T21:32:46Z,2025-06-13T17:23:58Z,CUSTOMER,customer,Product Hunt,ZA,Company 6,CTO,1,cus_en93iiuc039tex,4925651f-d88f-4d67-9bcd-8eeed2ff23a6
+100055,user1007@taskflow-demo.io,First7,Last7,2024-09-21T21:19:15Z,2025-06-22T03:29:54Z,CUSTOMER,customer,Referral,GB,Company 7,Operations Lead,1,cus_0hl9xpseimvihc,d3b1c1ac-e9e8-4efa-8964-46379c40be7b
+100062,user1008@taskflow-demo.io,First8,Last8,2024-01-30T03:07:51Z,2024-08-21T15:04:42Z,CHURNED,other,Product Hunt,ZA,Company 8,Marketing Manager,1,cus_he7ur23gdppq0y,f2eef9ce-5015-450e-95e0-939b51469d89
+100065,user1009@taskflow-demo.io,First9,Last9,2024-07-18T00:39:29Z,2024-09-18T15:47:12Z,CHURNED,other,Organic Search,DE,Company 9,Analyst,1,cus_qpki7p5tb94874,675de9e0-437d-4aad-adaf-20656782b5fa
+100076,user1010@taskflow-demo.io,First10,Last10,2024-09-01T05:19:04Z,2025-01-15T18:19:42Z,CUSTOMER,customer,Google Ads,KE,Company 10,Founder,1,cus_9j2qp89uzfk8ut,d7c6d246-8c74-4c20-9f60-57101e4049c4
+100079,user1011@taskflow-demo.io,First11,Last11,2024-01-21T06:40:37Z,2025-05-15T16:01:21Z,CHURNED,other,Organic Search,GB,Company 11,Freelancer,1,cus_cgvyie6ivwpvs7,84ca0a8f-0dde-4ed3-8e0c-d2e9556fcc29
+100089,user1012@taskflow-demo.io,First12,Last12,2024-06-09T16:11:16Z,2024-08-26T00:36:24Z,CUSTOMER,customer,Google Ads,KE,Company 12,CTO,1,cus_l1cq99chj755nf,0ccf9328-3727-4a4d-88b8-756a6b7ee337
+100094,user1013@taskflow-demo.io,First13,Last13,2024-11-09T16:48:35Z,2025-03-23T09:19:17Z,CUSTOMER,customer,Product Hunt,DE,Company 13,CEO,1,cus_t7d5j60fkhmy4s,f517dcd8-dc32-4d31-ab6e-2de001976345
+100100,user1014@taskflow-demo.io,First14,Last14,2025-03-04T06:28:29Z,2025-03-25T16:42:52Z,CUSTOMER,customer,Google Ads,US,Company 14,CEO,1,cus_1wj0tpac56t4uf,f7c2ef0b-9b95-49e9-9526-ec64516d67c3
+100111,user1015@taskflow-demo.io,First15,Last15,2024-06-28T12:29:34Z,2025-03-10T01:25:25Z,CUSTOMER,customer,Referral,CA,Company 15,Product Manager,1,cus_hid25owf75935a,7550d8ad-6dea-419d-a035-50bd7bde9134
+100113,user1016@taskflow-demo.io,First16,Last16,2025-01-28T09:54:39Z,2025-04-06T04:43:41Z,CUSTOMER,customer,Product Hunt,DE,Company 16,Software Engineer,1,cus_j2d54i3qk2iagl,cd5dec38-72d1-4ebd-b151-ed91e18ee775
+100121,user1017@taskflow-demo.io,First17,Last17,2024-05-18T12:08:03Z,2025-03-31T14:14:10Z,CUSTOMER,customer,Linkedin Ads,GB,Company 17,CEO,1,cus_la5ju9bvm2p9e6,6090b33b-8099-4f51-baaa-3a4e1a7e731f
+100131,user1018@taskflow-demo.io,First18,Last18,2024-12-27T00:34:49Z,2025-06-07T02:58:44Z,CUSTOMER,customer,Linkedin Ads,GB,Company 18,Freelancer,1,cus_70hp87wxe6sylz,3d689740-b935-40de-b47a-3d9271032927
+100134,user1019@taskflow-demo.io,First19,Last19,2024-08-01T01:31:32Z,2024-09-04T20:53:59Z,CHURNED,other,Organic Search,KE,Company 19,Designer,1,cus_ktakpuxqphr62g,34503f46-0ad3-4582-abb9-7da1c2e2a772
+100146,user1020@taskflow-demo.io,First20,Last20,2024-11-30T00:45:52Z,2025-06-02T03:20:13Z,CUSTOMER,customer,Organic Search,GH,Company 20,Operations Lead,1,cus_yihair4cowgzri,ba26d547-bb66-4f7d-bf99-ca3409c391ca
+100153,user1021@taskflow-demo.io,First21,Last21,2025-04-02T13:57:42Z,2025-06-09T06:27:46Z,CUSTOMER,customer,Referral,CA,Company 21,Software Engineer,1,cus_g8sbi4q2y9v86w,c1786355-8e91-43be-98db-17415633357a
+100156,user1022@taskflow-demo.io,First22,Last22,2024-07-30T03:14:23Z,2025-01-08T19:43:49Z,CUSTOMER,customer,Referral,US,Company 22,Freelancer,1,cus_rjiw1swjckjlte,91069940-7a53-43f1-9fd7-ce6d52d525fb
+100165,user1023@taskflow-demo.io,First23,Last23,2024-03-18T15:05:57Z,2024-04-08T13:36:33Z,CUSTOMER,customer,Organic Search,NG,Company 23,Analyst,1,cus_ohp6vz41nam148,6a1c083f-92f7-4340-b503-7d8cec8cc750
+100172,user1024@taskflow-demo.io,First24,Last24,2025-01-06T07:20:40Z,2025-02-17T17:18:40Z,CUSTOMER,customer,Organic Search,US,Company 24,Marketing Manager,1,cus_rny20479t6vxdp,159ac321-0ec2-4047-a620-6899ec87b231
+100177,user1025@taskflow-demo.io,First25,Last25,2024-05-08T08:45:59Z,2025-05-15T20:59:04Z,CUSTOMER,customer,Linkedin Ads,NG,Company 25,Designer,1,cus_n13jcat9mx2x18,da859367-c27c-4a3a-8d3f-d20771fe9d6f
+100186,user1026@taskflow-demo.io,First26,Last26,2024-11-12T02:54:32Z,2025-02-19T12:11:28Z,CUSTOMER,customer,Google Ads,NG,Company 26,Product Manager,1,cus_hz1gv0e38daly8,275d38d5-e2ef-4f47-b3fd-5ee2508630f0
+100195,user1027@taskflow-demo.io,First27,Last27,2024-04-10T11:03:40Z,2025-05-01T16:08:50Z,CHURNED,other,Google Ads,US,Company 27,Founder,1,cus_4ve92mpnsm43d8,f82ef9e7-3f07-451b-b1e1-8041d4780ea1
+100200,user1028@taskflow-demo.io,First28,Last28,2024-08-16T06:03:49Z,2025-01-13T12:45:53Z,CUSTOMER,customer,Organic Search,GB,Company 28,CTO,1,cus_j3trp0j43d5iqv,3167426b-653b-4fdf-a550-0dd9dc010687
+100204,user1029@taskflow-demo.io,First29,Last29,2024-09-09T17:41:12Z,2025-02-23T06:06:16Z,CUSTOMER,customer,Referral,NG,Company 29,CEO,1,cus_m5zja8dzr1yxr2,e54c5ca5-afc8-4557-bc7b-6ce30fbb67ba
+100214,user1030@taskflow-demo.io,First30,Last30,2024-07-21T17:37:24Z,2024-11-11T22:52:56Z,CUSTOMER,customer,Organic Search,GH,Company 30,Software Engineer,1,cus_tp0lzjjeget1gh,0e8241f7-fd44-4e63-9ba8-69626582981d
+100221,user1031@taskflow-demo.io,First31,Last31,2024-10-22T23:10:05Z,2025-06-27T12:40:40Z,CHURNED,other,Product Hunt,GB,Company 31,Designer,1,cus_kmkzebbk7w1dak,37920d49-f1a8-417d-9969-a3280ee99608
+100228,user1032@taskflow-demo.io,First32,Last32,2024-03-28T18:56:23Z,2024-05-05T16:01:24Z,CHURNED,other,Product Hunt,NG,Company 32,Analyst,1,cus_ocwbfuk9e1v2is,eb0e58b8-3c15-4c57-90e2-69d220c6172d
+100237,user1033@taskflow-demo.io,First33,Last33,2024-05-25T18:43:28Z,2024-10-15T06:13:11Z,CUSTOMER,customer,Referral,BR,Company 33,CEO,1,cus_v08hhxfgcaqvki,59df24b5-2ef1-4873-ac81-91d4b02fcf33
+100239,user1034@taskflow-demo.io,First34,Last34,2025-03-15T19:45:51Z,2025-04-08T01:40:08Z,CUSTOMER,customer,Linkedin Ads,US,Company 34,Founder,1,cus_wx7ptx63cfl0uk,ecb4f599-6c2c-4226-ab71-3d57208331f1
+100247,user1035@taskflow-demo.io,First35,Last35,2024-05-29T16:23:37Z,2025-03-07T00:40:53Z,CUSTOMER,customer,Organic Search,IN,Company 35,Freelancer,1,cus_cbpljd84u89yjb,2b1d5a70-51a7-4c83-8dea-4b513031a91e
+100255,user1036@taskflow-demo.io,First36,Last36,2024-11-22T09:58:07Z,2025-06-21T00:59:20Z,CUSTOMER,customer,Linkedin Ads,NG,Company 36,Marketing Manager,1,cus_38qoldforxo1bd,a76226a6-f8f2-4c53-9d95-29ae08804603
+100264,user1037@taskflow-demo.io,First37,Last37,2025-01-28T18:58:46Z,2025-02-05T08:47:25Z,CUSTOMER,customer,Linkedin Ads,GB,Company 37,Analyst,1,cus_togn1w1ht7pze9,3fb4b418-a6b8-4405-a4f0-8162daa0fbd5
+100268,user1038@taskflow-demo.io,First38,Last38,2024-12-26T08:04:56Z,2025-06-04T02:20:33Z,CHURNED,other,Google Ads,US,Company 38,CTO,1,cus_qe3rzsj49itn7s,3e2188ad-0a1f-4b29-8200-750a158a226e
+100279,user1039@taskflow-demo.io,First39,Last39,2024-05-15T21:40:45Z,2025-06-17T14:38:24Z,CUSTOMER,customer,Referral,ZA,Company 39,Founder,1,cus_ja04ux5qrl1n75,9d1dfc62-9f83-444c-8fff-a3dfbc4b9589
+100284,user1040@taskflow-demo.io,First40,Last40,2024-07-15T13:34:08Z,2024-10-07T08:02:25Z,CUSTOMER,customer,Google Ads,CA,Company 40,Designer,1,cus_z3nx39rbsv55ps,4f60b48f-01b0-4fcb-aa32-9f002b2a8706
+100293,user1041@taskflow-demo.io,First41,Last41,2024-03-07T07:22:30Z,2025-05-06T06:35:18Z,CUSTOMER,customer,Linkedin Ads,US,Company 41,CEO,1,cus_8myx444nlz15bc,26781901-6364-4a0f-b687-f5e8f2d9aee6
+100299,user1042@taskflow-demo.io,First42,Last42,2024-05-20T14:05:37Z,2024-06-27T14:03:17Z,CHURNED,other,Product Hunt,CA,Company 42,Marketing Manager,1,cus_py6b2knftu2gc5,d5fdf0f1-d51a-4c94-bd09-9808fecfaa4a
+100305,user1043@taskflow-demo.io,First43,Last43,2024-09-06T16:05:02Z,2024-10-01T21:19:35Z,CHURNED,other,Product Hunt,NG,Company 43,Software Engineer,1,cus_y6qktc89k8yqk9,18578563-0955-478c-bce4-1a726d6fa0f6
+100314,user1044@taskflow-demo.io,First44,Last44,2024-07-08T19:14:36Z,2024-09-25T13:59:31Z,CUSTOMER,customer,Organic Search,US,Company 44,Designer,1,cus_9xjuy0bvr6k2vm,a31cfb2f-8ccf-4ef8-a25a-33b3e2754be3
+100320,user1045@taskflow-demo.io,First45,Last45,2024-05-01T23:54:36Z,2024-05-20T05:42:52Z,CUSTOMER,customer,Organic Search,US,Company 45,Freelancer,1,cus_w6xlpu0dk0get8,ec54bcd4-f3d2-4f20-bdd6-5cddbd1710ae
+100323,user1046@taskflow-demo.io,First46,Last46,2024-05-13T08:50:40Z,2024-12-08T03:10:15Z,CUSTOMER,customer,Referral,NG,Company 46,Software Engineer,1,cus_30me8f840982n2,e0ab5aa6-b62f-40b8-a999-2809f58cc285
+100331,user1047@taskflow-demo.io,First47,Last47,2024-02-27T12:24:02Z,2024-08-21T05:14:04Z,CUSTOMER,customer,Linkedin Ads,US,Company 47,CEO,1,cus_37dia5u6hc36ko,30cf2bd1-54f1-4783-a497-55054e73fe1c
+100339,user1048@taskflow-demo.io,First48,Last48,2024-01-16T11:16:29Z,2024-11-19T16:53:23Z,CUSTOMER,customer,Google Ads,GB,Company 48,Software Engineer,1,cus_eqy08p0fodro8b,4b01b2d4-76d4-4aa4-9dec-b278fe32a515
+100345,user1049@taskflow-demo.io,First49,Last49,2024-08-15T06:29:46Z,2024-11-28T05:30:35Z,CUSTOMER,customer,Product Hunt,ZA,Company 49,Freelancer,1,cus_t9moge4qxxva2i,e7d463d6-4c20-4b3f-92ac-a8564f7f9997
+100353,user1050@taskflow-demo.io,First50,Last50,2024-04-10T04:34:34Z,2025-04-18T05:42:15Z,CHURNED,other,Google Ads,CA,Company 50,Founder,1,cus_lf6a4fejgxaa2i,6034b4d4-1ca5-4474-aa2d-abc29508e107
+100361,user1051@taskflow-demo.io,First51,Last51,2024-05-13T04:34:45Z,2025-03-14T07:44:09Z,CUSTOMER,customer,Google Ads,CA,Company 51,Analyst,1,cus_r2sds8b25sq8cr,c1690484-e760-4987-9113-26b2a3beb41a
+100369,user1052@taskflow-demo.io,First52,Last52,2024-02-24T08:52:51Z,2024-04-15T08:59:58Z,CHURNED,other,Linkedin Ads,ZA,Company 52,Freelancer,1,cus_fewvznvksp2ex5,a77c14b3-e387-4a54-9b56-8bb39f8c5adc
+100372,user1053@taskflow-demo.io,First53,Last53,2024-04-17T03:35:26Z,2025-03-01T10:25:51Z,CUSTOMER,customer,Linkedin Ads,ZA,Company 53,CEO,1,cus_o0llj8yrddp0ne,007e807a-b3ee-4248-883b-a886ebfa96ff
+100381,user1054@taskflow-demo.io,First54,Last54,2024-10-12T00:13:18Z,2025-06-17T15:23:56Z,CUSTOMER,customer,Organic Search,US,Company 54,Operations Lead,1,cus_7p6bkldsfr4mue,e0854a27-2cbd-453f-bc49-493d550003d8
+100391,user1055@taskflow-demo.io,First55,Last55,2025-02-12T14:17:12Z,2025-05-23T13:19:06Z,CUSTOMER,customer,Linkedin Ads,US,Company 55,Product Manager,1,cus_yuvxybj17mgfxc,7f7f2bc1-ff30-4bea-abf9-54adf4173249
+100394,user1056@taskflow-demo.io,First56,Last56,2024-01-15T22:00:38Z,2025-01-17T05:18:17Z,CUSTOMER,customer,Google Ads,GB,Company 56,Founder,1,cus_fll7v5f1bcppvo,7a840a0b-6c75-400b-82a3-c539fb517d9b
+100404,user1057@taskflow-demo.io,First57,Last57,2024-02-22T16:58:05Z,2024-12-28T07:57:11Z,CUSTOMER,customer,Google Ads,NG,Company 57,CTO,1,cus_slh9bh811kerpe,8fa60340-4f6a-4b5d-b380-f59019a97945
+100412,user1058@taskflow-demo.io,First58,Last58,2024-09-10T11:06:36Z,2025-01-25T12:01:20Z,CUSTOMER,customer,Organic Search,US,Company 58,Founder,1,cus_0pqclpoxko8g8q,3c2a6b98-3637-4952-ac7c-6cf4b01d7ec6
+100414,user1059@taskflow-demo.io,First59,Last59,2024-02-10T22:11:59Z,2025-03-15T19:07:02Z,CUSTOMER,customer,Linkedin Ads,NG,Company 59,CEO,1,cus_c50h2cwtg1m8xf,062dfc6d-5043-4d98-93e9-9e2be6b3fb61
+100425,user1060@taskflow-demo.io,First60,Last60,2024-04-06T18:12:06Z,2024-08-28T02:06:27Z,CHURNED,other,Google Ads,NG,Company 60,CEO,1,cus_quuy5x9l8lpqw2,596a7fa8-ab55-45a9-a5f7-0ebad3def23e
+100432,user1061@taskflow-demo.io,First61,Last61,2024-09-09T07:57:47Z,2025-03-18T05:31:24Z,CUSTOMER,customer,Google Ads,GB,Company 61,CEO,1,cus_kx9dvnu80b6ugv,cc82fffe-7092-447d-ba2a-71ce3c2c1c40
+100437,user1062@taskflow-demo.io,First62,Last62,2024-01-26T15:37:51Z,2025-04-07T00:00:29Z,CUSTOMER,customer,Linkedin Ads,DE,Company 62,Operations Lead,1,cus_dxbz9svn7n1ybw,45eb943f-5f00-4c0e-a879-983f20abcb94
+100444,user1063@taskflow-demo.io,First63,Last63,2024-02-14T02:54:21Z,2024-10-30T23:16:46Z,CUSTOMER,customer,Organic Search,KE,Company 63,Founder,1,cus_8vfcx7lxxezdux,a7637559-2519-4035-84bd-1c0f1157da81
+100453,user1064@taskflow-demo.io,First64,Last64,2024-12-04T02:41:05Z,2025-03-02T09:25:40Z,CUSTOMER,customer,Organic Search,IN,Company 64,Analyst,1,cus_dysal8m1g9fk2s,c9cd8e3d-cc0e-4884-a7e9-7cf40c963940
+100457,user1065@taskflow-demo.io,First65,Last65,2025-03-24T06:54:52Z,2025-06-18T09:41:59Z,CUSTOMER,customer,Organic Search,US,Company 65,Product Manager,1,cus_vfgyw6zbnz8v12,ff0024b9-dfbf-453e-93fb-745d2af41459
+100467,user1066@taskflow-demo.io,First66,Last66,2024-06-02T14:59:28Z,2025-02-16T16:44:12Z,CHURNED,other,Product Hunt,CA,Company 66,Designer,1,cus_9qkns832ejx5td,19f7e7fc-0633-4f1b-8f70-da67a5069047
+100475,user1067@taskflow-demo.io,First67,Last67,2024-05-18T01:22:25Z,2024-05-31T07:57:53Z,CUSTOMER,customer,Google Ads,NG,Company 67,Designer,1,cus_3d6357oonncild,728324e1-e8a9-4a58-a87d-1b5be134590a
+100478,user1068@taskflow-demo.io,First68,Last68,2025-02-09T02:00:44Z,2025-04-25T21:05:36Z,CUSTOMER,customer,Google Ads,NG,Company 68,Founder,1,cus_31qw6ahf7vp1ie,5612be77-7e9b-4991-8112-f2678452171c
+100488,user1069@taskflow-demo.io,First69,Last69,2025-02-05T18:37:06Z,2025-05-10T02:10:45Z,CUSTOMER,customer,Organic Search,NG,Company 69,Founder,1,cus_twuzkamugysm8t,7456a183-4e68-42d2-92cf-300aac1b35a5
+100496,user1070@taskflow-demo.io,First70,Last70,2024-07-13T14:05:56Z,2024-10-25T10:35:23Z,CUSTOMER,customer,Referral,NG,Company 70,CEO,1,cus_0mcixdu1emmx3y,253ceff3-2319-46bb-a051-a3f99b521d31
+100500,user1071@taskflow-demo.io,First71,Last71,2024-04-03T12:14:55Z,2024-06-20T03:26:04Z,CUSTOMER,customer,Referral,NG,Company 71,Marketing Manager,1,cus_kbhb7s9tj1gm25,d8775e3b-8f57-423c-9149-7fca8cfb65ce
+100510,user1072@taskflow-demo.io,First72,Last72,2025-02-07T09:55:37Z,2025-04-26T00:08:02Z,CUSTOMER,customer,Linkedin Ads,ZA,Company 72,Founder,1,cus_n9rr7s20cv3tlc,6da4ded4-e593-40d1-947a-b058ec912797
+100516,user1073@taskflow-demo.io,First73,Last73,2024-08-13T06:27:38Z,2024-12-01T16:26:55Z,CUSTOMER,customer,Organic Search,GB,Company 73,Marketing Manager,1,cus_b5m9j98cwn2y8f,280d69e6-d8b2-4359-b870-c3682aa30b59
+100522,user1074@taskflow-demo.io,First74,Last74,2024-08-07T11:51:06Z,2024-12-12T02:28:28Z,CUSTOMER,customer,Google Ads,NG,Company 74,CTO,1,cus_nuvy8n1utoxie0,4420029c-98ac-444c-9ba4-2120017a6d9e
+100526,user1075@taskflow-demo.io,First75,Last75,2025-04-12T17:09:12Z,2025-06-13T19:25:21Z,CUSTOMER,customer,Organic Search,NG,Company 75,Product Manager,1,cus_9k6re4q6qdy4lm,c4bbf0ee-8682-497b-83f8-f4226d806187
+100535,user1076@taskflow-demo.io,First76,Last76,2024-05-23T10:04:50Z,2024-09-09T09:02:22Z,CUSTOMER,customer,Referral,ZA,Company 76,Marketing Manager,1,cus_w2sehe2atn2twd,92ed1a9a-9870-4f1e-b072-31d43ac50600
+100540,user1077@taskflow-demo.io,First77,Last77,2024-12-31T14:12:20Z,2025-05-11T16:24:09Z,CUSTOMER,customer,Organic Search,GB,Company 77,Analyst,1,cus_c9xqym52xg8p6b,3a1f2b87-7ae1-4a22-8092-ec54cda2ee92
+100552,user1078@taskflow-demo.io,First78,Last78,2024-06-03T07:00:49Z,2024-10-06T19:12:26Z,CUSTOMER,customer,Google Ads,GH,Company 78,Founder,1,cus_764jwtektsg7fx,ace72e09-e54f-4867-842f-0eaf02bc83c8
+100557,user1079@taskflow-demo.io,First79,Last79,2024-06-21T11:42:51Z,2024-07-17T23:36:10Z,CHURNED,other,Referral,US,Company 79,Freelancer,1,cus_81jhuwb6txki3o,1d367865-a456-4d24-82be-3058dd0315d0
+100564,user1080@taskflow-demo.io,First80,Last80,2024-01-31T02:55:50Z,2024-09-10T19:34:59Z,CUSTOMER,customer,Google Ads,GB,Company 80,Founder,1,cus_f5l9mo1sdieqfb,4fe6c0d1-f0e7-4cb5-9787-23e33a216ed2
+100571,user1081@taskflow-demo.io,First81,Last81,2024-07-27T13:24:43Z,2025-03-26T09:06:46Z,CUSTOMER,customer,Google Ads,ZA,Company 81,Software Engineer,1,cus_ul1rsrla8s8hmb,1be6b9d7-41c9-4d2f-a70d-903cc531acca
+100580,user1082@taskflow-demo.io,First82,Last82,2025-03-02T20:11:24Z,2025-06-27T14:10:35Z,CUSTOMER,customer,Organic Search,GB,Company 82,CEO,1,cus_p501nouhtcs1k9,b1ee4131-79c8-4cf8-9e4d-d4c6c106620c
+100583,user1083@taskflow-demo.io,First83,Last83,2024-03-05T08:58:54Z,2025-02-11T20:40:07Z,CUSTOMER,customer,Product Hunt,KE,Company 83,Software Engineer,1,cus_71hssbelrqvslw,e929f4e0-bf69-4638-b350-50d92187fdfc
+100593,user1084@taskflow-demo.io,First84,Last84,2024-11-06T12:37:28Z,2024-11-18T11:02:10Z,CUSTOMER,customer,Organic Search,GH,Company 84,Analyst,1,cus_tzk3ny9v20yar8,a33a55fd-9e5a-422a-92b8-b06a1cea1dfd
+100601,user1085@taskflow-demo.io,First85,Last85,2025-01-01T10:08:27Z,2025-04-16T23:29:10Z,CUSTOMER,customer,Google Ads,GB,Company 85,CTO,1,cus_1n3iuzgppohswq,8de864eb-fae2-49e5-a6a3-0f68296cd964
+100604,user1086@taskflow-demo.io,First86,Last86,2024-12-23T05:48:16Z,2025-03-23T19:44:01Z,CUSTOMER,customer,Google Ads,NG,Company 86,Designer,1,cus_slg6mm1zxyvgiu,c682fd25-2104-4dd7-bbb9-d1d94de53690
+100610,user1087@taskflow-demo.io,First87,Last87,2024-05-30T06:54:55Z,2024-08-04T19:09:42Z,CUSTOMER,customer,Referral,US,Company 87,Founder,1,cus_ru7zkut6om1fb8,d6ba0b13-1e90-4386-8365-06c53352660b
+100618,user1088@taskflow-demo.io,First88,Last88,2024-08-09T18:36:04Z,2024-09-21T00:02:49Z,CUSTOMER,customer,Organic Search,CA,Company 88,Designer,1,cus_jujd0ib6iidlry,8df4122d-f01b-4a32-be67-44a99402f5c2
+100625,user1089@taskflow-demo.io,First89,Last89,2024-10-02T19:21:13Z,2024-11-15T20:46:33Z,CUSTOMER,customer,Product Hunt,NG,Company 89,Marketing Manager,1,cus_rx1kkc1xi04b7p,899f3301-1012-4f00-b6a9-ed48d83cf442
+100632,user1090@taskflow-demo.io,First90,Last90,2024-01-13T11:09:28Z,2024-02-14T02:20:17Z,CUSTOMER,customer,Product Hunt,KE,Company 90,Analyst,1,cus_875aud9k9tr74q,11ec1245-5aaa-44af-8aa1-17b88994502c
+100640,user1091@taskflow-demo.io,First91,Last91,2024-06-16T05:49:36Z,2024-07-16T08:52:18Z,CHURNED,other,Google Ads,GB,Company 91,Analyst,1,cus_2u1g463sdygfli,c2c2d2f0-6690-4940-897a-d5686d41a4fc
+100649,user1092@taskflow-demo.io,First92,Last92,2024-08-12T00:13:23Z,2025-02-10T05:07:13Z,CUSTOMER,customer,Referral,IN,Company 92,CEO,1,cus_axycelos6zle6k,9796f456-325e-44e9-a0b0-7d53e6ba2476
+100656,user1093@taskflow-demo.io,First93,Last93,2024-03-03T12:37:22Z,2024-09-29T17:11:27Z,CUSTOMER,customer,Linkedin Ads,GB,Company 93,Designer,1,cus_z61231yv2stn7e,badcf06b-7c3b-454c-a7b4-c4d8f5f69b63
+100659,user1094@taskflow-demo.io,First94,Last94,2024-04-06T18:59:55Z,2024-11-18T18:58:59Z,CUSTOMER,customer,Organic Search,NG,Company 94,Founder,1,cus_ehuds3qsqcq30o,608c8c77-b5bf-46ac-ac4c-b5a079fc28dc
+100669,user1095@taskflow-demo.io,First95,Last95,2024-10-23T21:24:49Z,2025-06-09T13:31:26Z,CUSTOMER,customer,Google Ads,GB,Company 95,Designer,1,cus_c69qkgex08n6q7,fcb28c0a-025a-4f3e-9dd9-95a2d9ba6b36
+100674,user1096@taskflow-demo.io,First96,Last96,2024-12-13T00:10:35Z,2025-02-15T18:19:50Z,CUSTOMER,customer,Product Hunt,ZA,Company 96,Software Engineer,1,cus_e9oe9419qzpniq,baff0e8e-b04a-4b1b-bab8-eccb3f644fa0
+100680,user1097@taskflow-demo.io,First97,Last97,2025-04-21T08:12:08Z,2025-05-11T16:09:44Z,CUSTOMER,customer,Referral,CA,Company 97,Freelancer,1,cus_w76icvqy5ibpt1,b6805c6e-23a9-4c79-87e5-9d15d5b7b18c
+100687,user1098@taskflow-demo.io,First98,Last98,2024-05-23T09:27:24Z,2024-11-20T21:55:15Z,CUSTOMER,customer,Google Ads,ZA,Company 98,Freelancer,1,cus_13i59sojuv0gyu,12f93db1-cee7-409f-af8b-c0fd7e89db3c
+100696,user1099@taskflow-demo.io,First99,Last99,2025-04-26T12:53:28Z,2025-06-25T13:02:11Z,CUSTOMER,customer,Organic Search,KE,Company 99,Freelancer,1,cus_okgtii4fqcootn,ca9e1285-e8ff-45a0-88b7-1aa7f49c5f4d
+100702,user1100@taskflow-demo.io,First100,Last100,2024-11-20T00:10:16Z,2025-05-18T14:49:42Z,CUSTOMER,customer,Google Ads,GB,Company 100,Analyst,1,cus_3bnvbc2vyhh6k6,726437c2-ba82-4a46-a3a0-ea623b9d0c40
+100710,user1101@taskflow-demo.io,First101,Last101,2025-01-14T07:49:12Z,2025-04-16T02:41:04Z,CUSTOMER,customer,Google Ads,BR,Company 101,CTO,1,cus_zoilkqxlm5q201,d62c38c5-ea95-4be8-911b-4505674b53dc
+100720,user1102@taskflow-demo.io,First102,Last102,2024-07-08T10:27:05Z,2025-04-08T02:53:04Z,CUSTOMER,customer,Google Ads,NG,Company 102,Operations Lead,1,cus_atvzkhiuit7m1r,f1e8404b-ef40-45c5-a05b-962140869124
+100722,user1103@taskflow-demo.io,First103,Last103,2024-09-05T23:22:19Z,2024-12-09T13:09:59Z,CHURNED,other,Linkedin Ads,US,Company 103,CTO,1,cus_r7txcb48y1o4iz,3087dcbe-81a4-4aca-a513-6cec2f9a99fe
+100729,user1104@taskflow-demo.io,First104,Last104,2024-08-20T12:42:53Z,2025-04-16T15:42:08Z,CUSTOMER,customer,Linkedin Ads,US,Company 104,Operations Lead,1,cus_rratatj9a3y36d,bed0ff42-9df3-41b5-a7a9-13c7f028451f
+100741,user1105@taskflow-demo.io,First105,Last105,2024-04-26T16:56:34Z,2024-10-30T11:06:31Z,CHURNED,other,Google Ads,GB,Company 105,CTO,1,cus_c8qizk3c9xbonr,00ba9c06-8a1e-4ad7-a0d8-36beab957377
+100744,user1106@taskflow-demo.io,First106,Last106,2024-03-25T22:09:52Z,2024-07-03T02:24:53Z,CUSTOMER,customer,Google Ads,DE,Company 106,CEO,1,cus_9967i6yuj7yktx,c2697055-06ec-4e52-b985-9a098d0c894c
+100752,user1107@taskflow-demo.io,First107,Last107,2024-06-06T12:25:19Z,2025-02-13T07:20:39Z,CUSTOMER,customer,Google Ads,NG,Company 107,Freelancer,1,cus_37kuu4ytn02yc0,e85cc268-2541-421f-b3e6-2eba8f398d25
+100758,user1108@taskflow-demo.io,First108,Last108,2024-08-10T09:12:03Z,2025-05-29T18:33:35Z,CUSTOMER,customer,Google Ads,NG,Company 108,Designer,1,cus_v8lw2qitngvn1k,bf4b5e1c-0d83-47e0-a69c-737d0660468e
+100768,user1109@taskflow-demo.io,First109,Last109,2024-02-06T07:42:35Z,2024-04-27T13:16:20Z,CHURNED,other,Google Ads,KE,Company 109,Analyst,1,cus_ldalmjegqtoamd,96551369-a432-405b-abf9-57c063114a14
+100772,user1110@taskflow-demo.io,First110,Last110,2025-03-15T21:44:17Z,2025-05-31T21:47:57Z,CUSTOMER,customer,Linkedin Ads,GH,Company 110,Analyst,1,cus_69ugnekrcpprcj,18f6db41-7ad5-446b-b4d6-e93ea1ea0cbf
+100781,user1111@taskflow-demo.io,First111,Last111,2024-09-05T01:49:32Z,2025-01-02T01:59:09Z,CUSTOMER,customer,Organic Search,NG,Company 111,Marketing Manager,1,cus_8lw2lm349el8hl,bd105e27-18a1-4177-9d00-8fba74e9b637
+100790,user1112@taskflow-demo.io,First112,Last112,2024-05-27T02:34:02Z,2024-09-24T04:03:26Z,CUSTOMER,customer,Organic Search,US,Company 112,CTO,1,cus_lk2n7h9g1a07h2,7871c17e-5381-448d-83dc-e6e992a366b2
+100796,user1113@taskflow-demo.io,First113,Last113,2025-03-05T16:18:01Z,2025-05-25T20:32:09Z,CUSTOMER,customer,Referral,KE,Company 113,Product Manager,1,cus_ixz2c9ros7yt2m,6fec25ce-e945-42cf-80e6-b3116ceca4ae
+100802,user1114@taskflow-demo.io,First114,Last114,2025-04-08T00:55:17Z,2025-06-15T03:41:39Z,CUSTOMER,customer,Google Ads,CA,Company 114,Marketing Manager,1,cus_xb9yo18pajssuu,929a0be7-fc85-49c2-81e0-013550a1b0fb
+100808,user1115@taskflow-demo.io,First115,Last115,2024-08-19T13:39:13Z,2025-01-27T08:49:16Z,CUSTOMER,customer,Referral,US,Company 115,Designer,1,cus_ado8e7flqhrrpz,2cb8b6b5-82bd-4062-a089-ef927938c749
+100817,user1116@taskflow-demo.io,First116,Last116,2024-01-21T01:34:54Z,2024-05-08T04:20:35Z,CUSTOMER,customer,Referral,NG,Company 116,Marketing Manager,1,cus_yf9igfu8iogxpb,f7102b3c-2a36-4241-b937-216f8b0e9ff1
+100823,user1117@taskflow-demo.io,First117,Last117,2024-08-18T20:03:40Z,2025-04-01T12:31:28Z,CHURNED,other,Organic Search,KE,Company 117,Analyst,1,cus_u2tnheyr8lnoem,ac0a5491-1fee-4445-9069-e30842ba07b1
+100828,user1118@taskflow-demo.io,First118,Last118,2025-02-20T01:35:59Z,2025-02-27T10:24:14Z,CUSTOMER,customer,Organic Search,DE,Company 118,CEO,1,cus_ylienfnvuprt77,ea0df53d-4a19-4899-967a-bdd9a7fec944
+100835,user1119@taskflow-demo.io,First119,Last119,2024-09-03T12:59:18Z,2025-06-09T13:22:11Z,CUSTOMER,customer,Google Ads,NG,Company 119,Marketing Manager,1,cus_58rhnuxorzpgu2,862d62bc-3fee-495e-aa1d-0d484ef6b32d
+100846,user1120@taskflow-demo.io,First120,Last120,2024-05-17T07:53:40Z,2025-05-03T09:17:12Z,CUSTOMER,customer,Google Ads,GH,Company 120,Product Manager,1,cus_1rsujt9t11php0,69c7de0e-77d6-4df4-9730-ee039cdae880
+100852,user1121@taskflow-demo.io,First121,Last121,2024-05-26T11:37:01Z,2024-12-14T07:56:12Z,CUSTOMER,customer,Referral,NG,Company 121,Freelancer,1,cus_d5e3h0y4vpw232,64c8f2c9-3223-4fe8-833e-c5224a617291
+100857,user1122@taskflow-demo.io,First122,Last122,2024-05-17T08:40:42Z,2025-05-12T18:24:16Z,CUSTOMER,customer,Organic Search,NG,Company 122,Founder,1,cus_u8s63e1ocjxzef,b271b998-0f20-4f80-af0b-2956bc07b347
+100862,user1123@taskflow-demo.io,First123,Last123,2025-01-20T19:12:50Z,2025-02-15T22:01:57Z,CUSTOMER,customer,Referral,KE,Company 123,Analyst,1,cus_wnc21o0z5qru54,81e5f83a-4a74-40e8-a605-c553c6efd4b3
+100872,user1124@taskflow-demo.io,First124,Last124,2024-08-21T23:34:39Z,2025-03-17T18:33:48Z,CUSTOMER,customer,Organic Search,US,Company 124,Software Engineer,1,cus_o83rlkte4261bw,3fdb1bfd-5fb9-4adc-bccf-65a225619dc8
+100881,user1125@taskflow-demo.io,First125,Last125,2025-04-19T08:33:55Z,2025-04-21T12:53:15Z,CUSTOMER,customer,Referral,GB,Company 125,Operations Lead,1,cus_hyexf7jxjn6fok,93c580ac-7e27-484d-ac38-436fec63ee47
+100885,user1126@taskflow-demo.io,First126,Last126,2024-08-02T21:51:24Z,2025-02-19T07:46:49Z,CUSTOMER,customer,Organic Search,US,Company 126,Analyst,1,cus_eiyaz39pecn0dl,60ff5abd-7da5-4ab2-bb1b-2c2778299464
+100895,user1127@taskflow-demo.io,First127,Last127,2025-01-24T15:55:07Z,2025-04-03T12:13:15Z,CUSTOMER,customer,Referral,ZA,Company 127,Marketing Manager,1,cus_cuvfmh07wph6fe,fc6c2e89-eed5-4057-ac46-b1ca0a33457f
+100898,user1128@taskflow-demo.io,First128,Last128,2024-08-04T11:10:11Z,2024-11-15T03:31:01Z,CHURNED,other,Google Ads,NG,Company 128,CEO,1,cus_vzk7a45hvgox22,6c388762-0c3f-494a-88b3-e215bade85c4
+100904,user1129@taskflow-demo.io,First129,Last129,2024-02-27T08:35:36Z,2024-10-06T19:44:57Z,CUSTOMER,customer,Google Ads,US,Company 129,Software Engineer,1,cus_amln4ptgq9cvah,2db45d77-a364-4c33-84a8-80a6ebbff3b1
+100911,user1130@taskflow-demo.io,First130,Last130,2024-07-18T06:13:55Z,2025-01-24T11:28:59Z,CUSTOMER,customer,Organic Search,US,Company 130,Operations Lead,1,cus_zctwjlsh3tow4y,5f90c6d9-95c6-438d-b1a8-95f09342bad9
+100920,user1131@taskflow-demo.io,First131,Last131,2024-08-08T03:43:15Z,2024-11-01T17:12:25Z,CHURNED,other,Organic Search,DE,Company 131,CTO,1,cus_ewbxxgaearms3j,56758a1e-db52-40b8-b940-e8a6a7404376
+100930,user1132@taskflow-demo.io,First132,Last132,2025-02-02T09:11:52Z,2025-05-24T08:54:30Z,CUSTOMER,customer,Referral,US,Company 132,Founder,1,cus_mpsj9wrsb4gf16,47a8b860-a191-4082-aa30-65855d930835
+100934,user1133@taskflow-demo.io,First133,Last133,2024-04-24T02:08:24Z,2024-11-12T02:20:36Z,CHURNED,other,Organic Search,NG,Company 133,CEO,1,cus_qnf74t60plozjc,401c7c37-cb4a-4776-9952-9b593cbf9688
+100942,user1134@taskflow-demo.io,First134,Last134,2024-12-03T00:58:03Z,2025-04-23T13:02:46Z,CUSTOMER,customer,Product Hunt,NG,Company 134,Designer,1,cus_8cqk4ltahukwqv,5de01c01-4872-4fc2-b79c-72257b7476ec
+100946,user1135@taskflow-demo.io,First135,Last135,2025-01-30T14:58:03Z,2025-04-07T05:19:03Z,CHURNED,other,Google Ads,ZA,Company 135,Marketing Manager,1,cus_7atwyam1n0lh9p,6e7b7f03-652d-491a-a12e-d8b58b9c741e
+100955,user1136@taskflow-demo.io,First136,Last136,2024-03-12T15:50:59Z,2025-01-28T21:08:50Z,CUSTOMER,customer,Organic Search,NG,Company 136,Marketing Manager,1,cus_szn9dde3cup8ij,cad2f92d-b30a-4445-885a-9a20888fb847
+100965,user1137@taskflow-demo.io,First137,Last137,2024-07-14T18:55:34Z,2024-11-29T21:48:42Z,CHURNED,other,Organic Search,US,Company 137,Analyst,1,cus_7e1ddqlem1qq4d,b7b1d954-0905-4d47-9a44-723d2bc7a45c
+100968,user1138@taskflow-demo.io,First138,Last138,2024-12-23T09:40:41Z,2025-04-07T15:51:37Z,CUSTOMER,customer,Organic Search,NG,Company 138,Founder,1,cus_dimsyj9boq0iq2,bf69eb9c-3e97-4d69-b320-6f8d80c7edac
+100974,user1139@taskflow-demo.io,First139,Last139,2024-01-31T21:35:20Z,2025-06-12T03:36:24Z,CUSTOMER,customer,Referral,BR,Company 139,Software Engineer,1,cus_nwxuj3ac6pe63l,f6dc302b-06da-4725-ba3c-af2759ee95dd
+100983,user1140@taskflow-demo.io,First140,Last140,2024-01-26T21:46:27Z,2024-03-19T05:16:17Z,CUSTOMER,customer,Google Ads,US,Company 140,Analyst,1,cus_byghgk5bwikotc,3f191382-6c48-4440-8996-dd363b459c10
+100990,user1141@taskflow-demo.io,First141,Last141,2024-08-01T17:43:59Z,2024-11-27T15:39:45Z,CUSTOMER,customer,Google Ads,ZA,Company 141,Software Engineer,1,cus_2292mtr6snglh6,74957c97-164c-426f-b132-657e0a5bd459
+100999,user1142@taskflow-demo.io,First142,Last142,2024-08-27T21:09:33Z,2024-12-29T02:36:46Z,CUSTOMER,customer,Organic Search,CA,Company 142,Freelancer,1,cus_dxj37c9h42m44g,77770188-46d8-4e01-9a74-640a9c38282a
+101006,user1143@taskflow-demo.io,First143,Last143,2025-01-08T03:06:33Z,2025-06-24T08:35:22Z,CUSTOMER,customer,Organic Search,ZA,Company 143,Software Engineer,1,cus_8uug95rlrdihsa,d4d53aa7-3a73-47b4-ac28-ae66d882c8ab
+101014,user1144@taskflow-demo.io,First144,Last144,2024-03-03T21:50:47Z,2025-03-18T14:33:21Z,CUSTOMER,customer,Google Ads,NG,Company 144,Freelancer,1,cus_cfzfdsnczxvml9,17a6af28-e71b-4a20-8ed1-3b691e41d988
+101020,user1145@taskflow-demo.io,First145,Last145,2025-02-07T21:09:58Z,2025-02-09T17:58:45Z,CUSTOMER,customer,Organic Search,GB,Company 145,Founder,1,cus_u6wmx3n0kgazu4,de8f2a31-ee3d-41d1-a147-5f8d39f2f1c4
+101028,user1146@taskflow-demo.io,First146,Last146,2024-10-28T15:46:14Z,2025-01-12T15:22:10Z,CUSTOMER,customer,Google Ads,DE,Company 146,Software Engineer,1,cus_drlcmlw83y0mah,d3fc4e57-9d4b-4517-909c-ab405ecaee8f
+101030,user1147@taskflow-demo.io,First147,Last147,2024-05-07T07:29:33Z,2025-01-26T17:03:18Z,CUSTOMER,customer,Referral,US,Company 147,Freelancer,1,cus_pfo5mn32u1iq2b,d06cd375-be90-4fda-9ccd-1ca2fd8464bc
+101042,user1148@taskflow-demo.io,First148,Last148,2024-02-23T10:25:04Z,2025-06-24T13:21:34Z,CUSTOMER,customer,Google Ads,NG,Company 148,Software Engineer,1,cus_t6dvwrb7f6fdhg,4cc13c8f-f097-4f2a-b6f2-b7eb919b2afb
+101044,user1149@taskflow-demo.io,First149,Last149,2025-04-11T11:23:50Z,2025-06-21T02:20:32Z,CHURNED,other,Organic Search,NG,Company 149,Designer,1,cus_otrbad3wrdhw9r,fd762a4a-22b1-4e63-a281-257777eb6d39
+101054,user1150@taskflow-demo.io,First150,Last150,2024-07-19T05:44:41Z,2024-09-10T21:16:44Z,CUSTOMER,customer,Linkedin Ads,ZA,Company 150,Software Engineer,1,cus_nnngbpj4ufzdy3,079e45e2-27d6-442c-bb1e-79063ed8db34
+101061,user1151@taskflow-demo.io,First151,Last151,2024-10-23T23:01:42Z,2024-12-15T11:45:09Z,CUSTOMER,customer,Google Ads,NG,Company 151,CTO,1,cus_8y7uiko4busu9f,820a101d-539a-424c-a9ec-7d3a10fc5d52
+101065,user1152@taskflow-demo.io,First152,Last152,2024-03-21T15:31:46Z,2024-10-09T20:47:57Z,CUSTOMER,customer,Product Hunt,DE,Company 152,Freelancer,1,cus_9p9w4j66cnoljq,3aa8e5cd-a20d-4a53-be9f-1715ae055665
+101074,user1153@taskflow-demo.io,First153,Last153,2024-11-09T15:55:57Z,2025-04-02T12:31:47Z,CUSTOMER,customer,Organic Search,CA,Company 153,CTO,1,cus_v177udktmonrvb,d930f6f2-f8b6-46cc-a74f-40187df4f3ad
+101084,user1154@taskflow-demo.io,First154,Last154,2024-11-08T12:43:45Z,2025-06-17T14:13:10Z,CUSTOMER,customer,Organic Search,US,Company 154,Freelancer,1,cus_li076a3kkrzd5e,62f51666-5dcf-462b-b702-7f277136b3f3
+101087,user1155@taskflow-demo.io,First155,Last155,2025-02-26T15:34:03Z,2025-05-30T20:16:54Z,CUSTOMER,customer,Google Ads,US,Company 155,Marketing Manager,1,cus_h30153sflse45b,19811276-d72d-4454-b52b-2598d7059b5f
+101095,user1156@taskflow-demo.io,First156,Last156,2024-04-11T09:14:24Z,2024-05-05T18:20:39Z,CUSTOMER,customer,Referral,NG,Company 156,CEO,1,cus_zj3swebnvg5vmf,c0c51416-cceb-4335-b1a5-e6ab8269a950
+101101,user1157@taskflow-demo.io,First157,Last157,2024-12-14T16:00:23Z,2025-04-20T02:43:52Z,CUSTOMER,customer,Google Ads,NG,Company 157,Product Manager,1,cus_2hhihxs58yreg2,e195d24b-a73b-42df-92ad-b3ab4bc27168
+101112,user1158@taskflow-demo.io,First158,Last158,2025-02-16T13:29:46Z,2025-03-23T09:57:27Z,CUSTOMER,customer,Product Hunt,US,Company 158,Software Engineer,1,cus_4qhkswva984uvk,f8c532dc-05a5-444c-8dfe-f1031e3b9e7d
+101119,user1159@taskflow-demo.io,First159,Last159,2024-02-02T12:38:31Z,2024-03-10T21:15:49Z,CHURNED,other,Google Ads,NG,Company 159,Software Engineer,1,cus_gsic43olfark6o,75173790-5476-44af-b639-dbf78c0ba3cb
+101122,user1160@taskflow-demo.io,First160,Last160,2024-12-25T14:18:03Z,2025-04-29T13:38:49Z,CUSTOMER,customer,Product Hunt,DE,Company 160,Analyst,1,cus_ywr7mkgxukq00u,00bd12d1-01c3-41c0-9bc3-b2faab82cc8e
+101131,user1161@taskflow-demo.io,First161,Last161,2025-03-29T03:42:57Z,2025-06-12T06:09:22Z,CUSTOMER,customer,Google Ads,NG,Company 161,CTO,1,cus_l2ljk4q5v7c6s5,08a79ab7-2b2d-4dff-9de6-187ba0f0d899
+101139,user1162@taskflow-demo.io,First162,Last162,2024-07-26T03:03:47Z,2025-06-12T18:53:15Z,CHURNED,other,Google Ads,ZA,Company 162,Software Engineer,1,cus_969f5gcl9lcqh1,e8afd699-a70d-4d12-b21f-94d3635959c8
+101144,user1163@taskflow-demo.io,First163,Last163,2024-09-02T01:36:45Z,2025-02-08T19:48:09Z,CUSTOMER,customer,Referral,CA,Company 163,Software Engineer,1,cus_pprat0861taa0i,e0af64f6-054b-4736-a3fc-04e38db8564e
+101150,user1164@taskflow-demo.io,First164,Last164,2024-02-18T12:00:46Z,2024-10-16T18:51:49Z,CUSTOMER,customer,Linkedin Ads,US,Company 164,Freelancer,1,cus_kk0vm59m6mg87o,b9f0161b-bd98-4112-bd97-c58217440791
+101157,user1165@taskflow-demo.io,First165,Last165,2024-03-04T08:59:56Z,2024-08-03T19:46:40Z,CHURNED,other,Google Ads,NG,Company 165,CEO,1,cus_nx1wvbd4bepejz,16ec1a25-1785-462c-bafd-4b223c8fb56b
+101166,user1166@taskflow-demo.io,First166,Last166,2024-11-15T01:33:06Z,2025-03-29T19:38:37Z,CUSTOMER,customer,Google Ads,GB,Company 166,Operations Lead,1,cus_wzp6swk2rv239m,78940e24-3d20-4d9c-9294-48af88f97a28
+101172,user1167@taskflow-demo.io,First167,Last167,2024-01-18T03:51:27Z,2024-05-12T08:43:28Z,CUSTOMER,customer,Organic Search,ZA,Company 167,Software Engineer,1,cus_iaddur82c06xq9,188ad4e4-8934-4776-9832-8b1f0e3907b3
+101179,user1168@taskflow-demo.io,First168,Last168,2024-02-17T17:17:52Z,2025-03-19T00:23:55Z,CUSTOMER,customer,Referral,ZA,Company 168,Founder,1,cus_ype46aexl68j0n,eac1fbc0-ea48-4687-84f4-8b7a28617f1a
+101186,user1169@taskflow-demo.io,First169,Last169,2024-07-19T13:42:19Z,2025-05-14T14:45:27Z,CUSTOMER,customer,Linkedin Ads,GB,Company 169,Freelancer,1,cus_rp5ge094d6rupw,4f1a6ebf-ea85-40f8-97d7-53e9faf155f1
+101196,user1170@taskflow-demo.io,First170,Last170,2025-03-14T07:08:29Z,2025-06-28T18:44:37Z,CUSTOMER,customer,Organic Search,DE,Company 170,CEO,1,cus_eobjlzy1uu9yms,ee1fcf9e-b40b-4ff6-ae8c-f792f3e5a413
+101198,user1171@taskflow-demo.io,First171,Last171,2024-08-07T02:30:06Z,2024-09-29T01:18:17Z,CUSTOMER,customer,Organic Search,NG,Company 171,Product Manager,1,cus_n4u9bxf445cri8,ecd57e37-2769-4fa3-a4dc-f92e92a63b14
+101207,user1172@taskflow-demo.io,First172,Last172,2024-10-06T15:30:13Z,2025-06-16T18:18:12Z,CUSTOMER,customer,Organic Search,KE,Company 172,Analyst,1,cus_2q4qerxdouadvw,1e6a7a93-8ed7-4671-9d81-c5bbd6fd037f
+101214,user1173@taskflow-demo.io,First173,Last173,2024-10-10T04:48:03Z,2024-11-19T20:27:50Z,CUSTOMER,customer,Google Ads,US,Company 173,CEO,1,cus_biquwrxze1hm38,d87daa7c-86c3-4a1e-8835-53fc7f66abd7
+101222,user1174@taskflow-demo.io,First174,Last174,2024-07-08T06:55:38Z,2025-04-08T15:29:27Z,CHURNED,other,Organic Search,NG,Company 174,CTO,1,cus_dvg7oq2zdo74v1,3df42e71-f49d-488f-b985-700ad8a98f57
+101229,user1175@taskflow-demo.io,First175,Last175,2024-10-25T20:10:40Z,2025-06-21T03:34:13Z,CUSTOMER,customer,Product Hunt,NG,Company 175,Product Manager,1,cus_b74rs7gu0env5s,cdd1222f-d4c5-4e9f-8116-be99f40676b4
+101235,user1176@taskflow-demo.io,First176,Last176,2024-11-03T06:22:36Z,2024-11-25T03:10:06Z,CUSTOMER,customer,Product Hunt,CA,Company 176,Operations Lead,1,cus_8qeoz0kz4z7whw,5bfb7248-b079-4a6e-9438-0d680030e268
+101244,user1177@taskflow-demo.io,First177,Last177,2025-04-15T02:12:39Z,2025-06-22T02:49:17Z,CUSTOMER,customer,Organic Search,BR,Company 177,CEO,1,cus_sylemruyp04k43,ad8bf2a5-ad1b-48db-82bd-ce116b88b40d
+101251,user1178@taskflow-demo.io,First178,Last178,2024-07-10T19:36:37Z,2024-11-12T01:06:03Z,CUSTOMER,customer,Google Ads,US,Company 178,Operations Lead,1,cus_fkj4yk1b3d5050,14da8877-123b-4d45-b38d-a6f23c705477
+101259,user1179@taskflow-demo.io,First179,Last179,2024-09-12T20:34:51Z,2024-12-08T01:56:39Z,CUSTOMER,customer,Referral,CA,Company 179,Founder,1,cus_7n89ltajw2536z,2f767534-4a21-4d50-bab3-0cb32e9386fb
+101262,user1180@taskflow-demo.io,First180,Last180,2024-10-28T16:18:41Z,2025-05-15T04:33:40Z,CUSTOMER,customer,Organic Search,US,Company 180,Operations Lead,1,cus_kgyggsnpuevjlz,3fffa8f2-1e0e-4c8c-a2e5-8e5a573827d6
+101269,user1181@taskflow-demo.io,First181,Last181,2025-04-17T20:22:46Z,2025-04-20T20:40:22Z,CUSTOMER,customer,Google Ads,NG,Company 181,Founder,1,cus_xrum2lhgcsotdh,f317920e-b536-404b-9e72-6766cd13ec4a
+101278,user1182@taskflow-demo.io,First182,Last182,2024-06-16T22:34:20Z,2024-11-09T11:05:37Z,CUSTOMER,customer,Linkedin Ads,NG,Company 182,Founder,1,cus_939ayq6ww8yl68,42ae42e6-8c05-455e-8b84-a09a2adaaae6
+101287,user1183@taskflow-demo.io,First183,Last183,2025-01-05T04:58:07Z,2025-04-15T07:46:15Z,CUSTOMER,customer,Google Ads,ZA,Company 183,Product Manager,1,cus_2qb6gs8g8tacy1,c2f5b66d-deeb-4e5c-93a8-97dd1f8f077d
+101292,user1184@taskflow-demo.io,First184,Last184,2024-02-16T00:21:01Z,2024-11-14T16:56:12Z,CUSTOMER,customer,Google Ads,DE,Company 184,Designer,1,cus_p3cyazbcgjc36o,7e7b149c-bd29-45b2-a23a-3a53a0104379
+101297,user1185@taskflow-demo.io,First185,Last185,2024-08-07T15:49:23Z,2025-04-12T22:45:28Z,CHURNED,other,Google Ads,KE,Company 185,Operations Lead,1,cus_c0b4mskyvk7n3b,8aa5a2dd-4f81-4119-bf02-0ceaede47795
+101303,user1186@taskflow-demo.io,First186,Last186,2024-03-07T21:33:53Z,2025-02-01T05:54:20Z,CUSTOMER,customer,Organic Search,CA,Company 186,Designer,1,cus_wk585x8a5fbuot,4c1fdd59-a4dc-41cf-9468-026348e8e1b4
+101315,user1187@taskflow-demo.io,First187,Last187,2025-01-13T21:21:18Z,2025-06-02T02:21:42Z,CUSTOMER,customer,Organic Search,US,Company 187,Designer,1,cus_4fgwjeyub19txc,d86a6b16-8b56-4eb8-b5d8-03aa8e8b6294
+101319,user1188@taskflow-demo.io,First188,Last188,2024-02-20T14:30:00Z,2024-06-23T15:29:44Z,CUSTOMER,customer,Google Ads,US,Company 188,Operations Lead,1,cus_yikcgrlxyfu38g,266bebb9-00eb-4a9c-ba38-5c5e9ff71e48
+101329,user1189@taskflow-demo.io,First189,Last189,2024-04-20T01:22:23Z,2025-01-16T23:46:14Z,CUSTOMER,customer,Organic Search,US,Company 189,Operations Lead,1,cus_ylrq1rdxck36h0,0c683c27-70b3-4bff-b632-ce4eb0e552e2
+101335,user1190@taskflow-demo.io,First190,Last190,2024-02-07T21:17:34Z,2024-04-08T09:39:23Z,CUSTOMER,customer,Referral,DE,Company 190,Operations Lead,1,cus_u1hbj6txfo6v4e,022a0b0d-c2f3-4a8b-9c83-1845df26a12f
+101340,user1191@taskflow-demo.io,First191,Last191,2024-07-17T02:48:03Z,2024-08-22T23:51:22Z,CUSTOMER,customer,Linkedin Ads,NG,Company 191,Designer,1,cus_9y1ffuu5f07b1i,2d50beb5-90d8-476a-9038-15ca2a70e911
+101345,user1192@taskflow-demo.io,First192,Last192,2024-01-21T21:02:23Z,2024-02-14T08:03:46Z,CUSTOMER,customer,Organic Search,GB,Company 192,Analyst,1,cus_75bxd8wj0uunnv,c2e845bd-6b99-4b40-924c-76d1d7acecd5
+101355,user1193@taskflow-demo.io,First193,Last193,2024-07-10T05:45:19Z,2025-05-09T09:55:20Z,CUSTOMER,customer,Product Hunt,NG,Company 193,Analyst,1,cus_m25a5piskffv3x,04f81ab4-8ef2-48d4-8640-359b2b519888
+101364,user1194@taskflow-demo.io,First194,Last194,2024-12-29T19:34:26Z,2025-02-01T15:06:25Z,CUSTOMER,customer,Google Ads,US,Company 194,CTO,1,cus_xoieves6ff7so8,9eaa07c9-db36-4f7b-8011-d5baf9805c92
+101367,user1195@taskflow-demo.io,First195,Last195,2025-01-03T11:33:00Z,2025-06-13T18:12:49Z,CUSTOMER,customer,Organic Search,DE,Company 195,Designer,1,cus_95g3v23gxj0mqv,524a93b9-a1c5-4aa4-8d15-8bc3d97a2d82
+101378,user1196@taskflow-demo.io,First196,Last196,2024-03-02T05:01:34Z,2025-02-14T02:07:29Z,CUSTOMER,customer,Google Ads,NG,Company 196,CEO,1,cus_pfdrwb2serev36,4f5353e5-23b0-4127-9833-c12f2bbc8f79
+101384,user1197@taskflow-demo.io,First197,Last197,2024-09-23T21:36:32Z,2024-12-24T07:39:59Z,CUSTOMER,customer,Linkedin Ads,ZA,Company 197,Freelancer,1,cus_7r1m264upj16dv,a0114f31-30e5-458b-850a-b31f54477a01
+101388,user1198@taskflow-demo.io,First198,Last198,2024-04-06T03:16:29Z,2025-06-05T12:05:06Z,CUSTOMER,customer,Google Ads,CA,Company 198,CTO,1,cus_snh2odpvjtuw9o,37d79ac2-3d98-433f-bfc5-552ae3d756f8
+101398,user1199@taskflow-demo.io,First199,Last199,2025-02-03T16:48:08Z,2025-02-18T05:35:35Z,CUSTOMER,customer,Organic Search,NG,Company 199,CEO,1,cus_9u1oe5ei28ds22,842a9fa5-2ead-44dc-a1a3-2f440930b456
+101402,user1200@taskflow-demo.io,First200,Last200,2024-12-24T10:02:41Z,2025-01-17T23:13:57Z,CUSTOMER,customer,Google Ads,KE,Company 200,Software Engineer,1,cus_3qvdjnv07oxk8c,ed61985f-ac7d-40ea-9081-806860857e95
+101409,user1201@taskflow-demo.io,First201,Last201,2024-08-11T20:23:09Z,2025-04-27T05:08:45Z,CUSTOMER,customer,Google Ads,ZA,Company 201,Designer,1,cus_h2szwymx9djoyo,05a7bdcd-9a3a-4e99-8cf0-24e8dca7a242
+101415,user1202@taskflow-demo.io,First202,Last202,2025-01-12T20:22:42Z,2025-06-07T02:21:25Z,CUSTOMER,customer,Organic Search,ZA,Company 202,Marketing Manager,1,cus_uum3i8qoagsusm,c351fd3c-9c2f-4019-acc4-5136605f8e7d
+101423,user1203@taskflow-demo.io,First203,Last203,2024-05-05T15:47:33Z,2024-05-18T18:45:07Z,CUSTOMER,customer,Referral,DE,Company 203,CTO,1,cus_8u118qqvaecw9y,5dbbe00d-adde-4aab-aa31-aab47eb27217
+101430,user1204@taskflow-demo.io,First204,Last204,2024-07-24T08:26:11Z,2025-03-22T12:40:33Z,CUSTOMER,customer,Product Hunt,GB,Company 204,Marketing Manager,1,cus_idy3c7rm6j8y6r,773cfcd0-7c3a-46e3-9902-6e9fdf072942
+101440,user1205@taskflow-demo.io,First205,Last205,2024-05-01T16:59:16Z,2024-06-01T20:24:43Z,CHURNED,other,Referral,NG,Company 205,Freelancer,1,cus_m2ec8ra484nl65,86cb203f-2d38-4cfe-8645-5ec8d79593bc
+101448,user1206@taskflow-demo.io,First206,Last206,2024-09-05T23:57:05Z,2025-06-23T13:44:29Z,CUSTOMER,customer,Google Ads,CA,Company 206,Freelancer,1,cus_1esp7bm41qesla,b6225f09-6ccc-453f-b215-3fa5fed36e78
+101450,user1207@taskflow-demo.io,First207,Last207,2024-10-19T21:07:10Z,2025-01-04T06:04:45Z,CHURNED,other,Google Ads,KE,Company 207,Founder,1,cus_iqwnrhzn4kgeui,021dc990-5938-4cce-aa51-469773a5907d
+101458,user1208@taskflow-demo.io,First208,Last208,2025-02-11T20:29:43Z,2025-04-07T01:44:41Z,CHURNED,other,Google Ads,GB,Company 208,CEO,1,cus_rape6wtlrj4bdf,fc2e8e1b-34fe-44e9-9add-e704623aa369
+101467,user1209@taskflow-demo.io,First209,Last209,2024-08-29T03:52:19Z,2024-12-29T11:50:24Z,CHURNED,other,Referral,NG,Company 209,Software Engineer,1,cus_u7jae58huxg2my,b4eecf2a-28dc-4555-9b77-112a225b5393
+101473,user1210@taskflow-demo.io,First210,Last210,2024-08-16T13:13:36Z,2025-02-14T04:12:59Z,CUSTOMER,customer,Referral,KE,Company 210,Software Engineer,1,cus_fg3mwu4cfilkjx,5d9ff34c-ed1f-46fd-94a6-35ae94e475c3
+101481,user1211@taskflow-demo.io,First211,Last211,2025-01-31T03:39:52Z,2025-04-12T15:39:46Z,CUSTOMER,customer,Referral,KE,Company 211,Analyst,1,cus_oga0x7zcgdc5ta,8aa56870-74ff-4405-87a0-65f6fd686bb4
+101489,user1212@taskflow-demo.io,First212,Last212,2024-02-10T15:46:03Z,2024-08-04T04:18:25Z,CUSTOMER,customer,Google Ads,US,Company 212,CTO,1,cus_oi0pesgbm65q57,85a4d85c-dba0-4ae6-b344-0838cd43ec12
+101493,user1213@taskflow-demo.io,First213,Last213,2025-04-28T10:41:15Z,2025-05-22T01:33:33Z,CUSTOMER,customer,Organic Search,NG,Company 213,Marketing Manager,1,cus_wusxlmt2pnjka3,c4a1b736-fee9-4a6d-8128-319c92ee19ba
+101499,user1214@taskflow-demo.io,First214,Last214,2024-08-28T15:24:56Z,2024-12-10T12:30:03Z,CUSTOMER,customer,Organic Search,US,Company 214,Operations Lead,1,cus_k12v2tg5pizx3h,2812adc6-79b5-48f5-a4ff-e73b01262d95
+101510,user1215@taskflow-demo.io,First215,Last215,2024-04-26T13:07:04Z,2024-10-22T05:55:19Z,CUSTOMER,customer,Organic Search,CA,Company 215,Product Manager,1,cus_jxtjgcedqqzrlf,15ae9e68-dfe8-4c9a-96f3-bcca8cb9d615
+101516,user1216@taskflow-demo.io,First216,Last216,2024-02-22T07:43:22Z,2025-06-30T05:16:52Z,CHURNED,other,Google Ads,NG,Company 216,CTO,1,cus_frml29q2l48c1c,0471aec1-f70a-40d8-aae5-a858bcb30d3a
+101525,user1217@taskflow-demo.io,First217,Last217,2025-04-01T08:29:23Z,2025-04-21T01:18:42Z,CUSTOMER,customer,Referral,DE,Company 217,Product Manager,1,cus_n9i9h0dxho87f0,e93c09c9-3994-455a-9cd4-1812c4de071d
+101528,user1218@taskflow-demo.io,First218,Last218,2024-09-21T10:38:01Z,2024-11-02T12:06:17Z,CUSTOMER,customer,Google Ads,GB,Company 218,Designer,1,cus_by9ipa2voi8uyy,8fb77b55-bec9-4bda-a9d7-f7ffb4f28b1e
+101534,user1219@taskflow-demo.io,First219,Last219,2024-02-10T07:15:08Z,2025-05-23T11:39:15Z,CUSTOMER,customer,Google Ads,GB,Company 219,Designer,1,cus_81cmftdrluxm60,2f864161-5728-4952-86ba-dfb086b15d72
+101545,user1220@taskflow-demo.io,First220,Last220,2024-06-27T19:54:36Z,2024-08-13T17:56:41Z,CUSTOMER,customer,Organic Search,NG,Company 220,Software Engineer,1,cus_utrutlq5v4ftq3,4bd6cd9e-818c-4ca3-abeb-c6d3f6b92c8b
+101548,user1221@taskflow-demo.io,First221,Last221,2024-01-01T08:16:23Z,2024-08-01T09:22:02Z,CUSTOMER,customer,Referral,GB,Company 221,Analyst,1,cus_wnwlc83gy1fkol,82038f1b-b219-4835-b87c-626df88a5830
+101555,user1222@taskflow-demo.io,First222,Last222,2024-01-28T02:46:32Z,2024-05-21T01:04:37Z,CHURNED,other,Google Ads,IN,Company 222,Product Manager,1,cus_rdu4xszjnvc7hr,241c16a1-54e9-4cab-971f-c7d4e5ea52c1
+101563,user1223@taskflow-demo.io,First223,Last223,2024-11-16T10:37:39Z,2025-01-31T04:37:58Z,CUSTOMER,customer,Google Ads,US,Company 223,Product Manager,1,cus_nz3jbck88d0tgs,000afff8-8cbe-4686-ac69-7dc1e68ad78e
+101571,user1224@taskflow-demo.io,First224,Last224,2025-04-24T15:33:38Z,2025-06-26T17:24:59Z,CUSTOMER,customer,Google Ads,CA,Company 224,Freelancer,1,cus_mqx5ggomf9pml9,633cfcfb-b74c-4e5d-8c68-e1f8acb5a82f
+101578,user1225@taskflow-demo.io,First225,Last225,2024-07-25T04:46:59Z,2025-03-24T15:20:02Z,CUSTOMER,customer,Referral,GB,Company 225,Software Engineer,1,cus_uh17j8qo09vs9k,f3a759b1-1584-4d22-9486-863e2d487af1
+101584,user1226@taskflow-demo.io,First226,Last226,2024-04-18T18:08:28Z,2025-02-08T03:52:43Z,CUSTOMER,customer,Referral,NG,Company 226,Operations Lead,1,cus_jtu7fbmenui3do,52a2e5b3-2b0d-47fe-8c2b-bf30790e2afa
+101591,user1227@taskflow-demo.io,First227,Last227,2024-12-31T02:34:34Z,2025-06-20T01:30:34Z,CUSTOMER,customer,Google Ads,GB,Company 227,Analyst,1,cus_z3dxb3n27m5p7e,c66d6c1a-fe08-4912-a245-bc0b8dd0ec9c
+101600,user1228@taskflow-demo.io,First228,Last228,2025-03-08T09:25:44Z,2025-06-27T18:17:06Z,CUSTOMER,customer,Organic Search,NG,Company 228,Software Engineer,1,cus_kbtfshb0oqvshk,4d19a24a-9697-472f-be15-4cd94fe5933a
+101606,user1229@taskflow-demo.io,First229,Last229,2024-06-16T12:09:43Z,2024-08-31T06:37:49Z,CUSTOMER,customer,Google Ads,US,Company 229,Operations Lead,1,cus_ds1eeurxhw0ic1,3937551c-74cf-4dd2-8dfe-57f91ec0637c
+101611,user1230@taskflow-demo.io,First230,Last230,2024-10-16T14:08:38Z,2024-10-23T03:32:02Z,CUSTOMER,customer,Google Ads,US,Company 230,Product Manager,1,cus_lvak9w9pfb3hn1,e542bc3f-ed8f-415e-8526-d62a76ca8393
+101623,user1231@taskflow-demo.io,First231,Last231,2024-01-25T06:13:11Z,2024-12-28T00:00:09Z,CUSTOMER,customer,Google Ads,US,Company 231,CTO,1,cus_km2kql0ht1tw9z,c4ec93f5-b2ba-4dcc-8c71-d1c07af19ff1
+101628,user1232@taskflow-demo.io,First232,Last232,2024-10-21T06:04:56Z,2024-11-30T02:41:12Z,CHURNED,other,Product Hunt,GB,Company 232,Designer,1,cus_2wbxanj4x5a5xi,f8bba4ad-e30e-4a35-9f68-1010d31c99d3
+101636,user1233@taskflow-demo.io,First233,Last233,2024-12-26T19:23:46Z,2025-05-16T02:12:14Z,CUSTOMER,customer,Google Ads,GH,Company 233,Designer,1,cus_gsq7aitmofmmwi,adea8e2e-31ce-443c-83a8-1332fd2d6684
+101641,user1234@taskflow-demo.io,First234,Last234,2024-01-28T05:29:55Z,2025-01-12T05:00:47Z,CUSTOMER,customer,Organic Search,ZA,Company 234,Marketing Manager,1,cus_btkf6xdn8wwiif,b1334a9f-c558-4113-bec1-4b6e11ede846
+101651,user1235@taskflow-demo.io,First235,Last235,2024-06-10T16:18:35Z,2025-02-15T12:09:02Z,CUSTOMER,customer,Linkedin Ads,NG,Company 235,CEO,1,cus_yhey66p61xufct,b461f244-8413-4af9-ad41-b94d1db6654e
+101657,user1236@taskflow-demo.io,First236,Last236,2024-06-11T10:20:19Z,2025-03-10T16:45:38Z,CUSTOMER,customer,Referral,NG,Company 236,Analyst,1,cus_98k03w0fgea9wv,b352c753-948a-412f-ad01-476b7892915f
+101665,user1237@taskflow-demo.io,First237,Last237,2024-04-28T03:12:51Z,2024-05-14T14:08:07Z,CUSTOMER,customer,Google Ads,NG,Company 237,CEO,1,cus_e4qxgnrfio878i,cc0d6cfd-d404-463e-a6e1-471db0563291
+101672,user1238@taskflow-demo.io,First238,Last238,2025-01-17T11:43:12Z,2025-04-12T09:13:39Z,CUSTOMER,customer,Google Ads,NG,Company 238,Operations Lead,1,cus_wy55p1v3zo7utx,ef5f680f-285b-4a5c-b4d9-23c8f1457dce
+101674,user1239@taskflow-demo.io,First239,Last239,2024-09-18T22:57:06Z,2024-11-09T07:33:40Z,CUSTOMER,customer,Google Ads,GB,Company 239,Marketing Manager,1,cus_it9bn18gp51kfk,e8a815e3-e8f9-439c-aae5-23c772fccea5
+101686,user1240@taskflow-demo.io,First240,Last240,2025-04-03T16:23:13Z,2025-04-08T21:09:05Z,CUSTOMER,customer,Google Ads,DE,Company 240,CTO,1,cus_e27zeoqgvzhqjy,b552cb87-fda5-4727-b4e7-b191a6380ad2
+101693,user1241@taskflow-demo.io,First241,Last241,2024-12-28T09:46:06Z,2025-06-24T18:57:32Z,CUSTOMER,customer,Organic Search,NG,Company 241,Analyst,1,cus_dz09wftbgm55ff,ce053d99-ca3a-4263-b85c-8cc054b3818d
+101695,user1242@taskflow-demo.io,First242,Last242,2024-06-03T19:39:52Z,2025-06-05T09:18:17Z,CUSTOMER,customer,Google Ads,CA,Company 242,Marketing Manager,1,cus_eehwjq4ta5ivro,1ac1b6e3-2d52-49b4-92a3-b89bab6e1d7b
+101706,user1243@taskflow-demo.io,First243,Last243,2024-01-03T10:56:12Z,2024-04-12T05:28:34Z,CUSTOMER,customer,Google Ads,US,Company 243,Operations Lead,1,cus_3bfxb4y4k7bpgy,3c75cdf6-a4cd-4661-a6e8-7899264e40d9
+101713,user1244@taskflow-demo.io,First244,Last244,2024-12-20T21:35:54Z,2025-05-22T15:20:06Z,CUSTOMER,customer,Organic Search,CA,Company 244,CEO,1,cus_u7dknncptkezjs,ae1cc4e5-6a91-4f83-b323-8c35deff8f62
+101721,user1245@taskflow-demo.io,First245,Last245,2024-04-11T08:17:17Z,2024-07-03T14:34:58Z,CUSTOMER,customer,Organic Search,NG,Company 245,CEO,1,cus_9ry79kvls9meus,76afafef-a2a7-4bb1-8da5-b1e79d17967d
+101723,user1246@taskflow-demo.io,First246,Last246,2025-02-13T10:48:58Z,2025-06-01T05:00:55Z,CUSTOMER,customer,Google Ads,US,Company 246,Operations Lead,1,cus_aawe429omuwahk,47e52fa9-9936-43cc-b16f-b98806f437d6
+101732,user1247@taskflow-demo.io,First247,Last247,2024-09-11T23:27:29Z,2025-01-15T08:37:42Z,CUSTOMER,customer,Organic Search,CA,Company 247,Operations Lead,1,cus_ou83g47rrbefq5,2f4ed0ba-0cc4-4b8e-8f8a-743126c91142
+101741,user1248@taskflow-demo.io,First248,Last248,2025-02-17T22:44:20Z,2025-06-22T06:03:24Z,CUSTOMER,customer,Linkedin Ads,CA,Company 248,Analyst,1,cus_0lthy25m8kb9w4,07db1e24-9bc8-42ba-ad22-f3aa23a85227
+101744,user1249@taskflow-demo.io,First249,Last249,2024-04-03T10:56:42Z,2024-10-01T02:18:42Z,CUSTOMER,customer,Organic Search,ZA,Company 249,Operations Lead,1,cus_lboriq8hke226p,56e933cf-a1da-498b-b5aa-6fadf999125d
+101756,user1250@taskflow-demo.io,First250,Last250,2025-04-05T10:09:30Z,2025-06-01T22:19:10Z,CUSTOMER,customer,Organic Search,NG,Company 250,CEO,1,cus_s1f537ye0qzsa7,b4449717-71b9-464f-9921-def368306a48
+101762,user1251@taskflow-demo.io,First251,Last251,2025-03-21T00:43:11Z,2025-06-23T00:44:48Z,CUSTOMER,customer,Google Ads,GB,Company 251,Marketing Manager,1,cus_xlul6lgjlpefja,d4942dee-44d4-4c9b-ac0b-4ec917850d2e
+101770,user1252@taskflow-demo.io,First252,Last252,2024-02-16T17:11:15Z,2024-08-12T22:22:54Z,CHURNED,other,Google Ads,KE,Company 252,Analyst,1,cus_ugl6tbb6bndoz6,3461d4a9-785b-4074-b39d-c1519b36e4c2
+101776,user1253@taskflow-demo.io,First253,Last253,2024-12-19T12:50:19Z,2025-01-25T04:52:15Z,CUSTOMER,customer,Linkedin Ads,KE,Company 253,Product Manager,1,cus_c71ud2zdlx1q8f,017d5fb3-416d-4128-874b-b616b760b84d
+101784,user1254@taskflow-demo.io,First254,Last254,2024-06-30T02:16:02Z,2024-07-11T10:46:52Z,CUSTOMER,customer,Linkedin Ads,US,Company 254,CTO,1,cus_5qbrmqg1ved32l,b47e7032-9b03-45f3-b16f-e446eb9e1e38
+101790,user1255@taskflow-demo.io,First255,Last255,2024-06-01T08:22:31Z,2025-02-27T00:48:03Z,CUSTOMER,customer,Organic Search,KE,Company 255,Analyst,1,cus_t9nm3v2p2tixc7,e107f94b-a7e7-42da-9e1d-550b2efbc853
+101793,user1256@taskflow-demo.io,First256,Last256,2024-02-27T09:45:16Z,2025-03-01T22:28:34Z,CUSTOMER,customer,Organic Search,GB,Company 256,CTO,1,cus_g8cd31nrxd356w,44589954-e185-4105-9ba0-8632afc0a30b
+101801,user1257@taskflow-demo.io,First257,Last257,2024-12-01T22:51:40Z,2025-01-16T23:54:47Z,CUSTOMER,customer,Google Ads,GB,Company 257,Product Manager,1,cus_hylu6k7p9mda9o,f9c2aae0-981b-4722-9fe1-1e3d2d629a8f
+101810,user1258@taskflow-demo.io,First258,Last258,2024-02-01T07:09:55Z,2024-05-27T01:44:19Z,CUSTOMER,customer,Linkedin Ads,US,Company 258,Analyst,1,cus_3m55izolnntxrg,74e652df-004a-4acf-a32b-d74af5a6fb14
+101815,user1259@taskflow-demo.io,First259,Last259,2024-07-02T19:27:05Z,2024-08-04T11:25:05Z,CUSTOMER,customer,Referral,NG,Company 259,Operations Lead,1,cus_ecazrp9dxoq2vp,6fedee47-eb80-409b-9c1e-a2a88a30b6df
+101826,user1260@taskflow-demo.io,First260,Last260,2024-07-29T10:01:14Z,2024-12-24T03:07:25Z,CHURNED,other,Organic Search,GB,Company 260,Designer,1,cus_ar0zj7ubbrnu8c,3e614c53-7288-485b-b8a9-74a9487f7ef4
+101833,user1261@taskflow-demo.io,First261,Last261,2025-03-14T21:55:05Z,2025-06-10T04:22:05Z,CUSTOMER,customer,Product Hunt,CA,Company 261,Operations Lead,1,cus_dr08cw2lbm2qsq,ec835f9d-2dac-46e3-b84b-d26e9d72af1c
+101837,user1262@taskflow-demo.io,First262,Last262,2024-06-29T00:55:22Z,2024-09-08T21:34:11Z,CHURNED,other,Product Hunt,CA,Company 262,Software Engineer,1,cus_00ucrgb93wkcs4,adc99256-ad19-4678-b430-20bf7a5d5f9d
+101845,user1263@taskflow-demo.io,First263,Last263,2024-11-11T20:51:35Z,2025-05-26T04:27:03Z,CHURNED,other,Google Ads,ZA,Company 263,Analyst,1,cus_60xng2igsb98v3,ddefc4d3-4333-49bb-a27b-0e0167363763
+101852,user1264@taskflow-demo.io,First264,Last264,2024-07-27T08:38:57Z,2024-08-28T05:17:31Z,CUSTOMER,customer,Referral,NG,Company 264,Operations Lead,1,cus_h0mx1egok01tnz,6c21dee1-93dc-460f-8373-9baecbc18303
+101859,user1265@taskflow-demo.io,First265,Last265,2024-09-26T10:10:48Z,2024-11-21T11:10:02Z,CUSTOMER,customer,Referral,NG,Company 265,Analyst,1,cus_y8yb7w8p74mjdx,210fa16c-0dcd-4135-b3b8-fa3986646c28
+101863,user1266@taskflow-demo.io,First266,Last266,2024-12-04T22:05:49Z,2025-06-22T19:31:55Z,CHURNED,other,Organic Search,US,Company 266,Designer,1,cus_y9laacosym0jbw,ba2381b5-3d78-49b9-8487-fca07a6a609d
+101873,user1267@taskflow-demo.io,First267,Last267,2024-12-01T19:53:43Z,2024-12-15T09:37:18Z,CHURNED,other,Referral,NG,Company 267,Product Manager,1,cus_dvn1x2gdgkxcq9,ca21cc97-4067-4660-bb2c-4adcd1ee0a8c
+101882,user1268@taskflow-demo.io,First268,Last268,2024-11-30T22:39:12Z,2025-03-31T05:06:02Z,CHURNED,other,Referral,GH,Company 268,CEO,1,cus_nlc8jpr7vgrf1h,e031ba82-b5ab-4bde-98a5-ef0815d5f374
+101887,user1269@taskflow-demo.io,First269,Last269,2024-08-10T12:46:25Z,2025-02-20T05:04:52Z,CUSTOMER,customer,Organic Search,NG,Company 269,Freelancer,1,cus_jq6fx7xjz6us7r,940dd183-dff8-4fc3-8f25-cab4e0b4545a
+101892,user1270@taskflow-demo.io,First270,Last270,2025-01-06T09:21:50Z,2025-01-20T11:08:32Z,CUSTOMER,customer,Referral,CA,Company 270,Freelancer,1,cus_et9mkb9xn4m41k,df298b88-2624-4746-92f0-c090750b1cd7
+101901,user1271@taskflow-demo.io,First271,Last271,2024-01-20T21:04:03Z,2024-08-22T12:10:37Z,CUSTOMER,customer,Product Hunt,US,Company 271,Freelancer,1,cus_dyr5pgba9in2xr,02b445a8-e028-4acd-8760-e9bc8801e17e
+101906,user1272@taskflow-demo.io,First272,Last272,2024-01-05T11:11:01Z,2025-02-25T04:48:32Z,CHURNED,other,Google Ads,NG,Company 272,Freelancer,1,cus_hxs75t0ic0ra6w,0604f7af-4afe-45ea-9405-3f80d0b9aac5
+101912,user1273@taskflow-demo.io,First273,Last273,2024-03-07T06:46:12Z,2024-10-12T15:06:32Z,CUSTOMER,customer,Google Ads,US,Company 273,CTO,1,cus_dw4c3evwchm40o,84a596ef-797f-4348-a951-8d3bad9b28ec
+101919,user1274@taskflow-demo.io,First274,Last274,2024-10-18T05:53:25Z,2025-03-27T02:53:40Z,CHURNED,other,Organic Search,GH,Company 274,CTO,1,cus_vmefoztp7bd4w1,0e0daf9c-1d9c-4db2-b47f-d1e7cc712971
+101926,user1275@taskflow-demo.io,First275,Last275,2024-02-11T15:10:53Z,2024-07-05T08:31:15Z,CUSTOMER,customer,Google Ads,NG,Company 275,Designer,1,cus_5o31yhxso7vbgr,c389eec8-57a9-45eb-9928-56e19b32454e
+101934,user1276@taskflow-demo.io,First276,Last276,2025-01-28T07:34:54Z,2025-06-02T14:30:10Z,CUSTOMER,customer,Google Ads,GB,Company 276,Software Engineer,1,cus_9w59sqwhbef46r,6c3bc093-5580-40ed-92fc-3ec2bf6a6840
+101945,user1277@taskflow-demo.io,First277,Last277,2024-01-22T01:19:20Z,2024-09-07T01:00:48Z,CHURNED,other,Google Ads,KE,Company 277,CEO,1,cus_21b07g2re6zvlh,3cb05c78-5da0-4cda-bfec-30dfd86ec8d3
+101948,user1278@taskflow-demo.io,First278,Last278,2024-04-24T15:57:54Z,2024-06-08T00:16:18Z,CUSTOMER,customer,Referral,GH,Company 278,Marketing Manager,1,cus_5nhqr6f7qnezw9,252cd101-efb4-4467-b950-1d6df3e51a11
+101955,user1279@taskflow-demo.io,First279,Last279,2024-01-16T05:48:06Z,2025-06-21T21:05:03Z,CUSTOMER,customer,Organic Search,NG,Company 279,Software Engineer,1,cus_qgm5v2wwg84d4r,7fbf15a8-e557-45e6-b484-76cf5b0f2c68
+101966,user1280@taskflow-demo.io,First280,Last280,2025-02-26T05:54:22Z,2025-06-13T09:47:25Z,CUSTOMER,customer,Linkedin Ads,NG,Company 280,Marketing Manager,1,cus_ipi7866pb90spo,018fde18-e7d5-4ee8-bcbb-355d276ddc06
+101973,user1281@taskflow-demo.io,First281,Last281,2024-08-14T15:04:29Z,2025-03-20T16:39:09Z,CUSTOMER,customer,Linkedin Ads,NG,Company 281,Analyst,1,cus_ohmi9ayfquv9qe,4c058cd4-883c-4e11-861e-1ce40d04a5bd
+101980,user1282@taskflow-demo.io,First282,Last282,2025-02-04T04:34:19Z,2025-04-21T11:27:26Z,CHURNED,other,Referral,US,Company 282,Designer,1,cus_nytk1zwuhywm7s,87ded5dc-55a9-47e8-932c-bd80afa37ad5
+101983,user1283@taskflow-demo.io,First283,Last283,2024-01-25T20:23:07Z,2024-05-19T18:08:18Z,CUSTOMER,customer,Google Ads,KE,Company 283,Product Manager,1,cus_guczh9ier7u8h0,559ddc05-254e-400a-ba1e-abede16e93f2
+101992,user1284@taskflow-demo.io,First284,Last284,2025-03-30T09:53:22Z,2025-04-27T00:13:43Z,CUSTOMER,customer,Google Ads,US,Company 284,Software Engineer,1,cus_qs3qt36qnyy95g,47f475eb-2880-43ef-b2dd-d4f7783ad102
+101996,user1285@taskflow-demo.io,First285,Last285,2024-07-16T07:31:05Z,2024-07-20T22:29:15Z,CHURNED,other,Referral,GH,Company 285,Software Engineer,1,cus_effh8aoy7rp0ag,0bfcfdf5-4127-4242-a393-633ff9750645
+102003,user1286@taskflow-demo.io,First286,Last286,2024-04-27T05:14:54Z,2024-06-24T00:49:31Z,CUSTOMER,customer,Referral,GB,Company 286,Freelancer,1,cus_x2rxttqu6l2ink,aee83b3b-6906-4aa2-96f8-8854a00c2c8a
+102012,user1287@taskflow-demo.io,First287,Last287,2024-05-21T05:57:31Z,2025-06-21T05:57:39Z,CUSTOMER,customer,Linkedin Ads,NG,Company 287,Freelancer,1,cus_k94yxfiblejgub,990178cb-bb62-4c0c-996a-159993a44ea5
+102021,user1288@taskflow-demo.io,First288,Last288,2024-03-12T19:15:09Z,2024-03-22T20:59:30Z,CUSTOMER,customer,Linkedin Ads,GB,Company 288,Analyst,1,cus_7orfqla09lzrk7,5a1b41e5-0aba-4ce7-818f-3a7f4f8f9647
+102026,user1289@taskflow-demo.io,First289,Last289,2025-02-08T23:33:48Z,2025-03-06T14:03:06Z,CUSTOMER,customer,Organic Search,ZA,Company 289,Designer,1,cus_06ftlo4qdbxvh7,a8230ecc-dae6-44e5-a9d6-a20fc90bfb4b
+102035,user1290@taskflow-demo.io,First290,Last290,2024-02-06T01:39:42Z,2024-02-17T01:37:43Z,CHURNED,other,Organic Search,GB,Company 290,Marketing Manager,1,cus_orvscyozpnamlq,046360a0-abb3-4e61-bf4f-c6b2746de1c0
+102041,user1291@taskflow-demo.io,First291,Last291,2025-01-05T17:52:53Z,2025-02-12T14:46:46Z,CUSTOMER,customer,Referral,CA,Company 291,Operations Lead,1,cus_f060o4vfk9sm7v,997520a7-0304-4f6c-9c7c-346be983976f
+102047,user1292@taskflow-demo.io,First292,Last292,2024-07-25T22:38:14Z,2024-11-29T10:01:55Z,CUSTOMER,customer,Organic Search,NG,Company 292,Marketing Manager,1,cus_u6h3kr3kvr0i2f,47bcccfb-f7af-42ed-9988-32b3d1836673
+102052,user1293@taskflow-demo.io,First293,Last293,2025-02-28T15:34:46Z,2025-03-20T13:18:37Z,CUSTOMER,customer,Organic Search,NG,Company 293,Designer,1,cus_g6xb1r8vnrpjy9,3c85a474-0e44-4319-8815-02977bd28725
+102063,user1294@taskflow-demo.io,First294,Last294,2025-01-06T06:53:11Z,2025-06-27T14:37:47Z,CUSTOMER,customer,Organic Search,DE,Company 294,Software Engineer,1,cus_qymbnw8bkxcgw1,0879d1f6-0ccd-40f8-b186-60506d6b376f
+102067,user1295@taskflow-demo.io,First295,Last295,2024-09-28T11:23:10Z,2025-02-20T21:31:00Z,CUSTOMER,customer,Google Ads,GH,Company 295,CEO,1,cus_jzntmfek2o7fhs,64aee7ad-1a15-4b29-8e12-eae7ffa7bcba
+102075,user1296@taskflow-demo.io,First296,Last296,2024-10-07T23:44:12Z,2025-04-10T03:17:10Z,CUSTOMER,customer,Organic Search,DE,Company 296,Software Engineer,1,cus_t1eqc37rln36v1,b7178eef-d5ff-40e1-990c-37f9c414b63b
+102080,user1297@taskflow-demo.io,First297,Last297,2024-06-03T17:34:53Z,2025-02-06T20:14:10Z,CUSTOMER,customer,Google Ads,DE,Company 297,Designer,1,cus_fieecy2c11bd2s,8f0980e1-12ed-4e58-9e32-309ee6d156da
+102088,user1298@taskflow-demo.io,First298,Last298,2025-04-05T06:12:44Z,2025-06-15T13:51:14Z,CUSTOMER,customer,Google Ads,NG,Company 298,Software Engineer,1,cus_27h6gmd478mfs0,cb5b93e6-010d-4515-8e9f-9b79fb9b3c61
+102097,user1299@taskflow-demo.io,First299,Last299,2024-02-03T12:03:46Z,2024-02-06T15:41:22Z,CHURNED,other,Google Ads,US,Company 299,Freelancer,1,cus_8g1a0774rzgyd4,ce73edc0-c5f5-46ac-b1db-98fe68c22643
+102104,user1300@taskflow-demo.io,First300,Last300,2024-09-14T04:04:30Z,2025-02-21T13:45:52Z,CHURNED,other,Google Ads,NG,Company 300,CEO,1,cus_srnkzcrnq0y4io,0d3c4fbc-4a09-4943-80f7-48b53c0290c5
+102109,user1301@taskflow-demo.io,First301,Last301,2024-01-29T11:18:52Z,2025-04-21T14:23:21Z,CUSTOMER,customer,Referral,DE,Company 301,Founder,1,cus_ayyosyeoz906gn,ce31cc9f-3741-42e7-ba7b-1906d0a6e4c7
+102115,user1302@taskflow-demo.io,First302,Last302,2024-10-30T08:42:18Z,2025-03-11T07:59:41Z,CUSTOMER,customer,Referral,KE,Company 302,Founder,1,cus_r11v127my89sfq,96a84608-45bb-4e03-91e3-f80b8c8d8d63
+102125,user1303@taskflow-demo.io,First303,Last303,2024-09-07T13:40:46Z,2024-11-23T05:35:33Z,CUSTOMER,customer,Google Ads,IN,Company 303,Designer,1,cus_3ragvlkw1xsrqk,93c085e4-4550-40cc-ac8f-9087396fd09d
+102132,user1304@taskflow-demo.io,First304,Last304,2024-05-10T19:28:40Z,2025-03-15T23:07:01Z,CHURNED,other,Organic Search,DE,Company 304,Analyst,1,cus_95eq4pbgx25fpl,91e7b019-5bdd-4602-8484-6f2e577b1a3d
+102141,user1305@taskflow-demo.io,First305,Last305,2024-02-23T02:36:22Z,2024-04-17T12:23:48Z,CUSTOMER,customer,Organic Search,GB,Company 305,Software Engineer,1,cus_qufcjvny1kcven,e868ee77-ed48-4f8d-b0bb-14df3d1f38f9
+102147,user1306@taskflow-demo.io,First306,Last306,2025-01-22T09:55:24Z,2025-04-14T00:13:44Z,CUSTOMER,customer,Referral,GH,Company 306,Marketing Manager,1,cus_mmxixv6ckmalq5,277030f9-a01b-44c4-b274-4f47009f1558
+102150,user1307@taskflow-demo.io,First307,Last307,2024-08-02T23:27:52Z,2025-06-13T06:32:01Z,CUSTOMER,customer,Google Ads,US,Company 307,Marketing Manager,1,cus_nou3dyms1mwnpr,f34a9484-c934-40c4-a990-88bcd366da1e
+102159,user1308@taskflow-demo.io,First308,Last308,2024-09-24T22:22:27Z,2025-01-17T04:50:12Z,CUSTOMER,customer,Google Ads,NG,Company 308,Designer,1,cus_2w8zuvjutpmc3s,aad25c2a-d4d3-47e1-a07d-ede2f8eeb66b
+102167,user1309@taskflow-demo.io,First309,Last309,2024-09-27T07:30:43Z,2025-05-10T21:44:22Z,CUSTOMER,customer,Google Ads,GB,Company 309,Software Engineer,1,cus_yt5wsgrx37jw34,4238a0b8-0d58-4b7a-8569-579523e56bc0
+102172,user1310@taskflow-demo.io,First310,Last310,2025-01-03T02:15:53Z,2025-02-17T09:04:59Z,CHURNED,other,Organic Search,GB,Company 310,Freelancer,1,cus_014o46w4jkfyii,7dcbe1ea-6da1-45e0-8b5a-aba2a4289c02
+102180,user1311@taskflow-demo.io,First311,Last311,2024-04-29T23:04:58Z,2024-10-26T07:05:18Z,CUSTOMER,customer,Referral,GH,Company 311,Analyst,1,cus_p6hjb2jtxb02b6,1cb9a85f-dcae-4584-a2a0-ab1e65a92a70
+102189,user1312@taskflow-demo.io,First312,Last312,2025-03-14T00:29:58Z,2025-06-30T07:33:06Z,CUSTOMER,customer,Google Ads,IN,Company 312,Marketing Manager,1,cus_5o44iusexu1srd,f9db3678-d413-469d-85ec-2e4cc4dc73d2
+102193,user1313@taskflow-demo.io,First313,Last313,2025-02-11T18:25:55Z,2025-02-28T05:15:58Z,CUSTOMER,customer,Google Ads,DE,Company 313,Software Engineer,1,cus_07hdhjo5ctzetr,d8cb8969-565d-4eef-b775-542ba0fd5c7d
+102204,user1314@taskflow-demo.io,First314,Last314,2025-03-21T15:39:06Z,2025-05-18T01:55:21Z,CUSTOMER,customer,Referral,NG,Company 314,Operations Lead,1,cus_lx6b02b7yjnxz6,e4312fa9-bcf3-41dd-8c0e-7a87d97be327
+102206,user1315@taskflow-demo.io,First315,Last315,2025-03-12T04:44:51Z,2025-04-17T10:13:51Z,CUSTOMER,customer,Google Ads,GB,Company 315,CEO,1,cus_77k71k4fpl3x2j,5380eefa-8631-4f80-8373-1d02fe392ea9
+102216,user1316@taskflow-demo.io,First316,Last316,2025-04-23T09:08:32Z,2025-06-26T20:21:35Z,CUSTOMER,customer,Linkedin Ads,US,Company 316,CEO,1,cus_p7dfjcp0tlz1xg,ddfefcdc-d718-4d8d-8685-6888a552b0be
+102222,user1317@taskflow-demo.io,First317,Last317,2024-03-04T05:02:09Z,2025-05-03T07:08:14Z,CUSTOMER,customer,Google Ads,NG,Company 317,Designer,1,cus_diz1xevo7q5egv,e98005f2-45c0-4da4-a552-fda3f4c0e8e9
+102228,user1318@taskflow-demo.io,First318,Last318,2024-04-11T22:37:46Z,2025-05-25T05:20:38Z,CUSTOMER,customer,Google Ads,KE,Company 318,Freelancer,1,cus_4uaauwidqj4bwv,e9335b8f-87a6-4bd8-ad11-a1a29ff254d7
+102236,user1319@taskflow-demo.io,First319,Last319,2024-07-01T22:02:07Z,2025-02-26T02:37:48Z,CUSTOMER,customer,Google Ads,US,Company 319,Founder,1,cus_173rih83j0nphh,3b64ad1e-3e32-4184-9355-39c2edb4e7d1
+102243,user1320@taskflow-demo.io,First320,Last320,2024-04-03T22:42:27Z,2024-11-04T21:28:53Z,CUSTOMER,customer,Linkedin Ads,KE,Company 320,Software Engineer,1,cus_jw6nyqaelyyzz0,75b1b3c9-9821-4cfb-983f-b388c4d09ba2
+102250,user1321@taskflow-demo.io,First321,Last321,2024-10-11T16:54:45Z,2025-01-05T14:11:05Z,CUSTOMER,customer,Google Ads,GH,Company 321,CEO,1,cus_978v0bjwkon8uu,42ba9697-a199-48ca-a0d1-9c943ef4a358
+102257,user1322@taskflow-demo.io,First322,Last322,2024-09-02T21:18:41Z,2025-04-29T07:42:27Z,CUSTOMER,customer,Product Hunt,ZA,Company 322,Freelancer,1,cus_tfebe5407k5w1j,93d3f449-14a3-43a8-ab07-2165d80ca1ff
+102267,user1323@taskflow-demo.io,First323,Last323,2024-03-18T19:59:31Z,2024-08-30T15:21:35Z,CHURNED,other,Google Ads,BR,Company 323,Analyst,1,cus_bfibjzp97bmzrr,07ab680e-2668-425e-88e4-9fc8147dc74a
+102271,user1324@taskflow-demo.io,First324,Last324,2024-03-01T07:33:09Z,2025-01-28T03:13:29Z,CUSTOMER,customer,Google Ads,NG,Company 324,Product Manager,1,cus_03uxh9a1g7irdl,87f88d10-be65-45ba-93d2-1c9a1f43b6d7
+102280,user1325@taskflow-demo.io,First325,Last325,2024-12-11T04:05:06Z,2025-01-24T13:44:28Z,CHURNED,other,Google Ads,KE,Company 325,Software Engineer,1,cus_fc3xq8va8x8l00,d4998fe4-9ab5-4719-b5c3-bbefaeed37d9
+102285,user1326@taskflow-demo.io,First326,Last326,2025-03-11T03:47:15Z,2025-04-30T11:45:29Z,CHURNED,other,Google Ads,US,Company 326,Founder,1,cus_tvdji1oahnox8f,6b27569d-e5fe-4292-a27f-097f4bef459b
+102294,user1327@taskflow-demo.io,First327,Last327,2024-08-05T05:41:43Z,2025-03-23T01:43:22Z,CUSTOMER,customer,Organic Search,IN,Company 327,Designer,1,cus_mdnhqnjvdpngwd,52ed0278-53e6-49fb-aaa7-cbff6500d904
+102297,user1328@taskflow-demo.io,First328,Last328,2024-08-19T10:10:25Z,2024-12-06T13:58:10Z,CUSTOMER,customer,Organic Search,US,Company 328,Designer,1,cus_sxdqc2k9ykiput,dcd95b7a-fdc1-4fc6-aab9-72c1b3ba476f
+102309,user1329@taskflow-demo.io,First329,Last329,2024-09-12T09:32:47Z,2025-04-23T12:20:15Z,CUSTOMER,customer,Linkedin Ads,NG,Company 329,Product Manager,1,cus_jjcsexggoc5kvq,a29057ab-e7e9-4620-bf18-454c2149e392
+102313,user1330@taskflow-demo.io,First330,Last330,2025-02-16T00:39:38Z,2025-04-21T22:11:03Z,CHURNED,other,Google Ads,IN,Company 330,Founder,1,cus_c9jypaoaxqox00,f1ebb51b-3aef-4e6a-b6db-c34c0edce390
+102320,user1331@taskflow-demo.io,First331,Last331,2024-11-05T19:56:47Z,2024-11-21T23:01:31Z,CUSTOMER,customer,Linkedin Ads,US,Company 331,Operations Lead,1,cus_keaea84hxxpw2g,ad8f7a87-4f9f-4070-966b-5b3c82f4810d
+102329,user1332@taskflow-demo.io,First332,Last332,2024-03-11T09:21:16Z,2025-02-01T22:11:15Z,CHURNED,other,Linkedin Ads,NG,Company 332,Marketing Manager,1,cus_8q4vhu4bawz940,cdd81c38-e476-48a3-8430-e69d89e910d4
+102335,user1333@taskflow-demo.io,First333,Last333,2024-05-23T05:00:39Z,2025-02-04T11:21:46Z,CUSTOMER,customer,Google Ads,KE,Company 333,Software Engineer,1,cus_765icautjx6ewx,5b946b8c-b27d-47cb-952b-abb87359ef8a
+102342,user1334@taskflow-demo.io,First334,Last334,2024-01-08T06:34:04Z,2024-05-31T21:07:56Z,CUSTOMER,customer,Google Ads,US,Company 334,Marketing Manager,1,cus_svy74zq50op7xm,0f8c2986-4981-49fc-b31f-8becd6d88afb
+102350,user1335@taskflow-demo.io,First335,Last335,2025-03-05T20:02:44Z,2025-05-08T19:19:03Z,CUSTOMER,customer,Google Ads,NG,Company 335,CEO,1,cus_ehvdo9khba5mf3,3e0b97a0-8b7f-4349-b17f-f6f0f9de2f53
+102353,user1336@taskflow-demo.io,First336,Last336,2024-01-31T22:50:55Z,2025-01-08T15:58:49Z,CUSTOMER,customer,Google Ads,NG,Company 336,CEO,1,cus_r9211u645vdb82,3a508615-5666-479e-b289-40d7a4a80d2a
+102361,user1337@taskflow-demo.io,First337,Last337,2025-01-28T02:43:01Z,2025-03-29T01:52:39Z,CUSTOMER,customer,Organic Search,CA,Company 337,Analyst,1,cus_bdw56fkps0dxme,91f80022-34d3-4a29-85b4-4dd9ecc59012
+102371,user1338@taskflow-demo.io,First338,Last338,2024-07-29T06:36:10Z,2025-01-12T01:37:44Z,CUSTOMER,customer,Referral,NG,Company 338,CTO,1,cus_kgjzowi1t2ep76,59da93a9-db37-4bc6-9084-d7c32d19133e
+102378,user1339@taskflow-demo.io,First339,Last339,2024-06-28T08:33:00Z,2025-05-08T17:04:05Z,CUSTOMER,customer,Product Hunt,GB,Company 339,CTO,1,cus_scmo1pob7fu992,204d7c5e-240c-4892-88ed-fcc768524fe1
+102386,user1340@taskflow-demo.io,First340,Last340,2024-07-29T10:16:04Z,2024-12-02T17:57:38Z,CUSTOMER,customer,Linkedin Ads,US,Company 340,CEO,1,cus_06akt7zqht2xz5,897524aa-12b8-4d36-ae16-fe28f8b8a7f2
+102390,user1341@taskflow-demo.io,First341,Last341,2024-04-10T08:17:52Z,2025-01-26T11:24:29Z,CUSTOMER,customer,Referral,NG,Company 341,CEO,1,cus_z5sthslmwa6tj3,1565357c-7018-411a-9cb9-f49e22584bac
+102399,user1342@taskflow-demo.io,First342,Last342,2024-09-10T03:31:18Z,2025-04-12T13:47:54Z,CUSTOMER,customer,Google Ads,NG,Company 342,Marketing Manager,1,cus_mbxek0q929u6wt,940aa1ea-c2ae-47ae-be08-ad10021d4209
+102405,user1343@taskflow-demo.io,First343,Last343,2024-05-31T10:39:17Z,2024-08-03T02:38:36Z,CUSTOMER,customer,Google Ads,CA,Company 343,Product Manager,1,cus_zsilu3ndz3cc5r,021cf935-d08e-41d9-8a63-0c98ad892621
+102409,user1344@taskflow-demo.io,First344,Last344,2024-12-10T16:29:42Z,2025-03-29T03:48:23Z,CUSTOMER,customer,Organic Search,US,Company 344,Designer,1,cus_jrpp7r93fezez5,aa86dbcb-550a-4017-bf00-bc70dea7f25f
+102416,user1345@taskflow-demo.io,First345,Last345,2024-08-14T08:54:49Z,2025-06-28T15:03:29Z,CUSTOMER,customer,Linkedin Ads,CA,Company 345,Product Manager,1,cus_8voeubfn9kr2fv,6dd20475-4669-4e44-bb36-4a7a6ab71172
+102426,user1346@taskflow-demo.io,First346,Last346,2024-06-04T13:52:01Z,2024-11-15T23:32:28Z,CUSTOMER,customer,Referral,NG,Company 346,Software Engineer,1,cus_em5puu62rzv1sq,9e9ac39c-aee9-458a-a556-f8a5c12098c9
+102430,user1347@taskflow-demo.io,First347,Last347,2024-03-10T00:50:51Z,2024-05-31T22:36:42Z,CUSTOMER,customer,Referral,GH,Company 347,Freelancer,1,cus_oiot860x5zu2zu,153c838d-fd67-454a-8e80-ac714d2e0a41
+102439,user1348@taskflow-demo.io,First348,Last348,2024-02-08T01:58:35Z,2024-11-05T09:53:27Z,CHURNED,other,Google Ads,US,Company 348,Freelancer,1,cus_s1saxt8jh34udt,7287a2e9-b2a0-4fc0-9c85-84c623c131dc
+102444,user1349@taskflow-demo.io,First349,Last349,2024-01-21T06:33:13Z,2024-05-20T12:04:46Z,CHURNED,other,Linkedin Ads,IN,Company 349,Analyst,1,cus_4ljedgfjdlogwl,cb093987-a9f6-4c44-b5df-b633c25cf6fe
+102454,user1350@taskflow-demo.io,First350,Last350,2024-05-29T14:49:14Z,2025-04-26T01:11:58Z,CUSTOMER,customer,Linkedin Ads,GH,Company 350,CEO,1,cus_n3eh1vr1necqor,84900ad7-e6a1-42db-8caf-bda82c9d6df2
+102462,user1351@taskflow-demo.io,First351,Last351,2025-04-08T22:26:31Z,2025-05-18T13:47:52Z,CUSTOMER,customer,Referral,NG,Company 351,Product Manager,1,cus_it2kodwh8n92tp,edbf0f63-6f65-40e0-87ca-012567ce8617
+102465,user1352@taskflow-demo.io,First352,Last352,2023-12-28T09:21:28Z,2024-06-24T00:48:20Z,CUSTOMER,customer,Referral,IN,Company 352,Software Engineer,1,cus_gc7jjy94h4kftc,25e4a50f-2eb3-4e29-a0e1-0b6104a2f417
+102477,user1353@taskflow-demo.io,First353,Last353,2024-03-02T02:53:17Z,2024-08-28T23:32:55Z,CUSTOMER,customer,Referral,US,Company 353,Product Manager,1,cus_hs258w9zjxlh8l,5f663dd2-2c17-407e-a755-583606d7be41
+102483,user1354@taskflow-demo.io,First354,Last354,2025-04-17T17:14:38Z,2025-06-07T19:43:09Z,CUSTOMER,customer,Google Ads,GB,Company 354,Product Manager,1,cus_o6z1t2xcb3yym3,af0f0845-dcfe-49ef-8ef4-9064a6d95b64
+102488,user1355@taskflow-demo.io,First355,Last355,2024-03-31T22:12:38Z,2025-06-05T20:02:30Z,CHURNED,other,Referral,DE,Company 355,Founder,1,cus_7qhak7mdwkzirn,3531be66-e44b-452e-9760-5ce423f61da3
+102494,user1356@taskflow-demo.io,First356,Last356,2024-12-21T21:27:47Z,2025-06-25T09:16:35Z,CUSTOMER,customer,Organic Search,NG,Company 356,Software Engineer,1,cus_o5urtxuyucecju,b46df555-325b-4130-94ef-ab02513bfeb6
+102503,user1357@taskflow-demo.io,First357,Last357,2025-01-08T20:56:04Z,2025-05-10T03:46:06Z,CUSTOMER,customer,Referral,NG,Company 357,Product Manager,1,cus_ytjuq7x7b7p9jy,09800b85-130a-4248-b34c-d07b838cf12f
+102512,user1358@taskflow-demo.io,First358,Last358,2024-09-15T07:04:42Z,2025-04-08T06:59:19Z,CHURNED,other,Referral,ZA,Company 358,Designer,1,cus_tlom539iy87hlc,e8c40eb2-93d8-4467-9453-fdf4536e4524
+102514,user1359@taskflow-demo.io,First359,Last359,2024-08-30T01:01:47Z,2025-06-26T19:33:31Z,CUSTOMER,customer,Linkedin Ads,NG,Company 359,CEO,1,cus_4ir833sicvpdqe,e51e2ea4-53b2-4833-ae36-08bf0b80142a
+102524,user1360@taskflow-demo.io,First360,Last360,2024-07-09T04:42:22Z,2025-03-10T11:09:28Z,CHURNED,other,Google Ads,DE,Company 360,Marketing Manager,1,cus_bvpdcb4owo52wq,e872a409-0d1a-40f4-a88b-6dbb5e02bb8f
+102529,user1361@taskflow-demo.io,First361,Last361,2025-03-20T08:23:32Z,2025-04-22T01:22:17Z,CUSTOMER,customer,Organic Search,NG,Company 361,Designer,1,cus_asvdazv46esmrw,337db213-042d-4cbe-aefe-f72051c59522
+102539,user1362@taskflow-demo.io,First362,Last362,2025-02-11T06:01:36Z,2025-02-25T12:23:03Z,CUSTOMER,customer,Google Ads,NG,Company 362,CTO,1,cus_xmvtfqvk8sxfi3,860013f9-d1d1-4fee-84e8-b62235d2ba79
+102543,user1363@taskflow-demo.io,First363,Last363,2024-07-28T09:16:48Z,2024-12-11T08:02:38Z,CHURNED,other,Google Ads,BR,Company 363,Designer,1,cus_myz9vlu8wpfq2b,432ff232-3a00-4b19-b5a4-8d0816594ddd
+102550,user1364@taskflow-demo.io,First364,Last364,2024-11-23T15:47:50Z,2025-06-25T00:38:36Z,CHURNED,other,Google Ads,NG,Company 364,Designer,1,cus_3no3aamtfpw6m9,6b435e5f-188a-4e00-a55e-f82465f68ae1
+102557,user1365@taskflow-demo.io,First365,Last365,2024-03-23T09:00:30Z,2024-06-15T05:52:54Z,CUSTOMER,customer,Google Ads,NG,Company 365,CTO,1,cus_ihgjd3ex5mhqnn,b4d94850-7393-442f-81a5-0ed17d08bfb4
+102564,user1366@taskflow-demo.io,First366,Last366,2025-02-07T13:15:20Z,2025-04-18T15:10:06Z,CHURNED,other,Product Hunt,ZA,Company 366,CTO,1,cus_5egtylpw71v4kf,00272715-7c75-4a7f-ba61-32b30550cc3d
+102573,user1367@taskflow-demo.io,First367,Last367,2025-02-08T21:41:24Z,2025-02-15T17:41:24Z,CUSTOMER,customer,Google Ads,NG,Company 367,CEO,1,cus_r022wgn51nsgzs,44b2b537-734c-44b2-b8e8-6cc34c36c58a
+102581,user1368@taskflow-demo.io,First368,Last368,2024-09-10T15:07:53Z,2024-09-23T10:02:49Z,CUSTOMER,customer,Linkedin Ads,US,Company 368,CTO,1,cus_xh6qihpnf4jd1k,600a2068-b8c5-483e-8336-31fb5898f831
+102585,user1369@taskflow-demo.io,First369,Last369,2024-10-20T08:35:10Z,2025-01-17T01:29:44Z,CUSTOMER,customer,Google Ads,GB,Company 369,Founder,1,cus_pnrjapjc6kstcj,cb1f0f66-6128-434f-afb2-32dc6dd0fb75
+102594,user1370@taskflow-demo.io,First370,Last370,2024-02-03T17:17:38Z,2024-10-06T16:12:57Z,CUSTOMER,customer,Linkedin Ads,US,Company 370,CTO,1,cus_j014gve4ztj1km,0b018914-e94a-43e7-908e-b11ebe13e5bd
+102603,user1371@taskflow-demo.io,First371,Last371,2025-02-24T06:04:22Z,2025-05-14T01:49:45Z,CUSTOMER,customer,Organic Search,US,Company 371,Marketing Manager,1,cus_1foi0rs210q2lg,0e2947f4-c197-4278-ad67-2dbcaf1ed72d
+102606,user1372@taskflow-demo.io,First372,Last372,2024-08-06T20:14:15Z,2025-05-15T14:37:40Z,CUSTOMER,customer,Linkedin Ads,US,Company 372,Marketing Manager,1,cus_e7a34mpyo2tla2,74aa3f40-7c13-4a99-8307-8a14ea5f8777
+102616,user1373@taskflow-demo.io,First373,Last373,2024-06-12T17:34:10Z,2024-12-29T03:43:50Z,CUSTOMER,customer,Organic Search,CA,Company 373,Operations Lead,1,cus_on8cnrl8xkgyg3,be0858f7-0e00-485f-a11d-46994186b77e
+102620,user1374@taskflow-demo.io,First374,Last374,2024-03-29T10:43:11Z,2025-04-04T06:46:51Z,CHURNED,other,Google Ads,ZA,Company 374,Software Engineer,1,cus_xccsg4ofdtrc85,b5be2aea-6644-41d5-b082-4f201a6e1c19
+102630,user1375@taskflow-demo.io,First375,Last375,2024-06-05T21:59:51Z,2024-07-16T19:31:55Z,CUSTOMER,customer,Linkedin Ads,US,Company 375,CTO,1,cus_7vsyjafco3s65q,6e64cbd4-aa4b-4fab-b292-b310a2bfcdb8
+102634,user1376@taskflow-demo.io,First376,Last376,2024-02-13T17:56:56Z,2024-03-08T03:32:57Z,CUSTOMER,customer,Google Ads,ZA,Company 376,Analyst,1,cus_zkw3gi60q6guo8,f2993a4f-e959-4007-96fe-6d37e71f641b
+102643,user1377@taskflow-demo.io,First377,Last377,2024-03-19T17:34:27Z,2024-09-25T20:05:28Z,CUSTOMER,customer,Google Ads,US,Company 377,Freelancer,1,cus_z0hr9t9cd1lqjs,5f96da9e-2bbf-48a7-ab8a-66f08b532cf7
+102648,user1378@taskflow-demo.io,First378,Last378,2024-11-22T11:05:05Z,2025-06-08T15:33:31Z,CUSTOMER,customer,Organic Search,CA,Company 378,Software Engineer,1,cus_4oae7l0rcti8f3,2afb4809-05f1-4ab5-8bef-bfb56f6f426f
+102659,user1379@taskflow-demo.io,First379,Last379,2024-01-04T12:06:32Z,2024-03-20T06:39:58Z,CUSTOMER,customer,Organic Search,NG,Company 379,Operations Lead,1,cus_gyajpgz6tpbwsx,7b7cd866-b9f6-450e-b9c7-98a875c273ce
+102662,user1380@taskflow-demo.io,First380,Last380,2024-07-12T07:16:32Z,2024-07-21T13:12:22Z,CHURNED,other,Organic Search,GB,Company 380,Freelancer,1,cus_17nidp9mgyh523,32136f43-2896-421b-91fd-1c2373bda8fa
+102673,user1381@taskflow-demo.io,First381,Last381,2024-01-22T22:14:47Z,2025-05-26T03:18:52Z,CUSTOMER,customer,Linkedin Ads,NG,Company 381,Product Manager,1,cus_ght7ehmgoloqc3,c2c31a20-7f73-41a5-93a5-3fa58f94b74d
+102680,user1382@taskflow-demo.io,First382,Last382,2024-01-16T02:40:24Z,2025-04-07T06:53:49Z,CUSTOMER,customer,Google Ads,NG,Company 382,Analyst,1,cus_9dt94g8v9zy9yl,23e341b2-eccc-496f-b7d4-e72a402e5245
+102682,user1383@taskflow-demo.io,First383,Last383,2024-12-13T22:32:47Z,2025-04-01T13:07:22Z,CUSTOMER,customer,Google Ads,ZA,Company 383,CTO,1,cus_vvnxiv9iw6l01w,ca12b056-22b6-4998-8cc4-42349b6fba9f
+102690,user1384@taskflow-demo.io,First384,Last384,2024-09-11T02:00:06Z,2025-03-09T09:12:50Z,CUSTOMER,customer,Google Ads,NG,Company 384,Operations Lead,1,cus_9p5el2b2o31i0m,8dbe8f93-229b-4b71-ba51-db7a098000f8
+102697,user1385@taskflow-demo.io,First385,Last385,2025-04-09T04:28:44Z,2025-04-17T14:01:04Z,CUSTOMER,customer,Product Hunt,BR,Company 385,Product Manager,1,cus_i5sgwcr8b97egt,c8ad0b79-a216-4af3-9358-8d4e4fea79a0
+102704,user1386@taskflow-demo.io,First386,Last386,2024-02-09T04:39:19Z,2024-07-26T13:25:09Z,CHURNED,other,Linkedin Ads,GB,Company 386,Operations Lead,1,cus_gikqwj2c9ogps0,efdfa648-767c-49a8-a140-9f0a3487743b
+102714,user1387@taskflow-demo.io,First387,Last387,2025-02-08T06:13:28Z,2025-03-11T10:21:32Z,CUSTOMER,customer,Linkedin Ads,CA,Company 387,Product Manager,1,cus_vf0jqqnvceqfga,093466c8-ea84-49ba-81a2-3dabc4337926
+102721,user1388@taskflow-demo.io,First388,Last388,2024-07-07T18:59:42Z,2025-01-02T22:04:20Z,CUSTOMER,customer,Linkedin Ads,IN,Company 388,Marketing Manager,1,cus_nrxvob7nugpj60,a57ca7ec-1eee-4983-a757-c1209c79c28f
+102725,user1389@taskflow-demo.io,First389,Last389,2024-11-21T23:08:41Z,2025-04-16T14:04:05Z,CUSTOMER,customer,Organic Search,US,Company 389,CTO,1,cus_0ib3wyzxjqyjv8,3593c02a-ff8a-4326-9fef-c809b95b9e69
+102731,user1390@taskflow-demo.io,First390,Last390,2025-01-23T07:46:33Z,2025-06-02T20:53:08Z,CUSTOMER,customer,Google Ads,US,Company 390,Designer,1,cus_9c65fpyst5v017,a26c9114-d8ec-4afe-89f5-99075f0604a6
+102739,user1391@taskflow-demo.io,First391,Last391,2024-10-14T19:58:05Z,2024-12-24T04:51:29Z,CUSTOMER,customer,Referral,GH,Company 391,Freelancer,1,cus_7ol93aczsx0gnz,e15a0b40-a90b-416b-bf7d-616692d2cbde
+102746,user1392@taskflow-demo.io,First392,Last392,2024-09-09T18:02:22Z,2024-12-12T00:44:22Z,CHURNED,other,Product Hunt,GB,Company 392,Freelancer,1,cus_03g95p6dwcdecb,b479fea2-737c-43f4-8a13-45b11ceda9b9
+102754,user1393@taskflow-demo.io,First393,Last393,2024-12-05T05:54:54Z,2025-04-09T13:51:56Z,CUSTOMER,customer,Referral,NG,Company 393,CTO,1,cus_x2bh2ns8jr1vmy,4da574fd-6df1-4f0a-9f4d-bea06a80899c
+102762,user1394@taskflow-demo.io,First394,Last394,2025-02-19T22:44:54Z,2025-03-25T13:57:17Z,CUSTOMER,customer,Google Ads,KE,Company 394,Freelancer,1,cus_953a5o47aet81i,11f8f909-f1e9-45dd-bae0-ef3529c2e02e
+102771,user1395@taskflow-demo.io,First395,Last395,2024-11-28T03:53:40Z,2025-01-15T12:42:30Z,CHURNED,other,Referral,GB,Company 395,Operations Lead,1,cus_amb3lpvowcp779,666be192-4deb-42fd-bbac-5590535625af
+102774,user1396@taskflow-demo.io,First396,Last396,2025-01-10T09:44:32Z,2025-02-07T05:42:47Z,CUSTOMER,customer,Linkedin Ads,US,Company 396,Operations Lead,1,cus_52zbrd399q68rt,f5a0204b-fc7b-4976-8f72-e0aae49e5073
+102782,user1397@taskflow-demo.io,First397,Last397,2025-01-20T21:03:33Z,2025-02-07T00:11:30Z,CUSTOMER,customer,Product Hunt,US,Company 397,Software Engineer,1,cus_b7lnkzx8yx7wr2,aee746d2-670a-4d9c-9a7a-feb882af1cbd
+102787,user1398@taskflow-demo.io,First398,Last398,2025-04-17T05:13:39Z,2025-05-27T13:21:46Z,CUSTOMER,customer,Organic Search,IN,Company 398,Designer,1,cus_600x28pijkemvg,12882739-54b3-4611-904d-80fba15d9b2a
+102796,user1399@taskflow-demo.io,First399,Last399,2024-03-06T10:10:23Z,2025-06-13T20:01:59Z,CHURNED,other,Referral,IN,Company 399,Freelancer,1,cus_vgnp127exvda4l,237258e9-4cbf-4424-91de-a752ab129cf3
+900000,lead0@example.com,Lead0,Prospect,2024-08-21T02:12:30Z,2025-02-25T20:48:59Z,NEW,marketingqualifiedlead,Google Ads,GB,Prospect Co 0,Operations Lead,0,,
+900001,lead1@example.com,Lead1,Prospect,2024-02-05T06:43:47Z,2025-04-19T21:41:31Z,NEW,salesqualifiedlead,Organic Search,NG,Prospect Co 1,Freelancer,0,,
+900002,lead2@example.com,Lead2,Prospect,2025-05-12T02:41:15Z,2025-06-08T17:32:32Z,OPEN,lead,Google Ads,CA,Prospect Co 2,Product Manager,0,,
+900003,lead3@example.com,Lead3,Prospect,2024-04-23T13:43:03Z,2024-07-10T01:46:41Z,NEW,salesqualifiedlead,Google Ads,NG,Prospect Co 3,CEO,0,,
+900004,lead4@example.com,Lead4,Prospect,2024-05-21T11:07:00Z,2024-11-22T06:34:23Z,OPEN,lead,Linkedin Ads,NG,Prospect Co 4,Product Manager,0,,
+900005,lead5@example.com,Lead5,Prospect,2025-06-13T15:30:13Z,2025-06-29T06:45:34Z,OPEN,lead,Google Ads,NG,Prospect Co 5,Operations Lead,0,,
+900006,lead6@example.com,Lead6,Prospect,2025-03-28T18:16:59Z,2025-05-01T19:40:03Z,OPEN,marketingqualifiedlead,Linkedin Ads,NG,Prospect Co 6,CEO,0,,
+900007,lead7@example.com,Lead7,Prospect,2025-03-17T18:56:29Z,2025-05-16T17:21:35Z,IN_PROGRESS,lead,Referral,US,Prospect Co 7,Freelancer,0,,
+900008,lead8@example.com,Lead8,Prospect,2024-04-07T13:48:22Z,2025-06-19T21:02:49Z,NEW,lead,Organic Search,GB,Prospect Co 8,CEO,0,,
+900009,lead9@example.com,Lead9,Prospect,2024-05-18T21:07:21Z,2024-12-28T11:56:35Z,NEW,salesqualifiedlead,Google Ads,US,Prospect Co 9,Analyst,0,,
+900010,lead10@example.com,Lead10,Prospect,2024-06-30T12:30:19Z,2024-12-04T03:51:56Z,IN_PROGRESS,lead,Google Ads,GH,Prospect Co 10,Operations Lead,0,,
+900011,lead11@example.com,Lead11,Prospect,2025-06-14T22:31:01Z,2025-06-18T08:58:37Z,IN_PROGRESS,lead,Google Ads,US,Prospect Co 11,Founder,0,,
+900012,lead12@example.com,Lead12,Prospect,2024-09-19T00:57:46Z,2024-09-23T12:37:35Z,IN_PROGRESS,lead,Google Ads,US,Prospect Co 12,Operations Lead,0,,
+900013,lead13@example.com,Lead13,Prospect,2025-02-23T00:33:56Z,2025-03-25T15:07:55Z,NEW,marketingqualifiedlead,Google Ads,GH,Prospect Co 13,Operations Lead,0,,
+900014,lead14@example.com,Lead14,Prospect,2024-06-29T05:13:38Z,2024-11-30T17:51:32Z,IN_PROGRESS,marketingqualifiedlead,Organic Search,GH,Prospect Co 14,Freelancer,0,,
+900015,lead15@example.com,Lead15,Prospect,2024-06-11T16:29:37Z,2024-10-27T07:30:53Z,NEW,lead,Organic Search,GH,Prospect Co 15,Founder,0,,
+900016,lead16@example.com,Lead16,Prospect,2024-01-02T11:38:14Z,2025-06-25T01:53:26Z,NEW,salesqualifiedlead,Organic Search,GB,Prospect Co 16,CTO,0,,
+900017,lead17@example.com,Lead17,Prospect,2024-12-05T15:13:10Z,2025-05-28T18:37:58Z,IN_PROGRESS,salesqualifiedlead,Google Ads,KE,Prospect Co 17,Marketing Manager,0,,
+900018,lead18@example.com,Lead18,Prospect,2025-03-12T00:10:58Z,2025-04-19T08:05:10Z,IN_PROGRESS,marketingqualifiedlead,Google Ads,DE,Prospect Co 18,CTO,0,,
+900019,lead19@example.com,Lead19,Prospect,2024-07-07T23:28:58Z,2025-01-22T23:49:02Z,IN_PROGRESS,lead,Google Ads,GH,Prospect Co 19,Marketing Manager,0,,
+900020,lead20@example.com,Lead20,Prospect,2025-04-24T15:27:03Z,2025-06-09T00:34:57Z,NEW,salesqualifiedlead,Organic Search,DE,Prospect Co 20,Founder,0,,
+900021,lead21@example.com,Lead21,Prospect,2024-09-05T15:36:00Z,2024-10-22T13:39:00Z,NEW,marketingqualifiedlead,Google Ads,IN,Prospect Co 21,Freelancer,0,,
+900022,lead22@example.com,Lead22,Prospect,2025-06-25T15:56:48Z,2025-06-29T14:21:27Z,OPEN,marketingqualifiedlead,Linkedin Ads,US,Prospect Co 22,Freelancer,0,,
+900023,lead23@example.com,Lead23,Prospect,2024-04-28T17:16:02Z,2025-05-25T08:46:27Z,IN_PROGRESS,marketingqualifiedlead,Product Hunt,NG,Prospect Co 23,Operations Lead,0,,
+900024,lead24@example.com,Lead24,Prospect,2024-12-26T11:28:32Z,2025-04-05T10:51:18Z,NEW,lead,Organic Search,US,Prospect Co 24,Operations Lead,0,,
+900025,lead25@example.com,Lead25,Prospect,2024-12-16T13:44:14Z,2025-02-28T01:11:16Z,OPEN,salesqualifiedlead,Organic Search,GB,Prospect Co 25,Designer,0,,
+900026,lead26@example.com,Lead26,Prospect,2025-01-17T23:37:09Z,2025-04-04T06:33:17Z,IN_PROGRESS,marketingqualifiedlead,Google Ads,GB,Prospect Co 26,CEO,0,,
+900027,lead27@example.com,Lead27,Prospect,2024-10-04T16:01:27Z,2024-10-05T18:15:22Z,OPEN,salesqualifiedlead,Referral,NG,Prospect Co 27,Operations Lead,0,,
+900028,lead28@example.com,Lead28,Prospect,2024-08-18T07:59:50Z,2024-11-13T13:28:28Z,NEW,salesqualifiedlead,Google Ads,NG,Prospect Co 28,Analyst,0,,
+900029,lead29@example.com,Lead29,Prospect,2024-03-30T20:15:53Z,2025-06-27T00:55:55Z,NEW,marketingqualifiedlead,Linkedin Ads,GB,Prospect Co 29,Operations Lead,0,,
+900030,lead30@example.com,Lead30,Prospect,2024-09-09T02:18:35Z,2024-12-23T13:39:41Z,IN_PROGRESS,marketingqualifiedlead,Linkedin Ads,NG,Prospect Co 30,Software Engineer,0,,
+900031,lead31@example.com,Lead31,Prospect,2024-01-28T15:53:51Z,2025-02-25T00:13:10Z,NEW,marketingqualifiedlead,Google Ads,IN,Prospect Co 31,Designer,0,,
+900032,lead32@example.com,Lead32,Prospect,2025-05-11T07:37:52Z,2025-06-26T01:58:40Z,IN_PROGRESS,lead,Organic Search,DE,Prospect Co 32,CEO,0,,
+900033,lead33@example.com,Lead33,Prospect,2024-05-02T15:38:12Z,2024-11-13T08:47:42Z,NEW,marketingqualifiedlead,Product Hunt,GB,Prospect Co 33,Software Engineer,0,,
+900034,lead34@example.com,Lead34,Prospect,2024-07-07T12:20:30Z,2024-07-19T20:04:24Z,NEW,marketingqualifiedlead,Referral,NG,Prospect Co 34,Analyst,0,,
+900035,lead35@example.com,Lead35,Prospect,2024-01-20T23:31:22Z,2024-11-24T13:27:47Z,OPEN,salesqualifiedlead,Google Ads,KE,Prospect Co 35,Software Engineer,0,,
+900036,lead36@example.com,Lead36,Prospect,2025-02-07T17:39:24Z,2025-03-16T04:00:01Z,IN_PROGRESS,marketingqualifiedlead,Linkedin Ads,US,Prospect Co 36,Designer,0,,
+900037,lead37@example.com,Lead37,Prospect,2025-02-28T21:54:47Z,2025-05-12T08:54:42Z,NEW,marketingqualifiedlead,Google Ads,NG,Prospect Co 37,Analyst,0,,
+900038,lead38@example.com,Lead38,Prospect,2025-02-26T11:26:14Z,2025-06-18T07:01:53Z,NEW,marketingqualifiedlead,Linkedin Ads,NG,Prospect Co 38,Marketing Manager,0,,
+900039,lead39@example.com,Lead39,Prospect,2024-06-21T16:11:29Z,2024-10-21T12:52:27Z,NEW,marketingqualifiedlead,Referral,ZA,Prospect Co 39,Freelancer,0,,
+900040,lead40@example.com,Lead40,Prospect,2025-04-14T14:38:04Z,2025-04-27T18:41:53Z,IN_PROGRESS,marketingqualifiedlead,Google Ads,US,Prospect Co 40,Freelancer,0,,
+900041,lead41@example.com,Lead41,Prospect,2024-09-10T10:19:47Z,2025-03-04T14:19:46Z,NEW,salesqualifiedlead,Organic Search,NG,Prospect Co 41,CEO,0,,
+900042,lead42@example.com,Lead42,Prospect,2024-02-09T07:09:33Z,2025-02-27T23:27:32Z,OPEN,salesqualifiedlead,Google Ads,US,Prospect Co 42,CTO,0,,
+900043,lead43@example.com,Lead43,Prospect,2025-05-23T14:52:52Z,2025-06-26T11:06:54Z,OPEN,lead,Google Ads,US,Prospect Co 43,CEO,0,,
+900044,lead44@example.com,Lead44,Prospect,2025-05-11T18:10:37Z,2025-05-28T22:13:52Z,IN_PROGRESS,salesqualifiedlead,Organic Search,US,Prospect Co 44,Operations Lead,0,,
+900045,lead45@example.com,Lead45,Prospect,2024-07-13T03:30:03Z,2025-05-16T17:55:29Z,NEW,marketingqualifiedlead,Product Hunt,NG,Prospect Co 45,CEO,0,,
+900046,lead46@example.com,Lead46,Prospect,2024-04-18T03:06:37Z,2024-08-31T01:09:15Z,OPEN,lead,Google Ads,NG,Prospect Co 46,CEO,0,,
+900047,lead47@example.com,Lead47,Prospect,2024-06-28T21:17:14Z,2025-06-10T17:34:49Z,IN_PROGRESS,salesqualifiedlead,Organic Search,NG,Prospect Co 47,Analyst,0,,
+900048,lead48@example.com,Lead48,Prospect,2024-08-01T16:56:43Z,2024-08-11T06:13:14Z,IN_PROGRESS,salesqualifiedlead,Google Ads,NG,Prospect Co 48,Freelancer,0,,
+900049,lead49@example.com,Lead49,Prospect,2025-01-06T04:57:18Z,2025-03-30T12:21:03Z,IN_PROGRESS,salesqualifiedlead,Google Ads,KE,Prospect Co 49,Freelancer,0,,
+900050,lead50@example.com,Lead50,Prospect,2024-05-18T12:08:40Z,2025-02-08T18:43:26Z,NEW,lead,Referral,GH,Prospect Co 50,Operations Lead,0,,
+900051,lead51@example.com,Lead51,Prospect,2025-06-12T04:01:15Z,2025-06-25T14:53:40Z,IN_PROGRESS,lead,Google Ads,BR,Prospect Co 51,CTO,0,,
+900052,lead52@example.com,Lead52,Prospect,2024-10-24T11:32:41Z,2025-01-26T06:49:40Z,NEW,marketingqualifiedlead,Organic Search,CA,Prospect Co 52,Analyst,0,,
+900053,lead53@example.com,Lead53,Prospect,2024-03-22T07:39:40Z,2025-02-01T11:02:04Z,NEW,salesqualifiedlead,Linkedin Ads,NG,Prospect Co 53,Marketing Manager,0,,
+900054,lead54@example.com,Lead54,Prospect,2024-11-19T11:20:45Z,2025-05-13T22:34:59Z,OPEN,marketingqualifiedlead,Google Ads,BR,Prospect Co 54,Designer,0,,
+900055,lead55@example.com,Lead55,Prospect,2025-06-17T06:19:40Z,2025-06-25T01:37:39Z,OPEN,lead,Google Ads,NG,Prospect Co 55,Freelancer,0,,
+900056,lead56@example.com,Lead56,Prospect,2025-05-31T23:59:37Z,2025-06-04T22:27:37Z,IN_PROGRESS,lead,Google Ads,NG,Prospect Co 56,Founder,0,,
+900057,lead57@example.com,Lead57,Prospect,2024-06-09T03:43:27Z,2024-10-30T15:11:17Z,NEW,salesqualifiedlead,Product Hunt,IN,Prospect Co 57,Analyst,0,,
+900058,lead58@example.com,Lead58,Prospect,2024-04-26T14:46:56Z,2024-05-29T08:00:08Z,NEW,lead,Linkedin Ads,US,Prospect Co 58,CTO,0,,
+900059,lead59@example.com,Lead59,Prospect,2025-03-15T06:51:20Z,2025-03-21T02:09:00Z,IN_PROGRESS,marketingqualifiedlead,Organic Search,GH,Prospect Co 59,Software Engineer,0,,

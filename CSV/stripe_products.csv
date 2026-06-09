@@ -1,0 +1,4 @@
+id,name,description,active,created,updated,metadata.tier
+prod_starter,TaskFlow Starter,"Solo plan — 3 projects, 1 user",true,2023-12-01T10:00:00Z,2024-01-01T00:00:00Z,starter
+prod_pro,TaskFlow Pro,"Team plan — 20 projects, 5 users",true,2023-12-01T10:00:00Z,2024-01-01T00:00:00Z,pro
+prod_business,TaskFlow Business,"Company plan — unlimited projects, 25 users",true,2023-12-01T10:00:00Z,2024-06-01T00:00:00Z,business

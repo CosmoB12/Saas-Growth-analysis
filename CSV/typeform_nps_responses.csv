@@ -1,0 +1,1563 @@
+response_id,submitted_at,hidden.user_id,hidden.plan,hidden.country,question.nps_score,question.reason,question.feature_request
+2b310d68-98d,2024-12-01T11:08:03Z,a85748ca-ecbc-4adb-8e74-78f8bdea192f,starter,CA,8,Decent price,Better reporting
+0ae82eb3-a05,2025-03-01T17:53:17Z,a85748ca-ecbc-4adb-8e74-78f8bdea192f,starter,CA,6,Confusing onboarding,Mobile app improvements
+72437350-1ff,2025-06-01T08:00:58Z,a85748ca-ecbc-4adb-8e74-78f8bdea192f,starter,CA,10,Super easy to use,More integrations
+2131a24b-31d,2024-03-01T18:16:13Z,5d436bb2-a95c-4e98-96c8-61930e2b2f25,starter,GH,10,Best tool for my team,API docs
+0018c816-07a,2024-06-01T18:15:57Z,5d436bb2-a95c-4e98-96c8-61930e2b2f25,starter,GH,10,"Clean UI, nothing bloated",
+4a2f6862-ee4,2024-09-01T02:24:14Z,5d436bb2-a95c-4e98-96c8-61930e2b2f25,starter,GH,9,Saves me hours every week,Bulk actions
+aef2b6d2-40a,2024-12-01T18:41:24Z,5d436bb2-a95c-4e98-96c8-61930e2b2f25,starter,GH,7,Some bugs occasionally,Better reporting
+d7899580-233,2025-03-01T00:25:54Z,5d436bb2-a95c-4e98-96c8-61930e2b2f25,starter,GH,10,Saves me hours every week,Bulk actions
+e2441679-652,2025-06-01T07:19:15Z,5d436bb2-a95c-4e98-96c8-61930e2b2f25,starter,GH,10,Super easy to use,Mobile app improvements
+7b896897-a34,2024-03-01T14:06:25Z,815de1b8-3b5a-424a-825a-cd114f49b467,starter,NG,10,Best tool for my team,API docs
+db95c691-b81,2024-06-01T16:11:56Z,815de1b8-3b5a-424a-825a-cd114f49b467,starter,NG,4,Support was slow,API docs
+89fe9e54-043,2024-09-01T15:23:35Z,815de1b8-3b5a-424a-825a-cd114f49b467,starter,NG,10,Super easy to use,Bulk actions
+c381ec6a-693,2024-12-01T11:06:28Z,815de1b8-3b5a-424a-825a-cd114f49b467,starter,NG,10,Great value,API docs
+54ee227e-083,2025-03-01T15:49:09Z,815de1b8-3b5a-424a-825a-cd114f49b467,starter,NG,10,"Clean UI, nothing bloated",Mobile app improvements
+0f721e9b-c85,2025-06-01T04:41:02Z,815de1b8-3b5a-424a-825a-cd114f49b467,starter,NG,8,Good but missing a few features,Better reporting
+2b1b0370-0cf,2024-12-01T04:23:31Z,fe20706e-e165-43db-9acd-efa53596b67f,starter,NG,9,Best tool for my team,Better reporting
+2fdacd6c-a14,2025-03-01T17:06:57Z,fe20706e-e165-43db-9acd-efa53596b67f,starter,NG,10,Love the kanban board,
+35474c3b-435,2025-06-01T13:18:30Z,fe20706e-e165-43db-9acd-efa53596b67f,starter,NG,8,Good but missing a few features,More integrations
+f881637e-35c,2024-06-01T03:40:58Z,51a0218e-e776-4656-ae1c-957978bd42c3,pro,GB,9,Great value,Mobile app improvements
+1d1c3911-768,2024-09-01T06:28:40Z,51a0218e-e776-4656-ae1c-957978bd42c3,pro,GB,8,Works well enough,Better reporting
+def0696e-758,2024-12-01T07:00:30Z,51a0218e-e776-4656-ae1c-957978bd42c3,pro,GB,7,Works well enough,Mobile app improvements
+6f20d2eb-18d,2025-03-01T16:06:00Z,51a0218e-e776-4656-ae1c-957978bd42c3,pro,GB,9,Best tool for my team,
+7c366770-05b,2025-06-01T21:37:00Z,51a0218e-e776-4656-ae1c-957978bd42c3,pro,GB,8,Good but missing a few features,Better reporting
+252f4be3-dea,2024-03-01T00:23:08Z,d90fa6e4-420c-42a2-a4d6-44c8aeb5042e,starter,GB,9,Saves me hours every week,Better reporting
+b9f61794-e63,2024-06-01T19:48:37Z,d90fa6e4-420c-42a2-a4d6-44c8aeb5042e,starter,GB,8,Some bugs occasionally,API docs
+840ca071-8fc,2024-09-01T21:28:00Z,d90fa6e4-420c-42a2-a4d6-44c8aeb5042e,starter,GB,10,Love the kanban board,API docs
+91efb982-be6,2024-12-01T08:29:06Z,d90fa6e4-420c-42a2-a4d6-44c8aeb5042e,starter,GB,8,Works well enough,API docs
+2105df10-eda,2025-03-01T13:47:36Z,d90fa6e4-420c-42a2-a4d6-44c8aeb5042e,starter,GB,7,Good but missing a few features,
+b92d5d10-e9c,2025-06-01T00:05:03Z,d90fa6e4-420c-42a2-a4d6-44c8aeb5042e,starter,GB,8,Decent price,
+def82b01-80e,2025-03-01T18:41:58Z,4925651f-d88f-4d67-9bcd-8eeed2ff23a6,pro,ZA,10,"Clean UI, nothing bloated",Mobile app improvements
+8449f3b1-bf4,2025-06-01T18:15:05Z,4925651f-d88f-4d67-9bcd-8eeed2ff23a6,pro,ZA,9,Best tool for my team,Bulk actions
+8af82a1b-5ab,2024-09-01T21:11:39Z,d3b1c1ac-e9e8-4efa-8964-46379c40be7b,starter,GB,10,"Clean UI, nothing bloated",Mobile app improvements
+cf0856a0-a17,2024-12-01T03:51:13Z,d3b1c1ac-e9e8-4efa-8964-46379c40be7b,starter,GB,8,Works well enough,
+bd28ace6-1ea,2025-03-01T17:25:54Z,d3b1c1ac-e9e8-4efa-8964-46379c40be7b,starter,GB,10,Saves me hours every week,Better reporting
+c04b11ad-f81,2025-06-01T15:27:31Z,d3b1c1ac-e9e8-4efa-8964-46379c40be7b,starter,GB,10,Best tool for my team,Bulk actions
+8d79fc99-518,2024-03-01T10:51:09Z,f2eef9ce-5015-450e-95e0-939b51469d89,starter,ZA,9,Love the kanban board,API docs
+a113ef7f-1ce,2024-06-01T01:41:54Z,f2eef9ce-5015-450e-95e0-939b51469d89,starter,ZA,10,Love the kanban board,Bulk actions
+3c29a6b5-bc5,2024-09-01T04:29:15Z,f2eef9ce-5015-450e-95e0-939b51469d89,starter,ZA,7,Decent price,Mobile app improvements
+1571e8a2-557,2024-12-01T09:03:17Z,f2eef9ce-5015-450e-95e0-939b51469d89,starter,ZA,10,"Clean UI, nothing bloated",
+b2d68f58-aae,2025-03-01T01:24:58Z,f2eef9ce-5015-450e-95e0-939b51469d89,starter,ZA,9,Best tool for my team,Bulk actions
+6bb1eac7-d3b,2025-06-01T19:54:56Z,f2eef9ce-5015-450e-95e0-939b51469d89,starter,ZA,8,Decent price,More integrations
+de1c2bfa-e8c,2024-09-01T17:24:41Z,675de9e0-437d-4aad-adaf-20656782b5fa,starter,DE,9,Love the kanban board,More integrations
+a396aef0-210,2024-12-01T11:52:49Z,675de9e0-437d-4aad-adaf-20656782b5fa,starter,DE,4,Missing integrations I need,Better reporting
+e852b8c2-beb,2025-03-01T11:20:01Z,675de9e0-437d-4aad-adaf-20656782b5fa,starter,DE,10,Best tool for my team,Mobile app improvements
+7e950da5-b9b,2025-06-01T03:14:42Z,675de9e0-437d-4aad-adaf-20656782b5fa,starter,DE,9,Best tool for my team,Mobile app improvements
+0cb83422-b69,2024-09-01T09:53:11Z,d7c6d246-8c74-4c20-9f60-57101e4049c4,starter,KE,8,Good but missing a few features,Mobile app improvements
+cda38e41-f64,2024-12-01T21:59:11Z,d7c6d246-8c74-4c20-9f60-57101e4049c4,starter,KE,10,Best tool for my team,
+05c77033-deb,2025-03-01T14:32:11Z,d7c6d246-8c74-4c20-9f60-57101e4049c4,starter,KE,9,Best tool for my team,More integrations
+a2525fdf-189,2025-06-01T05:44:32Z,d7c6d246-8c74-4c20-9f60-57101e4049c4,starter,KE,10,Great value,More integrations
+8788de9e-368,2024-03-01T20:13:06Z,84ca0a8f-0dde-4ed3-8e0c-d2e9556fcc29,business,GB,4,Support was slow,Bulk actions
+0e0d83e5-840,2024-06-01T01:48:41Z,84ca0a8f-0dde-4ed3-8e0c-d2e9556fcc29,business,GB,8,Good but missing a few features,Better reporting
+66e54eb5-d99,2024-09-01T22:56:59Z,84ca0a8f-0dde-4ed3-8e0c-d2e9556fcc29,business,GB,8,Works well enough,More integrations
+263936c7-eed,2024-12-01T08:23:56Z,84ca0a8f-0dde-4ed3-8e0c-d2e9556fcc29,business,GB,2,Confusing onboarding,More integrations
+1635045a-d21,2025-03-01T13:26:56Z,84ca0a8f-0dde-4ed3-8e0c-d2e9556fcc29,business,GB,9,Super easy to use,API docs
+971214ab-7ab,2025-06-01T01:45:13Z,84ca0a8f-0dde-4ed3-8e0c-d2e9556fcc29,business,GB,10,Super easy to use,Better reporting
+62e6abc7-6b3,2024-06-01T21:36:39Z,0ccf9328-3727-4a4d-88b8-756a6b7ee337,pro,KE,9,Super easy to use,
+4b25f2e6-b13,2024-09-01T02:28:18Z,0ccf9328-3727-4a4d-88b8-756a6b7ee337,pro,KE,9,Saves me hours every week,API docs
+0e42a234-815,2024-12-01T15:01:08Z,0ccf9328-3727-4a4d-88b8-756a6b7ee337,pro,KE,10,Great value,Mobile app improvements
+3d30b6a8-9c3,2025-03-01T09:38:02Z,0ccf9328-3727-4a4d-88b8-756a6b7ee337,pro,KE,10,Saves me hours every week,
+8dc89052-fb9,2025-06-01T14:04:29Z,0ccf9328-3727-4a4d-88b8-756a6b7ee337,pro,KE,9,Super easy to use,
+b8ff6fbf-661,2024-12-01T12:26:33Z,f517dcd8-dc32-4d31-ab6e-2de001976345,pro,DE,9,Love the kanban board,Bulk actions
+ce85a511-cd5,2025-03-01T11:31:44Z,f517dcd8-dc32-4d31-ab6e-2de001976345,pro,DE,6,Support was slow,
+e33808f2-4fe,2025-06-01T17:46:00Z,f517dcd8-dc32-4d31-ab6e-2de001976345,pro,DE,9,Saves me hours every week,Bulk actions
+d815a97f-138,2025-03-01T06:00:44Z,f7c2ef0b-9b95-49e9-9526-ec64516d67c3,business,US,1,Keeps crashing on mobile,Better reporting
+612ec812-17a,2025-06-01T17:22:18Z,f7c2ef0b-9b95-49e9-9526-ec64516d67c3,business,US,6,Too expensive for what it offers,Better reporting
+5ee5ec87-4c9,2024-09-01T22:04:00Z,7550d8ad-6dea-419d-a035-50bd7bde9134,business,CA,8,Some bugs occasionally,Bulk actions
+f98968ca-bb3,2024-12-01T07:16:31Z,7550d8ad-6dea-419d-a035-50bd7bde9134,business,CA,5,Too expensive for what it offers,API docs
+b842aa84-2ee,2025-03-01T11:40:32Z,7550d8ad-6dea-419d-a035-50bd7bde9134,business,CA,7,Decent price,More integrations
+3495f736-964,2025-06-01T03:48:17Z,7550d8ad-6dea-419d-a035-50bd7bde9134,business,CA,10,Super easy to use,More integrations
+9991f119-63b,2025-03-01T01:53:26Z,cd5dec38-72d1-4ebd-b151-ed91e18ee775,business,DE,5,Support was slow,More integrations
+742e2777-5c0,2025-06-01T22:30:32Z,cd5dec38-72d1-4ebd-b151-ed91e18ee775,business,DE,9,Best tool for my team,More integrations
+cfa9ae47-97c,2024-06-01T18:15:53Z,6090b33b-8099-4f51-baaa-3a4e1a7e731f,pro,GB,3,Confusing onboarding,API docs
+a90bacd4-a29,2024-09-01T07:44:02Z,6090b33b-8099-4f51-baaa-3a4e1a7e731f,pro,GB,8,Decent price,API docs
+5c217199-4ba,2024-12-01T14:56:51Z,6090b33b-8099-4f51-baaa-3a4e1a7e731f,pro,GB,8,Decent price,Bulk actions
+1c58795e-587,2025-03-01T16:42:40Z,6090b33b-8099-4f51-baaa-3a4e1a7e731f,pro,GB,6,Keeps crashing on mobile,Bulk actions
+23baf3e1-ad4,2025-06-01T21:25:34Z,6090b33b-8099-4f51-baaa-3a4e1a7e731f,pro,GB,10,Love the kanban board,API docs
+f0322b74-6f8,2024-12-01T08:33:12Z,3d689740-b935-40de-b47a-3d9271032927,business,GB,8,Works well enough,API docs
+07929216-520,2025-03-01T04:49:37Z,3d689740-b935-40de-b47a-3d9271032927,business,GB,8,Good but missing a few features,More integrations
+3d9565f2-d23,2025-06-01T16:26:16Z,3d689740-b935-40de-b47a-3d9271032927,business,GB,10,Saves me hours every week,
+567252d1-cb9,2024-09-01T09:09:40Z,34503f46-0ad3-4582-abb9-7da1c2e2a772,pro,KE,0,Too expensive for what it offers,Bulk actions
+de36f0bd-144,2024-12-01T15:26:12Z,34503f46-0ad3-4582-abb9-7da1c2e2a772,pro,KE,5,Keeps crashing on mobile,Better reporting
+0f537091-b89,2025-03-01T20:19:33Z,34503f46-0ad3-4582-abb9-7da1c2e2a772,pro,KE,10,Super easy to use,More integrations
+536e90c1-37e,2025-06-01T11:50:50Z,34503f46-0ad3-4582-abb9-7da1c2e2a772,pro,KE,9,Best tool for my team,Mobile app improvements
+675a236d-eb1,2024-12-01T22:18:39Z,ba26d547-bb66-4f7d-bf99-ca3409c391ca,business,GH,10,Love the kanban board,More integrations
+13efd39a-3d1,2025-03-01T10:59:23Z,ba26d547-bb66-4f7d-bf99-ca3409c391ca,business,GH,9,"Clean UI, nothing bloated",Bulk actions
+0adcf611-fc7,2025-06-01T10:29:29Z,ba26d547-bb66-4f7d-bf99-ca3409c391ca,business,GH,9,"Clean UI, nothing bloated",More integrations
+d9a6204e-a52,2025-06-01T08:23:12Z,c1786355-8e91-43be-98db-17415633357a,starter,CA,7,Decent price,Mobile app improvements
+bd80a9de-1d0,2024-09-01T03:33:59Z,91069940-7a53-43f1-9fd7-ce6d52d525fb,business,US,9,"Clean UI, nothing bloated",Better reporting
+55750a00-f6b,2024-12-01T06:20:06Z,91069940-7a53-43f1-9fd7-ce6d52d525fb,business,US,7,Good but missing a few features,API docs
+6e0cfe2a-b39,2025-03-01T22:37:13Z,91069940-7a53-43f1-9fd7-ce6d52d525fb,business,US,10,Love the kanban board,Bulk actions
+0966ca48-789,2025-06-01T08:26:48Z,91069940-7a53-43f1-9fd7-ce6d52d525fb,business,US,5,Support was slow,Bulk actions
+2bbde1ab-4b2,2024-03-01T03:54:33Z,6a1c083f-92f7-4340-b503-7d8cec8cc750,pro,NG,9,Love the kanban board,Better reporting
+7730d17c-d58,2024-06-01T10:39:07Z,6a1c083f-92f7-4340-b503-7d8cec8cc750,pro,NG,8,Works well enough,Mobile app improvements
+3dcba738-911,2024-09-01T17:40:21Z,6a1c083f-92f7-4340-b503-7d8cec8cc750,pro,NG,8,Some bugs occasionally,More integrations
+e7b0d376-f6d,2024-12-01T07:45:51Z,6a1c083f-92f7-4340-b503-7d8cec8cc750,pro,NG,7,Some bugs occasionally,API docs
+1d3607c8-9b2,2025-03-01T12:14:48Z,6a1c083f-92f7-4340-b503-7d8cec8cc750,pro,NG,10,Best tool for my team,Bulk actions
+6c3d4c35-fb9,2025-06-01T09:07:41Z,6a1c083f-92f7-4340-b503-7d8cec8cc750,pro,NG,9,Love the kanban board,Better reporting
+ce68aaf0-698,2025-03-01T18:16:28Z,159ac321-0ec2-4047-a620-6899ec87b231,starter,US,10,Great value,Mobile app improvements
+83d713ce-e4c,2025-06-01T15:13:20Z,159ac321-0ec2-4047-a620-6899ec87b231,starter,US,7,Good but missing a few features,Mobile app improvements
+0b48341c-9d1,2024-06-01T19:06:49Z,da859367-c27c-4a3a-8d3f-d20771fe9d6f,starter,NG,9,Super easy to use,Mobile app improvements
+07473c7b-7af,2024-09-01T13:08:10Z,da859367-c27c-4a3a-8d3f-d20771fe9d6f,starter,NG,10,Super easy to use,Bulk actions
+52a5f2f4-863,2024-12-01T02:52:25Z,da859367-c27c-4a3a-8d3f-d20771fe9d6f,starter,NG,8,Decent price,API docs
+797f3609-5e5,2025-03-01T05:42:26Z,da859367-c27c-4a3a-8d3f-d20771fe9d6f,starter,NG,10,Love the kanban board,Mobile app improvements
+1464deb2-397,2025-06-01T03:46:08Z,da859367-c27c-4a3a-8d3f-d20771fe9d6f,starter,NG,10,"Clean UI, nothing bloated",More integrations
+83c9442f-0a3,2024-12-01T12:02:41Z,275d38d5-e2ef-4f47-b3fd-5ee2508630f0,pro,NG,8,Good but missing a few features,More integrations
+5eaa50b1-d08,2025-03-01T23:04:41Z,275d38d5-e2ef-4f47-b3fd-5ee2508630f0,pro,NG,10,Best tool for my team,API docs
+873060bb-e09,2025-06-01T22:23:49Z,275d38d5-e2ef-4f47-b3fd-5ee2508630f0,pro,NG,10,"Clean UI, nothing bloated",Bulk actions
+5d22b9c2-bb4,2024-06-01T10:21:02Z,f82ef9e7-3f07-451b-b1e1-8041d4780ea1,pro,US,6,Confusing onboarding,Bulk actions
+107e2ac2-759,2024-09-01T19:14:16Z,f82ef9e7-3f07-451b-b1e1-8041d4780ea1,pro,US,10,"Clean UI, nothing bloated",Better reporting
+55303739-7b8,2024-12-01T14:54:14Z,f82ef9e7-3f07-451b-b1e1-8041d4780ea1,pro,US,8,Decent price,More integrations
+b5ac3e88-412,2025-03-01T15:22:50Z,f82ef9e7-3f07-451b-b1e1-8041d4780ea1,pro,US,9,Best tool for my team,More integrations
+0244dd07-146,2025-06-01T15:12:20Z,f82ef9e7-3f07-451b-b1e1-8041d4780ea1,pro,US,7,Good but missing a few features,More integrations
+6b40303a-9fc,2024-09-01T20:05:21Z,3167426b-653b-4fdf-a550-0dd9dc010687,pro,GB,4,Support was slow,Bulk actions
+795729a9-da0,2024-12-01T11:52:24Z,3167426b-653b-4fdf-a550-0dd9dc010687,pro,GB,7,Some bugs occasionally,
+5f38c4da-9e6,2025-03-01T09:37:39Z,3167426b-653b-4fdf-a550-0dd9dc010687,pro,GB,7,Good but missing a few features,Bulk actions
+0264759d-b34,2025-06-01T04:01:50Z,3167426b-653b-4fdf-a550-0dd9dc010687,pro,GB,9,Saves me hours every week,Mobile app improvements
+bb87a1d1-f2e,2024-09-01T00:37:54Z,e54c5ca5-afc8-4557-bc7b-6ce30fbb67ba,starter,NG,10,Love the kanban board,API docs
+498c8f94-0b6,2024-12-01T15:34:48Z,e54c5ca5-afc8-4557-bc7b-6ce30fbb67ba,starter,NG,9,Great value,
+dfab71f9-be6,2025-03-01T01:51:58Z,e54c5ca5-afc8-4557-bc7b-6ce30fbb67ba,starter,NG,5,Too expensive for what it offers,More integrations
+167662a9-e1d,2025-06-01T06:48:54Z,e54c5ca5-afc8-4557-bc7b-6ce30fbb67ba,starter,NG,9,Super easy to use,
+a4b638ab-3ae,2024-09-01T15:14:31Z,0e8241f7-fd44-4e63-9ba8-69626582981d,pro,GH,10,Best tool for my team,Mobile app improvements
+a4bf4538-80d,2024-12-01T04:08:38Z,0e8241f7-fd44-4e63-9ba8-69626582981d,pro,GH,3,Too expensive for what it offers,API docs
+b5a0ff08-a3a,2025-03-01T01:25:29Z,0e8241f7-fd44-4e63-9ba8-69626582981d,pro,GH,7,Some bugs occasionally,Bulk actions
+d13e03c2-ae8,2025-06-01T19:22:44Z,0e8241f7-fd44-4e63-9ba8-69626582981d,pro,GH,10,Love the kanban board,Mobile app improvements
+486a3060-e02,2024-12-01T04:19:34Z,37920d49-f1a8-417d-9969-a3280ee99608,starter,GB,10,Best tool for my team,
+e0f65727-e20,2025-03-01T23:45:56Z,37920d49-f1a8-417d-9969-a3280ee99608,starter,GB,10,Super easy to use,Better reporting
+867061de-283,2025-06-01T00:05:53Z,37920d49-f1a8-417d-9969-a3280ee99608,starter,GB,9,Best tool for my team,Bulk actions
+63ce277d-e08,2024-06-01T00:01:28Z,eb0e58b8-3c15-4c57-90e2-69d220c6172d,business,NG,8,Some bugs occasionally,More integrations
+5d5913cd-449,2024-09-01T13:55:33Z,eb0e58b8-3c15-4c57-90e2-69d220c6172d,business,NG,10,Best tool for my team,Bulk actions
+0b527613-238,2024-12-01T23:27:49Z,eb0e58b8-3c15-4c57-90e2-69d220c6172d,business,NG,1,Support was slow,API docs
+dd285e19-d61,2025-03-01T02:41:16Z,eb0e58b8-3c15-4c57-90e2-69d220c6172d,business,NG,5,Support was slow,Bulk actions
+6d737024-f30,2025-06-01T17:39:21Z,eb0e58b8-3c15-4c57-90e2-69d220c6172d,business,NG,10,Best tool for my team,More integrations
+92437371-d9a,2024-06-01T04:03:48Z,59df24b5-2ef1-4873-ac81-91d4b02fcf33,starter,BR,10,Great value,Mobile app improvements
+f7ed94ba-9ec,2024-09-01T20:20:35Z,59df24b5-2ef1-4873-ac81-91d4b02fcf33,starter,BR,9,"Clean UI, nothing bloated",More integrations
+15c7e1fd-9ef,2024-12-01T06:13:00Z,59df24b5-2ef1-4873-ac81-91d4b02fcf33,starter,BR,7,Some bugs occasionally,Bulk actions
+1284133c-fb5,2025-03-01T11:31:39Z,59df24b5-2ef1-4873-ac81-91d4b02fcf33,starter,BR,10,Best tool for my team,Better reporting
+f12f8aa8-17f,2025-06-01T03:07:11Z,59df24b5-2ef1-4873-ac81-91d4b02fcf33,starter,BR,5,Keeps crashing on mobile,More integrations
+a1be7bca-7b4,2025-03-01T12:10:07Z,ecb4f599-6c2c-4226-ab71-3d57208331f1,business,US,10,Saves me hours every week,
+79860a0b-880,2025-06-01T10:24:13Z,ecb4f599-6c2c-4226-ab71-3d57208331f1,business,US,9,Great value,More integrations
+321804ad-c1b,2024-06-01T09:49:53Z,2b1d5a70-51a7-4c83-8dea-4b513031a91e,pro,IN,10,Saves me hours every week,More integrations
+c76da856-408,2024-09-01T02:37:12Z,2b1d5a70-51a7-4c83-8dea-4b513031a91e,pro,IN,6,Keeps crashing on mobile,Better reporting
+14d186e1-3f3,2024-12-01T21:10:15Z,2b1d5a70-51a7-4c83-8dea-4b513031a91e,pro,IN,7,Some bugs occasionally,Mobile app improvements
+05831a15-e77,2025-03-01T11:02:57Z,2b1d5a70-51a7-4c83-8dea-4b513031a91e,pro,IN,9,Love the kanban board,Mobile app improvements
+0fd583c7-b7d,2025-06-01T11:48:20Z,2b1d5a70-51a7-4c83-8dea-4b513031a91e,pro,IN,7,Good but missing a few features,More integrations
+d1de5783-c48,2024-12-01T10:23:31Z,a76226a6-f8f2-4c53-9d95-29ae08804603,business,NG,9,Saves me hours every week,More integrations
+af123a3a-a81,2025-03-01T04:31:14Z,a76226a6-f8f2-4c53-9d95-29ae08804603,business,NG,10,Saves me hours every week,More integrations
+4738f8d3-d0b,2025-06-01T13:39:39Z,a76226a6-f8f2-4c53-9d95-29ae08804603,business,NG,10,Super easy to use,More integrations
+49e90bf0-bde,2025-03-01T19:59:10Z,3fb4b418-a6b8-4405-a4f0-8162daa0fbd5,business,GB,10,Super easy to use,Bulk actions
+50dc9339-596,2025-06-01T00:39:18Z,3fb4b418-a6b8-4405-a4f0-8162daa0fbd5,business,GB,0,Keeps crashing on mobile,API docs
+1bcd27bc-940,2024-12-01T21:08:28Z,3e2188ad-0a1f-4b29-8200-750a158a226e,pro,US,10,Super easy to use,More integrations
+78bd93d3-f00,2025-03-01T14:17:02Z,3e2188ad-0a1f-4b29-8200-750a158a226e,pro,US,10,Best tool for my team,More integrations
+bf95322c-914,2025-06-01T12:29:48Z,3e2188ad-0a1f-4b29-8200-750a158a226e,pro,US,6,Missing integrations I need,
+7d0ebada-eb9,2024-06-01T12:49:02Z,9d1dfc62-9f83-444c-8fff-a3dfbc4b9589,starter,ZA,10,Best tool for my team,Mobile app improvements
+d6d9524c-36c,2024-09-01T21:10:52Z,9d1dfc62-9f83-444c-8fff-a3dfbc4b9589,starter,ZA,9,Love the kanban board,
+ab070f57-bd9,2024-12-01T09:27:37Z,9d1dfc62-9f83-444c-8fff-a3dfbc4b9589,starter,ZA,8,Works well enough,Mobile app improvements
+18a9ea68-dfe,2025-03-01T07:37:36Z,9d1dfc62-9f83-444c-8fff-a3dfbc4b9589,starter,ZA,9,"Clean UI, nothing bloated",
+3e107ee2-968,2025-06-01T22:26:51Z,9d1dfc62-9f83-444c-8fff-a3dfbc4b9589,starter,ZA,10,Saves me hours every week,Bulk actions
+3166abce-6f6,2024-09-01T17:35:20Z,4f60b48f-01b0-4fcb-aa32-9f002b2a8706,starter,CA,9,Super easy to use,API docs
+8df45f83-ae4,2024-12-01T12:34:01Z,4f60b48f-01b0-4fcb-aa32-9f002b2a8706,starter,CA,9,Love the kanban board,More integrations
+ff7ed24f-99e,2025-03-01T01:52:12Z,4f60b48f-01b0-4fcb-aa32-9f002b2a8706,starter,CA,7,Decent price,API docs
+2a5e119d-278,2025-06-01T09:11:11Z,4f60b48f-01b0-4fcb-aa32-9f002b2a8706,starter,CA,9,Saves me hours every week,Mobile app improvements
+b72591e1-976,2024-03-01T00:56:39Z,26781901-6364-4a0f-b687-f5e8f2d9aee6,starter,US,10,Super easy to use,Mobile app improvements
+1533f2b2-7cf,2024-06-01T22:28:43Z,26781901-6364-4a0f-b687-f5e8f2d9aee6,starter,US,7,Decent price,API docs
+90ad0bc1-e86,2024-09-01T03:42:09Z,26781901-6364-4a0f-b687-f5e8f2d9aee6,starter,US,9,Best tool for my team,API docs
+b1bd5488-07d,2024-12-01T12:12:13Z,26781901-6364-4a0f-b687-f5e8f2d9aee6,starter,US,5,Confusing onboarding,Mobile app improvements
+8248b055-2f8,2025-03-01T21:39:02Z,26781901-6364-4a0f-b687-f5e8f2d9aee6,starter,US,9,Love the kanban board,Bulk actions
+1831725b-63f,2025-06-01T16:30:39Z,26781901-6364-4a0f-b687-f5e8f2d9aee6,starter,US,10,Super easy to use,Mobile app improvements
+e850833d-157,2024-06-01T15:19:27Z,d5fdf0f1-d51a-4c94-bd09-9808fecfaa4a,pro,CA,2,Confusing onboarding,Mobile app improvements
+60378e20-af8,2024-09-01T05:16:20Z,d5fdf0f1-d51a-4c94-bd09-9808fecfaa4a,pro,CA,9,Great value,Bulk actions
+0f0797d2-dfe,2024-12-01T09:50:29Z,d5fdf0f1-d51a-4c94-bd09-9808fecfaa4a,pro,CA,10,Saves me hours every week,API docs
+684a74b3-38b,2025-03-01T12:37:29Z,d5fdf0f1-d51a-4c94-bd09-9808fecfaa4a,pro,CA,5,Keeps crashing on mobile,API docs
+25c3d185-869,2025-06-01T17:44:37Z,d5fdf0f1-d51a-4c94-bd09-9808fecfaa4a,pro,CA,10,Best tool for my team,Bulk actions
+def19e38-920,2024-09-01T14:31:48Z,18578563-0955-478c-bce4-1a726d6fa0f6,pro,NG,7,Works well enough,More integrations
+a1b86801-212,2024-12-01T05:18:55Z,18578563-0955-478c-bce4-1a726d6fa0f6,pro,NG,10,Super easy to use,More integrations
+2f2bc8a0-307,2025-03-01T00:36:26Z,18578563-0955-478c-bce4-1a726d6fa0f6,pro,NG,8,Good but missing a few features,Mobile app improvements
+d16010d7-e9d,2025-06-01T22:53:58Z,18578563-0955-478c-bce4-1a726d6fa0f6,pro,NG,4,Missing integrations I need,Bulk actions
+34428a35-a69,2024-09-01T16:09:44Z,a31cfb2f-8ccf-4ef8-a25a-33b3e2754be3,business,US,10,Saves me hours every week,Bulk actions
+0e09e551-3c4,2024-12-01T11:13:38Z,a31cfb2f-8ccf-4ef8-a25a-33b3e2754be3,business,US,9,Saves me hours every week,Mobile app improvements
+d54b2a6a-3fe,2025-03-01T10:59:23Z,a31cfb2f-8ccf-4ef8-a25a-33b3e2754be3,business,US,1,Too expensive for what it offers,More integrations
+1d99f52a-8a2,2025-06-01T01:27:47Z,a31cfb2f-8ccf-4ef8-a25a-33b3e2754be3,business,US,8,Good but missing a few features,
+661b4092-e6d,2024-06-01T12:25:35Z,ec54bcd4-f3d2-4f20-bdd6-5cddbd1710ae,pro,US,7,Some bugs occasionally,Bulk actions
+239d5db3-9b7,2024-09-01T03:11:20Z,ec54bcd4-f3d2-4f20-bdd6-5cddbd1710ae,pro,US,8,Decent price,More integrations
+d1e28a59-5c4,2024-12-01T16:26:58Z,ec54bcd4-f3d2-4f20-bdd6-5cddbd1710ae,pro,US,10,Saves me hours every week,API docs
+42e085cf-e78,2025-03-01T15:01:59Z,ec54bcd4-f3d2-4f20-bdd6-5cddbd1710ae,pro,US,10,Love the kanban board,Better reporting
+671648e2-65e,2025-06-01T21:44:57Z,ec54bcd4-f3d2-4f20-bdd6-5cddbd1710ae,pro,US,9,"Clean UI, nothing bloated",Mobile app improvements
+aade6f72-9a4,2024-06-01T10:58:04Z,e0ab5aa6-b62f-40b8-a999-2809f58cc285,business,NG,8,Works well enough,Bulk actions
+1c355044-9c7,2024-09-01T11:08:29Z,e0ab5aa6-b62f-40b8-a999-2809f58cc285,business,NG,9,"Clean UI, nothing bloated",Better reporting
+3112a4d5-9be,2024-12-01T03:46:06Z,e0ab5aa6-b62f-40b8-a999-2809f58cc285,business,NG,10,Love the kanban board,
+2250540b-cad,2025-03-01T02:18:31Z,e0ab5aa6-b62f-40b8-a999-2809f58cc285,business,NG,6,Too expensive for what it offers,API docs
+b90d47c7-d08,2025-06-01T08:59:00Z,e0ab5aa6-b62f-40b8-a999-2809f58cc285,business,NG,0,Too expensive for what it offers,API docs
+6f2ac6ae-352,2024-03-01T05:48:48Z,30cf2bd1-54f1-4783-a497-55054e73fe1c,pro,US,6,Keeps crashing on mobile,
+82ca8d07-a20,2024-06-01T13:11:52Z,30cf2bd1-54f1-4783-a497-55054e73fe1c,pro,US,5,Keeps crashing on mobile,Better reporting
+877fd1d3-643,2024-09-01T22:04:43Z,30cf2bd1-54f1-4783-a497-55054e73fe1c,pro,US,10,Super easy to use,Better reporting
+3dc243a6-f68,2024-12-01T09:32:28Z,30cf2bd1-54f1-4783-a497-55054e73fe1c,pro,US,3,Support was slow,API docs
+80a6fd5c-b60,2025-03-01T11:41:39Z,30cf2bd1-54f1-4783-a497-55054e73fe1c,pro,US,2,Missing integrations I need,Bulk actions
+16180720-551,2025-06-01T12:44:17Z,30cf2bd1-54f1-4783-a497-55054e73fe1c,pro,US,7,Decent price,API docs
+ae8e9c2d-78f,2024-03-01T16:02:04Z,4b01b2d4-76d4-4aa4-9dec-b278fe32a515,starter,GB,8,Decent price,Bulk actions
+51546863-6c6,2024-06-01T06:39:42Z,4b01b2d4-76d4-4aa4-9dec-b278fe32a515,starter,GB,9,Love the kanban board,Better reporting
+d124d8ed-6c0,2024-09-01T00:30:04Z,4b01b2d4-76d4-4aa4-9dec-b278fe32a515,starter,GB,9,Best tool for my team,Better reporting
+e22bb3e9-102,2024-12-01T07:31:02Z,4b01b2d4-76d4-4aa4-9dec-b278fe32a515,starter,GB,10,Super easy to use,Mobile app improvements
+7e02bcee-f65,2025-03-01T21:35:33Z,4b01b2d4-76d4-4aa4-9dec-b278fe32a515,starter,GB,10,Best tool for my team,Bulk actions
+04e2a56e-156,2025-06-01T19:50:47Z,4b01b2d4-76d4-4aa4-9dec-b278fe32a515,starter,GB,9,Super easy to use,Mobile app improvements
+ae50b34d-2fa,2024-09-01T03:37:24Z,e7d463d6-4c20-4b3f-92ac-a8564f7f9997,starter,ZA,6,Confusing onboarding,Bulk actions
+eda12a46-456,2024-12-01T07:13:52Z,e7d463d6-4c20-4b3f-92ac-a8564f7f9997,starter,ZA,10,Saves me hours every week,Bulk actions
+4c491a5b-aeb,2025-03-01T21:28:57Z,e7d463d6-4c20-4b3f-92ac-a8564f7f9997,starter,ZA,8,Some bugs occasionally,Mobile app improvements
+833f7686-bf3,2025-06-01T10:01:18Z,e7d463d6-4c20-4b3f-92ac-a8564f7f9997,starter,ZA,9,"Clean UI, nothing bloated",Bulk actions
+33b9e7d4-4d9,2024-06-01T20:41:40Z,6034b4d4-1ca5-4474-aa2d-abc29508e107,starter,CA,9,Best tool for my team,
+da8d58f8-371,2024-09-01T19:00:52Z,6034b4d4-1ca5-4474-aa2d-abc29508e107,starter,CA,10,Super easy to use,API docs
+25d2f3fd-3ca,2024-12-01T22:13:18Z,6034b4d4-1ca5-4474-aa2d-abc29508e107,starter,CA,10,Super easy to use,Mobile app improvements
+8b852fec-c14,2025-03-01T02:17:48Z,6034b4d4-1ca5-4474-aa2d-abc29508e107,starter,CA,8,Good but missing a few features,Bulk actions
+38db1c01-a80,2025-06-01T03:28:30Z,6034b4d4-1ca5-4474-aa2d-abc29508e107,starter,CA,9,"Clean UI, nothing bloated",More integrations
+d9c3d43f-b0b,2024-06-01T09:57:09Z,c1690484-e760-4987-9113-26b2a3beb41a,pro,CA,3,Keeps crashing on mobile,Better reporting
+3052401d-d84,2024-09-01T05:56:01Z,c1690484-e760-4987-9113-26b2a3beb41a,pro,CA,9,Saves me hours every week,More integrations
+79550a7c-de3,2024-12-01T22:47:49Z,c1690484-e760-4987-9113-26b2a3beb41a,pro,CA,9,"Clean UI, nothing bloated",Mobile app improvements
+31bcba78-f15,2025-03-01T10:09:01Z,c1690484-e760-4987-9113-26b2a3beb41a,pro,CA,5,Too expensive for what it offers,Mobile app improvements
+3e385d4c-872,2025-06-01T22:29:31Z,c1690484-e760-4987-9113-26b2a3beb41a,pro,CA,1,Too expensive for what it offers,
+b2db50c3-990,2024-03-01T09:10:40Z,a77c14b3-e387-4a54-9b56-8bb39f8c5adc,starter,ZA,8,Decent price,Better reporting
+f3ac2268-773,2024-06-01T03:57:26Z,a77c14b3-e387-4a54-9b56-8bb39f8c5adc,starter,ZA,8,Good but missing a few features,Bulk actions
+31004194-7f9,2024-09-01T09:59:18Z,a77c14b3-e387-4a54-9b56-8bb39f8c5adc,starter,ZA,8,Decent price,Better reporting
+d7ef877f-86c,2024-12-01T10:14:36Z,a77c14b3-e387-4a54-9b56-8bb39f8c5adc,starter,ZA,10,Best tool for my team,API docs
+5267c239-d94,2025-03-01T22:22:18Z,a77c14b3-e387-4a54-9b56-8bb39f8c5adc,starter,ZA,5,Missing integrations I need,Bulk actions
+fa067bce-3af,2025-06-01T16:33:02Z,a77c14b3-e387-4a54-9b56-8bb39f8c5adc,starter,ZA,8,Good but missing a few features,Bulk actions
+0f30634d-256,2024-06-01T17:16:39Z,007e807a-b3ee-4248-883b-a886ebfa96ff,pro,ZA,10,Love the kanban board,Bulk actions
+f458a1e9-c48,2024-09-01T11:41:48Z,007e807a-b3ee-4248-883b-a886ebfa96ff,pro,ZA,10,"Clean UI, nothing bloated",Better reporting
+7e55d6e2-fcd,2024-12-01T18:38:39Z,007e807a-b3ee-4248-883b-a886ebfa96ff,pro,ZA,9,"Clean UI, nothing bloated",Mobile app improvements
+8c315faa-d8e,2025-03-01T22:00:56Z,007e807a-b3ee-4248-883b-a886ebfa96ff,pro,ZA,6,Too expensive for what it offers,API docs
+2c8e879c-ee9,2025-06-01T14:34:10Z,007e807a-b3ee-4248-883b-a886ebfa96ff,pro,ZA,8,Decent price,Better reporting
+6f66f7d0-f60,2024-12-01T22:24:31Z,e0854a27-2cbd-453f-bc49-493d550003d8,pro,US,8,Good but missing a few features,API docs
+0c632f8d-9ed,2025-03-01T15:26:23Z,e0854a27-2cbd-453f-bc49-493d550003d8,pro,US,8,Decent price,Mobile app improvements
+f6c94e94-107,2025-06-01T18:42:01Z,e0854a27-2cbd-453f-bc49-493d550003d8,pro,US,10,"Clean UI, nothing bloated",Bulk actions
+ea22b819-cd8,2025-03-01T21:01:18Z,7f7f2bc1-ff30-4bea-abf9-54adf4173249,pro,US,9,Saves me hours every week,Bulk actions
+4a570bdb-ac3,2025-06-01T02:48:54Z,7f7f2bc1-ff30-4bea-abf9-54adf4173249,pro,US,10,"Clean UI, nothing bloated",More integrations
+df107572-9be,2024-03-01T11:26:25Z,7a840a0b-6c75-400b-82a3-c539fb517d9b,starter,GB,8,Works well enough,Better reporting
+9dae6cce-dda,2024-06-01T19:40:40Z,7a840a0b-6c75-400b-82a3-c539fb517d9b,starter,GB,10,"Clean UI, nothing bloated",Better reporting
+43b79f90-157,2024-09-01T13:20:13Z,7a840a0b-6c75-400b-82a3-c539fb517d9b,starter,GB,8,Good but missing a few features,Better reporting
+51fb3e6f-7c6,2024-12-01T22:27:00Z,7a840a0b-6c75-400b-82a3-c539fb517d9b,starter,GB,10,"Clean UI, nothing bloated",Mobile app improvements
+f488b241-3d3,2025-03-01T10:14:48Z,7a840a0b-6c75-400b-82a3-c539fb517d9b,starter,GB,10,Super easy to use,
+9e61ceb7-617,2025-06-01T01:35:14Z,7a840a0b-6c75-400b-82a3-c539fb517d9b,starter,GB,10,Love the kanban board,API docs
+534f18d5-47e,2024-03-01T18:18:28Z,8fa60340-4f6a-4b5d-b380-f59019a97945,pro,NG,7,Works well enough,Mobile app improvements
+d95f9e76-4d3,2024-06-01T21:54:15Z,8fa60340-4f6a-4b5d-b380-f59019a97945,pro,NG,8,Works well enough,
+fbe120a7-6c8,2024-09-01T16:18:31Z,8fa60340-4f6a-4b5d-b380-f59019a97945,pro,NG,9,Great value,API docs
+7a1cc169-3f4,2024-12-01T23:54:57Z,8fa60340-4f6a-4b5d-b380-f59019a97945,pro,NG,8,Some bugs occasionally,More integrations
+e2120c6a-81b,2025-03-01T15:41:21Z,8fa60340-4f6a-4b5d-b380-f59019a97945,pro,NG,6,Too expensive for what it offers,More integrations
+bfe9a59c-552,2025-06-01T16:41:51Z,8fa60340-4f6a-4b5d-b380-f59019a97945,pro,NG,10,"Clean UI, nothing bloated",
+47c82268-603,2024-09-01T20:48:30Z,3c2a6b98-3637-4952-ac7c-6cf4b01d7ec6,starter,US,9,Super easy to use,Better reporting
+afd38780-7ce,2024-12-01T05:07:57Z,3c2a6b98-3637-4952-ac7c-6cf4b01d7ec6,starter,US,9,Saves me hours every week,Bulk actions
+63589b13-1e2,2025-03-01T16:56:55Z,3c2a6b98-3637-4952-ac7c-6cf4b01d7ec6,starter,US,8,Decent price,Bulk actions
+124d1bae-54a,2025-06-01T14:26:35Z,3c2a6b98-3637-4952-ac7c-6cf4b01d7ec6,starter,US,9,"Clean UI, nothing bloated",
+1060eaa2-569,2024-03-01T21:07:24Z,062dfc6d-5043-4d98-93e9-9e2be6b3fb61,pro,NG,10,"Clean UI, nothing bloated",
+3b162ab3-100,2024-06-01T07:37:08Z,062dfc6d-5043-4d98-93e9-9e2be6b3fb61,pro,NG,10,Great value,
+753bb4fb-00e,2024-09-01T17:17:10Z,062dfc6d-5043-4d98-93e9-9e2be6b3fb61,pro,NG,10,"Clean UI, nothing bloated",API docs
+922ec17d-37f,2024-12-01T11:27:02Z,062dfc6d-5043-4d98-93e9-9e2be6b3fb61,pro,NG,10,Best tool for my team,Bulk actions
+8dc012ec-100,2025-03-01T22:47:55Z,062dfc6d-5043-4d98-93e9-9e2be6b3fb61,pro,NG,9,Best tool for my team,Bulk actions
+adddb26e-a0f,2025-06-01T00:17:15Z,062dfc6d-5043-4d98-93e9-9e2be6b3fb61,pro,NG,6,Support was slow,API docs
+ebacb7ba-ceb,2024-06-01T04:58:32Z,596a7fa8-ab55-45a9-a5f7-0ebad3def23e,pro,NG,10,Super easy to use,Better reporting
+666d5b3d-ac8,2024-09-01T18:22:57Z,596a7fa8-ab55-45a9-a5f7-0ebad3def23e,pro,NG,7,Decent price,
+191ab673-1b7,2024-12-01T07:00:38Z,596a7fa8-ab55-45a9-a5f7-0ebad3def23e,pro,NG,10,Love the kanban board,
+099c92dd-dd9,2025-03-01T04:14:26Z,596a7fa8-ab55-45a9-a5f7-0ebad3def23e,pro,NG,7,Good but missing a few features,More integrations
+9fe73cdf-4e9,2025-06-01T11:45:37Z,596a7fa8-ab55-45a9-a5f7-0ebad3def23e,pro,NG,10,Best tool for my team,API docs
+1e0c7186-8d1,2024-09-01T20:21:10Z,cc82fffe-7092-447d-ba2a-71ce3c2c1c40,starter,GB,10,Super easy to use,API docs
+18c21548-d41,2024-12-01T17:45:39Z,cc82fffe-7092-447d-ba2a-71ce3c2c1c40,starter,GB,9,Great value,Mobile app improvements
+584dc0f3-b0d,2025-03-01T05:18:51Z,cc82fffe-7092-447d-ba2a-71ce3c2c1c40,starter,GB,7,Decent price,Mobile app improvements
+9ab01981-9f2,2025-06-01T21:52:15Z,cc82fffe-7092-447d-ba2a-71ce3c2c1c40,starter,GB,10,Great value,Mobile app improvements
+7a7b74f0-054,2024-03-01T18:59:54Z,45eb943f-5f00-4c0e-a879-983f20abcb94,business,DE,9,Super easy to use,More integrations
+1ef91da1-a8b,2024-06-01T18:47:36Z,45eb943f-5f00-4c0e-a879-983f20abcb94,business,DE,8,Some bugs occasionally,
+6472dc03-f4e,2024-09-01T17:26:35Z,45eb943f-5f00-4c0e-a879-983f20abcb94,business,DE,7,Decent price,API docs
+8dab8496-172,2024-12-01T18:39:09Z,45eb943f-5f00-4c0e-a879-983f20abcb94,business,DE,8,Good but missing a few features,
+608cd57d-16b,2025-03-01T17:30:51Z,45eb943f-5f00-4c0e-a879-983f20abcb94,business,DE,10,Best tool for my team,
+baa01b10-a48,2025-06-01T06:38:03Z,45eb943f-5f00-4c0e-a879-983f20abcb94,business,DE,8,Decent price,Better reporting
+f3c2dbe9-83e,2024-03-01T16:24:35Z,a7637559-2519-4035-84bd-1c0f1157da81,starter,KE,2,Confusing onboarding,More integrations
+7945c3e0-8f1,2024-06-01T23:31:45Z,a7637559-2519-4035-84bd-1c0f1157da81,starter,KE,10,Love the kanban board,API docs
+794be427-abf,2024-09-01T21:43:03Z,a7637559-2519-4035-84bd-1c0f1157da81,starter,KE,5,Confusing onboarding,More integrations
+50ca4a92-e88,2024-12-01T03:09:24Z,a7637559-2519-4035-84bd-1c0f1157da81,starter,KE,9,"Clean UI, nothing bloated",API docs
+d42c8d67-b4a,2025-03-01T04:39:07Z,a7637559-2519-4035-84bd-1c0f1157da81,starter,KE,10,Best tool for my team,API docs
+263368b7-f0a,2025-06-01T19:11:29Z,a7637559-2519-4035-84bd-1c0f1157da81,starter,KE,10,Best tool for my team,More integrations
+aa72e036-68e,2024-12-01T19:39:33Z,c9cd8e3d-cc0e-4884-a7e9-7cf40c963940,business,IN,9,"Clean UI, nothing bloated",Mobile app improvements
+a3019304-e66,2025-03-01T21:09:28Z,c9cd8e3d-cc0e-4884-a7e9-7cf40c963940,business,IN,5,Keeps crashing on mobile,
+3c338d36-960,2025-06-01T02:14:03Z,c9cd8e3d-cc0e-4884-a7e9-7cf40c963940,business,IN,6,Support was slow,API docs
+7dab2acc-6e7,2025-03-01T00:18:32Z,ff0024b9-dfbf-453e-93fb-745d2af41459,business,US,9,Saves me hours every week,Mobile app improvements
+f0b2e36d-15c,2025-06-01T04:38:18Z,ff0024b9-dfbf-453e-93fb-745d2af41459,business,US,6,Keeps crashing on mobile,Mobile app improvements
+0249dfa3-eea,2024-06-01T10:51:27Z,19f7e7fc-0633-4f1b-8f70-da67a5069047,business,CA,9,Love the kanban board,Mobile app improvements
+c4820cc5-efe,2024-09-01T14:52:54Z,19f7e7fc-0633-4f1b-8f70-da67a5069047,business,CA,8,Works well enough,Bulk actions
+3158ba6b-0e0,2024-12-01T00:30:24Z,19f7e7fc-0633-4f1b-8f70-da67a5069047,business,CA,9,Love the kanban board,API docs
+1625c12b-cfa,2025-03-01T19:46:52Z,19f7e7fc-0633-4f1b-8f70-da67a5069047,business,CA,6,Too expensive for what it offers,API docs
+e719c5db-5eb,2025-06-01T21:39:01Z,19f7e7fc-0633-4f1b-8f70-da67a5069047,business,CA,9,Great value,Better reporting
+e3066e7b-453,2024-06-01T19:40:50Z,728324e1-e8a9-4a58-a87d-1b5be134590a,pro,NG,7,Good but missing a few features,More integrations
+e67a1613-ea1,2024-09-01T08:44:57Z,728324e1-e8a9-4a58-a87d-1b5be134590a,pro,NG,9,Great value,
+d2c54f25-43f,2024-12-01T17:22:03Z,728324e1-e8a9-4a58-a87d-1b5be134590a,pro,NG,10,Best tool for my team,Bulk actions
+4c408708-668,2025-03-01T22:55:51Z,728324e1-e8a9-4a58-a87d-1b5be134590a,pro,NG,9,Saves me hours every week,Bulk actions
+4b4db1d2-dad,2025-06-01T17:15:48Z,728324e1-e8a9-4a58-a87d-1b5be134590a,pro,NG,8,Works well enough,Bulk actions
+4af7b022-fd4,2025-03-01T13:43:39Z,5612be77-7e9b-4991-8112-f2678452171c,business,NG,6,Missing integrations I need,Better reporting
+4b9bdb11-943,2025-06-01T02:48:08Z,5612be77-7e9b-4991-8112-f2678452171c,business,NG,10,"Clean UI, nothing bloated",Mobile app improvements
+feb5b021-189,2025-03-01T00:29:37Z,7456a183-4e68-42d2-92cf-300aac1b35a5,business,NG,10,Saves me hours every week,Better reporting
+33764955-b33,2025-06-01T16:48:30Z,7456a183-4e68-42d2-92cf-300aac1b35a5,business,NG,10,Saves me hours every week,API docs
+e1fe36df-bcd,2024-09-01T14:01:11Z,253ceff3-2319-46bb-a051-a3f99b521d31,starter,NG,2,Support was slow,Mobile app improvements
+cdaeb34e-fcd,2024-12-01T18:11:41Z,253ceff3-2319-46bb-a051-a3f99b521d31,starter,NG,10,Best tool for my team,More integrations
+086d2546-f91,2025-03-01T02:33:27Z,253ceff3-2319-46bb-a051-a3f99b521d31,starter,NG,6,Support was slow,More integrations
+9f15081e-17a,2025-06-01T19:46:58Z,253ceff3-2319-46bb-a051-a3f99b521d31,starter,NG,9,Best tool for my team,Better reporting
+9079e4f8-f5f,2024-06-01T00:15:51Z,d8775e3b-8f57-423c-9149-7fca8cfb65ce,pro,NG,10,"Clean UI, nothing bloated",More integrations
+9844d14c-cec,2024-09-01T12:18:38Z,d8775e3b-8f57-423c-9149-7fca8cfb65ce,pro,NG,10,Great value,API docs
+cbb69baf-699,2024-12-01T04:20:35Z,d8775e3b-8f57-423c-9149-7fca8cfb65ce,pro,NG,7,Decent price,More integrations
+06630264-9cf,2025-03-01T10:32:43Z,d8775e3b-8f57-423c-9149-7fca8cfb65ce,pro,NG,0,Confusing onboarding,Better reporting
+f0568e66-c50,2025-06-01T05:22:33Z,d8775e3b-8f57-423c-9149-7fca8cfb65ce,pro,NG,9,Saves me hours every week,
+7cdcea24-a18,2025-03-01T08:56:40Z,6da4ded4-e593-40d1-947a-b058ec912797,pro,ZA,9,Saves me hours every week,Better reporting
+f9b0bf67-8e2,2025-06-01T13:07:07Z,6da4ded4-e593-40d1-947a-b058ec912797,pro,ZA,8,Works well enough,Mobile app improvements
+afd8f03b-e40,2024-09-01T10:50:24Z,280d69e6-d8b2-4359-b870-c3682aa30b59,pro,GB,10,Great value,Mobile app improvements
+fca54723-0be,2024-12-01T04:24:56Z,280d69e6-d8b2-4359-b870-c3682aa30b59,pro,GB,9,Saves me hours every week,API docs
+e7763b1c-17b,2025-03-01T18:00:57Z,280d69e6-d8b2-4359-b870-c3682aa30b59,pro,GB,8,Some bugs occasionally,Better reporting
+bc615543-5ea,2025-06-01T14:45:16Z,280d69e6-d8b2-4359-b870-c3682aa30b59,pro,GB,10,Love the kanban board,API docs
+d15c5cf7-4a9,2024-09-01T14:21:46Z,4420029c-98ac-444c-9ba4-2120017a6d9e,pro,NG,9,Super easy to use,More integrations
+5b95ff48-869,2024-12-01T06:29:50Z,4420029c-98ac-444c-9ba4-2120017a6d9e,pro,NG,7,Works well enough,
+5a02bde7-6a1,2025-03-01T05:04:32Z,4420029c-98ac-444c-9ba4-2120017a6d9e,pro,NG,9,Love the kanban board,Better reporting
+d90110c5-5d8,2025-06-01T10:15:45Z,4420029c-98ac-444c-9ba4-2120017a6d9e,pro,NG,10,Best tool for my team,More integrations
+41187925-948,2025-06-01T19:27:27Z,c4bbf0ee-8682-497b-83f8-f4226d806187,starter,NG,5,Missing integrations I need,Better reporting
+174adea4-647,2024-06-01T13:57:58Z,92ed1a9a-9870-4f1e-b072-31d43ac50600,pro,ZA,9,"Clean UI, nothing bloated",
+43f159df-d72,2024-09-01T08:10:46Z,92ed1a9a-9870-4f1e-b072-31d43ac50600,pro,ZA,10,Great value,API docs
+46c67339-9d7,2024-12-01T08:10:30Z,92ed1a9a-9870-4f1e-b072-31d43ac50600,pro,ZA,10,Super easy to use,Bulk actions
+96b3f0f2-cc7,2025-03-01T09:14:49Z,92ed1a9a-9870-4f1e-b072-31d43ac50600,pro,ZA,10,Saves me hours every week,Mobile app improvements
+a3eaffbc-193,2025-06-01T08:15:41Z,92ed1a9a-9870-4f1e-b072-31d43ac50600,pro,ZA,8,Good but missing a few features,Better reporting
+e32ea2fc-cb5,2025-03-01T07:11:02Z,3a1f2b87-7ae1-4a22-8092-ec54cda2ee92,pro,GB,10,Great value,API docs
+d153abf2-9c2,2025-06-01T00:38:13Z,3a1f2b87-7ae1-4a22-8092-ec54cda2ee92,pro,GB,9,Best tool for my team,Bulk actions
+836967c4-fa2,2024-06-01T07:15:42Z,ace72e09-e54f-4867-842f-0eaf02bc83c8,pro,GH,6,Support was slow,Mobile app improvements
+e67fd6a2-a01,2024-09-01T19:18:32Z,ace72e09-e54f-4867-842f-0eaf02bc83c8,pro,GH,10,Great value,API docs
+f31f19dd-724,2024-12-01T20:14:39Z,ace72e09-e54f-4867-842f-0eaf02bc83c8,pro,GH,8,Works well enough,API docs
+ad331545-cff,2025-03-01T03:09:13Z,ace72e09-e54f-4867-842f-0eaf02bc83c8,pro,GH,5,Confusing onboarding,
+21f3d488-dbc,2025-06-01T17:19:11Z,ace72e09-e54f-4867-842f-0eaf02bc83c8,pro,GH,4,Keeps crashing on mobile,Better reporting
+e26785c0-5f1,2024-06-01T21:25:55Z,1d367865-a456-4d24-82be-3058dd0315d0,business,US,10,"Clean UI, nothing bloated",Better reporting
+f4f0af6d-d23,2024-09-01T17:29:44Z,1d367865-a456-4d24-82be-3058dd0315d0,business,US,8,Good but missing a few features,API docs
+bff57db1-da8,2024-12-01T05:57:27Z,1d367865-a456-4d24-82be-3058dd0315d0,business,US,9,Great value,Better reporting
+be681947-325,2025-03-01T05:19:21Z,1d367865-a456-4d24-82be-3058dd0315d0,business,US,8,Decent price,Bulk actions
+74c4d7f5-36c,2025-06-01T04:32:31Z,1d367865-a456-4d24-82be-3058dd0315d0,business,US,9,Saves me hours every week,Bulk actions
+b2e60c30-a1f,2024-03-01T02:43:50Z,4fe6c0d1-f0e7-4cb5-9787-23e33a216ed2,pro,GB,8,Some bugs occasionally,
+96d6c00a-b9c,2024-06-01T20:40:40Z,4fe6c0d1-f0e7-4cb5-9787-23e33a216ed2,pro,GB,9,Saves me hours every week,Mobile app improvements
+079e4606-31a,2024-09-01T21:56:01Z,4fe6c0d1-f0e7-4cb5-9787-23e33a216ed2,pro,GB,10,Saves me hours every week,
+20db3902-20c,2024-12-01T13:11:15Z,4fe6c0d1-f0e7-4cb5-9787-23e33a216ed2,pro,GB,10,Saves me hours every week,More integrations
+5adee81a-66a,2025-03-01T01:53:39Z,4fe6c0d1-f0e7-4cb5-9787-23e33a216ed2,pro,GB,8,Works well enough,More integrations
+a4fe406d-578,2025-06-01T19:30:56Z,4fe6c0d1-f0e7-4cb5-9787-23e33a216ed2,pro,GB,9,Saves me hours every week,API docs
+175b86bf-124,2024-09-01T03:21:37Z,1be6b9d7-41c9-4d2f-a70d-903cc531acca,starter,ZA,7,Good but missing a few features,
+712de8c1-79c,2024-12-01T19:36:54Z,1be6b9d7-41c9-4d2f-a70d-903cc531acca,starter,ZA,9,Best tool for my team,Mobile app improvements
+fc4de8bf-698,2025-03-01T06:59:11Z,1be6b9d7-41c9-4d2f-a70d-903cc531acca,starter,ZA,8,Decent price,
+34edb1c6-a12,2025-06-01T09:51:36Z,1be6b9d7-41c9-4d2f-a70d-903cc531acca,starter,ZA,10,Saves me hours every week,
+fd4b4e63-e04,2025-03-01T11:58:25Z,b1ee4131-79c8-4cf8-9e4d-d4c6c106620c,pro,GB,10,Saves me hours every week,Mobile app improvements
+8d77bdcd-f90,2025-06-01T17:07:34Z,b1ee4131-79c8-4cf8-9e4d-d4c6c106620c,pro,GB,9,Saves me hours every week,More integrations
+708f2485-9b4,2024-03-01T17:50:18Z,e929f4e0-bf69-4638-b350-50d92187fdfc,pro,KE,10,Super easy to use,API docs
+9229fe2c-7b6,2024-06-01T16:29:10Z,e929f4e0-bf69-4638-b350-50d92187fdfc,pro,KE,9,Great value,Mobile app improvements
+62181484-d15,2024-09-01T10:11:54Z,e929f4e0-bf69-4638-b350-50d92187fdfc,pro,KE,9,"Clean UI, nothing bloated",API docs
+d1c16b77-88f,2024-12-01T13:43:03Z,e929f4e0-bf69-4638-b350-50d92187fdfc,pro,KE,10,Saves me hours every week,Mobile app improvements
+1fa6d2da-a70,2025-03-01T10:18:55Z,e929f4e0-bf69-4638-b350-50d92187fdfc,pro,KE,10,"Clean UI, nothing bloated",
+563af176-2ca,2025-06-01T22:52:34Z,e929f4e0-bf69-4638-b350-50d92187fdfc,pro,KE,9,"Clean UI, nothing bloated",
+3cab40fe-5e8,2024-12-01T16:44:23Z,a33a55fd-9e5a-422a-92b8-b06a1cea1dfd,starter,GH,9,Best tool for my team,
+022e8c8e-535,2025-03-01T12:39:28Z,a33a55fd-9e5a-422a-92b8-b06a1cea1dfd,starter,GH,9,Love the kanban board,API docs
+3f7c6dc4-b16,2025-06-01T07:32:57Z,a33a55fd-9e5a-422a-92b8-b06a1cea1dfd,starter,GH,10,Best tool for my team,More integrations
+a46f213d-261,2025-03-01T21:53:39Z,8de864eb-fae2-49e5-a6a3-0f68296cd964,pro,GB,9,Great value,
+d8c0f647-630,2025-06-01T14:57:11Z,8de864eb-fae2-49e5-a6a3-0f68296cd964,pro,GB,8,Good but missing a few features,Mobile app improvements
+cabced14-e98,2024-12-01T12:45:23Z,c682fd25-2104-4dd7-bbb9-d1d94de53690,starter,NG,8,Works well enough,Mobile app improvements
+65ba16f8-d04,2025-03-01T01:19:06Z,c682fd25-2104-4dd7-bbb9-d1d94de53690,starter,NG,9,Best tool for my team,
+1a741bc5-d00,2025-06-01T01:43:24Z,c682fd25-2104-4dd7-bbb9-d1d94de53690,starter,NG,9,Best tool for my team,Better reporting
+fc15da69-95e,2024-06-01T16:13:43Z,d6ba0b13-1e90-4386-8365-06c53352660b,pro,US,9,"Clean UI, nothing bloated",Bulk actions
+731c0007-0a7,2024-09-01T11:41:05Z,d6ba0b13-1e90-4386-8365-06c53352660b,pro,US,8,Good but missing a few features,Mobile app improvements
+9646adb4-963,2024-12-01T07:13:13Z,d6ba0b13-1e90-4386-8365-06c53352660b,pro,US,7,Works well enough,More integrations
+e0c33cc6-985,2025-03-01T00:32:04Z,d6ba0b13-1e90-4386-8365-06c53352660b,pro,US,10,Great value,Better reporting
+3bc2bf4d-c04,2025-06-01T18:49:21Z,d6ba0b13-1e90-4386-8365-06c53352660b,pro,US,6,Keeps crashing on mobile,Better reporting
+ebf8add7-350,2024-09-01T01:19:50Z,8df4122d-f01b-4a32-be67-44a99402f5c2,starter,CA,9,Super easy to use,More integrations
+e2cbe96a-963,2024-12-01T17:42:12Z,8df4122d-f01b-4a32-be67-44a99402f5c2,starter,CA,10,Love the kanban board,Better reporting
+9be91718-0f5,2025-03-01T11:42:15Z,8df4122d-f01b-4a32-be67-44a99402f5c2,starter,CA,8,Some bugs occasionally,Bulk actions
+c4f63964-3f9,2025-06-01T02:14:25Z,8df4122d-f01b-4a32-be67-44a99402f5c2,starter,CA,8,Some bugs occasionally,API docs
+e56f9ca5-933,2024-12-01T00:47:36Z,899f3301-1012-4f00-b6a9-ed48d83cf442,pro,NG,10,Love the kanban board,Mobile app improvements
+df149fb0-8ad,2025-03-01T19:33:52Z,899f3301-1012-4f00-b6a9-ed48d83cf442,pro,NG,8,Works well enough,Better reporting
+1a82c4f4-a50,2025-06-01T00:10:45Z,899f3301-1012-4f00-b6a9-ed48d83cf442,pro,NG,9,"Clean UI, nothing bloated",Mobile app improvements
+ee161d59-6ee,2024-03-01T23:34:26Z,11ec1245-5aaa-44af-8aa1-17b88994502c,pro,KE,9,"Clean UI, nothing bloated",Better reporting
+b09425cf-69f,2024-06-01T13:41:49Z,11ec1245-5aaa-44af-8aa1-17b88994502c,pro,KE,10,"Clean UI, nothing bloated",More integrations
+f7963159-fd1,2024-09-01T00:51:22Z,11ec1245-5aaa-44af-8aa1-17b88994502c,pro,KE,10,Best tool for my team,More integrations
+dd353553-f91,2024-12-01T06:13:48Z,11ec1245-5aaa-44af-8aa1-17b88994502c,pro,KE,10,Best tool for my team,Mobile app improvements
+b875dd79-11f,2025-03-01T10:16:57Z,11ec1245-5aaa-44af-8aa1-17b88994502c,pro,KE,4,Missing integrations I need,Mobile app improvements
+311d491c-651,2025-06-01T07:20:40Z,11ec1245-5aaa-44af-8aa1-17b88994502c,pro,KE,4,Too expensive for what it offers,
+000fb1eb-8f1,2024-06-01T02:46:27Z,c2c2d2f0-6690-4940-897a-d5686d41a4fc,starter,GB,9,Super easy to use,More integrations
+3b80daaf-5f3,2024-09-01T13:54:42Z,c2c2d2f0-6690-4940-897a-d5686d41a4fc,starter,GB,9,Super easy to use,More integrations
+59309619-984,2024-12-01T07:59:40Z,c2c2d2f0-6690-4940-897a-d5686d41a4fc,starter,GB,10,Great value,Better reporting
+9debda6e-4e7,2025-03-01T10:32:21Z,c2c2d2f0-6690-4940-897a-d5686d41a4fc,starter,GB,10,Super easy to use,API docs
+61c9e5f9-5be,2025-06-01T23:39:57Z,c2c2d2f0-6690-4940-897a-d5686d41a4fc,starter,GB,9,"Clean UI, nothing bloated",Bulk actions
+5d0cb81b-1b0,2024-09-01T23:45:39Z,9796f456-325e-44e9-a0b0-7d53e6ba2476,starter,IN,10,Super easy to use,Better reporting
+b2e975e4-1a3,2024-12-01T11:20:18Z,9796f456-325e-44e9-a0b0-7d53e6ba2476,starter,IN,10,Best tool for my team,API docs
+bd3c1d66-51b,2025-03-01T13:37:29Z,9796f456-325e-44e9-a0b0-7d53e6ba2476,starter,IN,8,Decent price,API docs
+fcfb8b48-7ec,2025-06-01T20:35:53Z,9796f456-325e-44e9-a0b0-7d53e6ba2476,starter,IN,10,Great value,More integrations
+9c1085af-436,2024-03-01T01:54:31Z,badcf06b-7c3b-454c-a7b4-c4d8f5f69b63,business,GB,8,Good but missing a few features,More integrations
+620d6459-2f2,2024-06-01T03:58:28Z,badcf06b-7c3b-454c-a7b4-c4d8f5f69b63,business,GB,10,Best tool for my team,Mobile app improvements
+1ba851e8-a08,2024-09-01T21:47:54Z,badcf06b-7c3b-454c-a7b4-c4d8f5f69b63,business,GB,8,Good but missing a few features,Better reporting
+057f0dc4-9fa,2024-12-01T01:48:21Z,badcf06b-7c3b-454c-a7b4-c4d8f5f69b63,business,GB,9,"Clean UI, nothing bloated",Mobile app improvements
+d52419d4-4df,2025-03-01T05:44:32Z,badcf06b-7c3b-454c-a7b4-c4d8f5f69b63,business,GB,9,Saves me hours every week,Bulk actions
+edd15aca-6d4,2025-06-01T16:52:25Z,badcf06b-7c3b-454c-a7b4-c4d8f5f69b63,business,GB,10,Great value,
+5c836005-e58,2024-06-01T09:50:17Z,608c8c77-b5bf-46ac-ac4c-b5a079fc28dc,starter,NG,10,"Clean UI, nothing bloated",Mobile app improvements
+b7490961-1eb,2024-09-01T06:17:21Z,608c8c77-b5bf-46ac-ac4c-b5a079fc28dc,starter,NG,9,Love the kanban board,
+e30fd6bf-b02,2024-12-01T10:56:00Z,608c8c77-b5bf-46ac-ac4c-b5a079fc28dc,starter,NG,6,Support was slow,
+3a629e94-c85,2025-03-01T08:38:46Z,608c8c77-b5bf-46ac-ac4c-b5a079fc28dc,starter,NG,10,Great value,Better reporting
+b7937173-e03,2025-06-01T14:39:35Z,608c8c77-b5bf-46ac-ac4c-b5a079fc28dc,starter,NG,10,Best tool for my team,More integrations
+49c1df98-634,2024-12-01T14:25:43Z,fcb28c0a-025a-4f3e-9dd9-95a2d9ba6b36,pro,GB,8,Works well enough,Mobile app improvements
+6bbff1fc-387,2025-03-01T04:07:43Z,fcb28c0a-025a-4f3e-9dd9-95a2d9ba6b36,pro,GB,3,Support was slow,Better reporting
+7f1abf70-abf,2025-06-01T17:05:13Z,fcb28c0a-025a-4f3e-9dd9-95a2d9ba6b36,pro,GB,7,Decent price,Bulk actions
+6aa9ab01-188,2024-12-01T06:01:12Z,baff0e8e-b04a-4b1b-bab8-eccb3f644fa0,starter,ZA,10,Best tool for my team,Bulk actions
+d8c77828-108,2025-03-01T11:11:16Z,baff0e8e-b04a-4b1b-bab8-eccb3f644fa0,starter,ZA,10,Saves me hours every week,Bulk actions
+486dbae0-785,2025-06-01T07:45:39Z,baff0e8e-b04a-4b1b-bab8-eccb3f644fa0,starter,ZA,9,"Clean UI, nothing bloated",
+421e0afb-fe0,2025-06-01T04:09:41Z,b6805c6e-23a9-4c79-87e5-9d15d5b7b18c,starter,CA,5,Confusing onboarding,API docs
+0b64695c-1e3,2024-06-01T22:57:10Z,12f93db1-cee7-409f-af8b-c0fd7e89db3c,pro,ZA,8,Decent price,More integrations
+ed5aa021-974,2024-09-01T20:16:18Z,12f93db1-cee7-409f-af8b-c0fd7e89db3c,pro,ZA,1,Too expensive for what it offers,Better reporting
+3463f805-e24,2024-12-01T17:50:13Z,12f93db1-cee7-409f-af8b-c0fd7e89db3c,pro,ZA,5,Too expensive for what it offers,Bulk actions
+9715b745-a91,2025-03-01T14:20:24Z,12f93db1-cee7-409f-af8b-c0fd7e89db3c,pro,ZA,10,Great value,Better reporting
+ee2e6503-558,2025-06-01T11:00:06Z,12f93db1-cee7-409f-af8b-c0fd7e89db3c,pro,ZA,8,Decent price,API docs
+2dce4e6e-f03,2025-06-01T11:56:23Z,ca9e1285-e8ff-45a0-88b7-1aa7f49c5f4d,pro,KE,7,Some bugs occasionally,More integrations
+c1eeb296-ffa,2024-12-01T02:14:47Z,726437c2-ba82-4a46-a3a0-ea623b9d0c40,starter,GB,10,Great value,API docs
+e81b170d-453,2025-03-01T18:22:44Z,726437c2-ba82-4a46-a3a0-ea623b9d0c40,starter,GB,9,Great value,Bulk actions
+95bbbe2f-b79,2025-06-01T09:46:16Z,726437c2-ba82-4a46-a3a0-ea623b9d0c40,starter,GB,6,Too expensive for what it offers,Bulk actions
+b26af1d9-68c,2025-03-01T09:12:08Z,d62c38c5-ea95-4be8-911b-4505674b53dc,pro,BR,10,Great value,More integrations
+ccad9b15-b6d,2025-06-01T09:02:23Z,d62c38c5-ea95-4be8-911b-4505674b53dc,pro,BR,9,Super easy to use,Bulk actions
+207a3e09-cf0,2024-09-01T02:44:31Z,f1e8404b-ef40-45c5-a05b-962140869124,business,NG,0,Keeps crashing on mobile,More integrations
+314eb422-718,2024-12-01T05:47:18Z,f1e8404b-ef40-45c5-a05b-962140869124,business,NG,8,Good but missing a few features,More integrations
+730bb938-c64,2025-03-01T07:36:25Z,f1e8404b-ef40-45c5-a05b-962140869124,business,NG,8,Works well enough,Mobile app improvements
+316cf1c1-a85,2025-06-01T17:03:55Z,f1e8404b-ef40-45c5-a05b-962140869124,business,NG,8,Decent price,Mobile app improvements
+c574eff6-1d0,2024-09-01T12:21:29Z,3087dcbe-81a4-4aca-a513-6cec2f9a99fe,starter,US,7,Decent price,
+c32f03f2-e50,2024-12-01T07:34:56Z,3087dcbe-81a4-4aca-a513-6cec2f9a99fe,starter,US,10,Love the kanban board,
+efd98e46-9f5,2025-03-01T19:01:24Z,3087dcbe-81a4-4aca-a513-6cec2f9a99fe,starter,US,4,Support was slow,Better reporting
+d8e98f3d-dfa,2025-06-01T10:10:05Z,3087dcbe-81a4-4aca-a513-6cec2f9a99fe,starter,US,1,Support was slow,
+868fc48a-3c2,2024-09-01T22:09:50Z,bed0ff42-9df3-41b5-a7a9-13c7f028451f,pro,US,9,Best tool for my team,More integrations
+c521a84b-c96,2024-12-01T08:16:24Z,bed0ff42-9df3-41b5-a7a9-13c7f028451f,pro,US,10,Super easy to use,
+714f950e-348,2025-03-01T14:52:35Z,bed0ff42-9df3-41b5-a7a9-13c7f028451f,pro,US,9,"Clean UI, nothing bloated",
+11c42f89-4de,2025-06-01T01:48:45Z,bed0ff42-9df3-41b5-a7a9-13c7f028451f,pro,US,8,Works well enough,Better reporting
+0676351e-df7,2024-06-01T23:56:39Z,00ba9c06-8a1e-4ad7-a0d8-36beab957377,business,GB,9,Best tool for my team,More integrations
+49e3eb1e-fe2,2024-09-01T10:10:43Z,00ba9c06-8a1e-4ad7-a0d8-36beab957377,business,GB,10,Love the kanban board,More integrations
+ecb2e715-f8f,2024-12-01T05:39:40Z,00ba9c06-8a1e-4ad7-a0d8-36beab957377,business,GB,10,Best tool for my team,
+cdf67eb3-a96,2025-03-01T07:21:51Z,00ba9c06-8a1e-4ad7-a0d8-36beab957377,business,GB,9,"Clean UI, nothing bloated",Bulk actions
+636e6a1c-864,2025-06-01T14:34:24Z,00ba9c06-8a1e-4ad7-a0d8-36beab957377,business,GB,6,Confusing onboarding,Bulk actions
+2e751be7-256,2024-03-01T23:25:54Z,c2697055-06ec-4e52-b985-9a098d0c894c,pro,DE,10,Great value,Mobile app improvements
+d42cebaf-3d6,2024-06-01T04:30:38Z,c2697055-06ec-4e52-b985-9a098d0c894c,pro,DE,5,Missing integrations I need,
+6ba1c845-6b0,2024-09-01T07:36:31Z,c2697055-06ec-4e52-b985-9a098d0c894c,pro,DE,8,Decent price,Bulk actions
+1ab00d87-29d,2024-12-01T15:56:46Z,c2697055-06ec-4e52-b985-9a098d0c894c,pro,DE,10,Saves me hours every week,Bulk actions
+567df19b-31b,2025-03-01T06:03:29Z,c2697055-06ec-4e52-b985-9a098d0c894c,pro,DE,9,Saves me hours every week,Mobile app improvements
+88ffe6b1-22e,2025-06-01T21:37:06Z,c2697055-06ec-4e52-b985-9a098d0c894c,pro,DE,6,Too expensive for what it offers,Better reporting
+dfcce7bf-c28,2024-06-01T15:57:16Z,e85cc268-2541-421f-b3e6-2eba8f398d25,starter,NG,10,"Clean UI, nothing bloated",Bulk actions
+9e47dc8c-796,2024-09-01T01:11:14Z,e85cc268-2541-421f-b3e6-2eba8f398d25,starter,NG,10,Saves me hours every week,Bulk actions
+3f4371a3-08d,2024-12-01T13:56:00Z,e85cc268-2541-421f-b3e6-2eba8f398d25,starter,NG,8,Some bugs occasionally,Bulk actions
+0885ebef-6f5,2025-03-01T16:50:03Z,e85cc268-2541-421f-b3e6-2eba8f398d25,starter,NG,1,Too expensive for what it offers,Better reporting
+cdb06def-ca0,2025-06-01T10:11:18Z,e85cc268-2541-421f-b3e6-2eba8f398d25,starter,NG,10,"Clean UI, nothing bloated",Better reporting
+f5de3d3e-495,2024-09-01T03:54:40Z,bf4b5e1c-0d83-47e0-a69c-737d0660468e,pro,NG,3,Too expensive for what it offers,
+27f01ea6-ab7,2024-12-01T04:56:18Z,bf4b5e1c-0d83-47e0-a69c-737d0660468e,pro,NG,7,Decent price,Mobile app improvements
+2e916bde-7c9,2025-03-01T04:38:18Z,bf4b5e1c-0d83-47e0-a69c-737d0660468e,pro,NG,8,Decent price,Bulk actions
+6d340f11-5c1,2025-06-01T06:17:38Z,bf4b5e1c-0d83-47e0-a69c-737d0660468e,pro,NG,9,Super easy to use,More integrations
+3bbc8c16-cfd,2024-03-01T07:17:20Z,96551369-a432-405b-abf9-57c063114a14,pro,KE,8,Some bugs occasionally,API docs
+39662478-6b0,2024-06-01T20:41:58Z,96551369-a432-405b-abf9-57c063114a14,pro,KE,8,Good but missing a few features,Mobile app improvements
+cbfd10ab-2d0,2024-09-01T13:54:42Z,96551369-a432-405b-abf9-57c063114a14,pro,KE,9,"Clean UI, nothing bloated",Bulk actions
+5d24834a-7d8,2024-12-01T17:11:46Z,96551369-a432-405b-abf9-57c063114a14,pro,KE,9,Great value,Better reporting
+593d302d-527,2025-03-01T03:45:02Z,96551369-a432-405b-abf9-57c063114a14,pro,KE,8,Decent price,Better reporting
+73a784a6-749,2025-06-01T13:41:39Z,96551369-a432-405b-abf9-57c063114a14,pro,KE,1,Too expensive for what it offers,Mobile app improvements
+b6a8c610-2c2,2025-03-01T21:52:03Z,18f6db41-7ad5-446b-b4d6-e93ea1ea0cbf,starter,GH,8,Works well enough,Bulk actions
+0e397c5b-421,2025-06-01T18:04:44Z,18f6db41-7ad5-446b-b4d6-e93ea1ea0cbf,starter,GH,8,Good but missing a few features,
+a7960da1-6b1,2024-09-01T08:53:40Z,bd105e27-18a1-4177-9d00-8fba74e9b637,starter,NG,8,Decent price,Bulk actions
+cbccfdc9-474,2024-12-01T11:27:13Z,bd105e27-18a1-4177-9d00-8fba74e9b637,starter,NG,10,Super easy to use,Mobile app improvements
+4ff9f76a-ec2,2025-03-01T19:42:28Z,bd105e27-18a1-4177-9d00-8fba74e9b637,starter,NG,6,Confusing onboarding,Better reporting
+2768dce9-71f,2025-06-01T00:29:45Z,bd105e27-18a1-4177-9d00-8fba74e9b637,starter,NG,5,Missing integrations I need,API docs
+60e630b5-341,2024-06-01T06:22:15Z,7871c17e-5381-448d-83dc-e6e992a366b2,business,US,10,Best tool for my team,Bulk actions
+4f50d06a-b09,2024-09-01T20:33:18Z,7871c17e-5381-448d-83dc-e6e992a366b2,business,US,10,Saves me hours every week,Bulk actions
+2f83aa9b-ae2,2024-12-01T16:14:49Z,7871c17e-5381-448d-83dc-e6e992a366b2,business,US,5,Support was slow,More integrations
+ffbf1707-bd3,2025-03-01T22:42:09Z,7871c17e-5381-448d-83dc-e6e992a366b2,business,US,10,"Clean UI, nothing bloated",Better reporting
+18d9349e-d7d,2025-06-01T15:12:57Z,7871c17e-5381-448d-83dc-e6e992a366b2,business,US,9,Saves me hours every week,More integrations
+aec91784-005,2025-03-01T16:13:17Z,6fec25ce-e945-42cf-80e6-b3116ceca4ae,pro,KE,10,Love the kanban board,Better reporting
+818516c4-e0a,2025-06-01T14:40:14Z,6fec25ce-e945-42cf-80e6-b3116ceca4ae,pro,KE,5,Confusing onboarding,Bulk actions
+1c438337-87c,2025-06-01T18:19:04Z,929a0be7-fc85-49c2-81e0-013550a1b0fb,pro,CA,8,Some bugs occasionally,More integrations
+7232c1c1-f27,2024-09-01T04:36:17Z,2cb8b6b5-82bd-4062-a089-ef927938c749,pro,US,9,Saves me hours every week,Bulk actions
+6463db84-60f,2024-12-01T00:35:13Z,2cb8b6b5-82bd-4062-a089-ef927938c749,pro,US,7,Works well enough,Mobile app improvements
+3a73b341-c59,2025-03-01T16:45:59Z,2cb8b6b5-82bd-4062-a089-ef927938c749,pro,US,10,Great value,
+edb2048f-849,2025-06-01T01:08:41Z,2cb8b6b5-82bd-4062-a089-ef927938c749,pro,US,9,Super easy to use,More integrations
+3b92b0ed-3f0,2024-03-01T11:51:00Z,f7102b3c-2a36-4241-b937-216f8b0e9ff1,business,NG,3,Missing integrations I need,Better reporting
+f16c635a-13b,2024-06-01T15:12:47Z,f7102b3c-2a36-4241-b937-216f8b0e9ff1,business,NG,9,Great value,Better reporting
+b83c8874-738,2024-09-01T16:06:21Z,f7102b3c-2a36-4241-b937-216f8b0e9ff1,business,NG,9,Love the kanban board,More integrations
+aef90d1e-acb,2024-12-01T04:49:33Z,f7102b3c-2a36-4241-b937-216f8b0e9ff1,business,NG,10,Great value,Mobile app improvements
+0a2c8127-fef,2025-03-01T00:56:34Z,f7102b3c-2a36-4241-b937-216f8b0e9ff1,business,NG,10,Saves me hours every week,API docs
+1422ff23-828,2025-06-01T16:57:03Z,f7102b3c-2a36-4241-b937-216f8b0e9ff1,business,NG,9,Saves me hours every week,Better reporting
+d887a44e-1f1,2024-09-01T07:43:27Z,ac0a5491-1fee-4445-9069-e30842ba07b1,pro,KE,0,Missing integrations I need,
+1411270e-fed,2024-12-01T15:10:33Z,ac0a5491-1fee-4445-9069-e30842ba07b1,pro,KE,9,Saves me hours every week,More integrations
+768acc3e-24c,2025-03-01T00:48:38Z,ac0a5491-1fee-4445-9069-e30842ba07b1,pro,KE,5,Confusing onboarding,API docs
+454e8cd8-9b8,2025-06-01T04:31:31Z,ac0a5491-1fee-4445-9069-e30842ba07b1,pro,KE,10,Super easy to use,Bulk actions
+2f374410-8ff,2025-03-01T22:41:27Z,ea0df53d-4a19-4899-967a-bdd9a7fec944,business,DE,8,Some bugs occasionally,
+1fa1d028-945,2025-06-01T21:46:38Z,ea0df53d-4a19-4899-967a-bdd9a7fec944,business,DE,9,Love the kanban board,
+a36a93e3-d53,2024-09-01T15:54:03Z,862d62bc-3fee-495e-aa1d-0d484ef6b32d,business,NG,6,Support was slow,Bulk actions
+cc118c05-f23,2024-12-01T05:32:01Z,862d62bc-3fee-495e-aa1d-0d484ef6b32d,business,NG,10,Great value,API docs
+08749ea2-a7f,2025-03-01T20:07:32Z,862d62bc-3fee-495e-aa1d-0d484ef6b32d,business,NG,9,"Clean UI, nothing bloated",Better reporting
+817bc000-56b,2025-06-01T18:40:01Z,862d62bc-3fee-495e-aa1d-0d484ef6b32d,business,NG,9,Saves me hours every week,API docs
+63d92cbf-762,2024-06-01T23:19:15Z,69c7de0e-77d6-4df4-9730-ee039cdae880,pro,GH,8,Some bugs occasionally,More integrations
+25f4e390-1d3,2024-09-01T06:09:22Z,69c7de0e-77d6-4df4-9730-ee039cdae880,pro,GH,9,"Clean UI, nothing bloated",Better reporting
+747e1ec4-4e2,2024-12-01T07:21:31Z,69c7de0e-77d6-4df4-9730-ee039cdae880,pro,GH,8,Decent price,Bulk actions
+fb614a45-cf2,2025-03-01T10:16:49Z,69c7de0e-77d6-4df4-9730-ee039cdae880,pro,GH,1,Support was slow,More integrations
+7e60f2db-5ff,2025-06-01T06:12:50Z,69c7de0e-77d6-4df4-9730-ee039cdae880,pro,GH,10,Great value,
+3db53da4-73f,2024-06-01T02:03:22Z,64c8f2c9-3223-4fe8-833e-c5224a617291,starter,NG,8,Decent price,
+c2b9d331-527,2024-09-01T03:47:25Z,64c8f2c9-3223-4fe8-833e-c5224a617291,starter,NG,10,Love the kanban board,Bulk actions
+42fd8032-c26,2024-12-01T04:29:57Z,64c8f2c9-3223-4fe8-833e-c5224a617291,starter,NG,8,Some bugs occasionally,API docs
+6f106225-467,2025-03-01T23:15:58Z,64c8f2c9-3223-4fe8-833e-c5224a617291,starter,NG,10,Super easy to use,Mobile app improvements
+e5ba28f0-f89,2025-06-01T03:10:22Z,64c8f2c9-3223-4fe8-833e-c5224a617291,starter,NG,9,Super easy to use,
+83517335-90f,2024-06-01T06:16:35Z,b271b998-0f20-4f80-af0b-2956bc07b347,business,NG,4,Too expensive for what it offers,API docs
+4f73767d-4f6,2024-09-01T09:11:59Z,b271b998-0f20-4f80-af0b-2956bc07b347,business,NG,9,Best tool for my team,Better reporting
+0888b2ab-c9e,2024-12-01T19:48:24Z,b271b998-0f20-4f80-af0b-2956bc07b347,business,NG,7,Good but missing a few features,More integrations
+52207a5e-87a,2025-03-01T02:15:14Z,b271b998-0f20-4f80-af0b-2956bc07b347,business,NG,8,Some bugs occasionally,
+bbbf5673-86e,2025-06-01T01:23:13Z,b271b998-0f20-4f80-af0b-2956bc07b347,business,NG,7,Decent price,Better reporting
+0bb8a66f-42a,2025-03-01T17:15:13Z,81e5f83a-4a74-40e8-a605-c553c6efd4b3,starter,KE,4,Confusing onboarding,Mobile app improvements
+29a64d16-c27,2025-06-01T06:59:21Z,81e5f83a-4a74-40e8-a605-c553c6efd4b3,starter,KE,6,Keeps crashing on mobile,Better reporting
+72a07680-040,2024-09-01T22:07:36Z,3fdb1bfd-5fb9-4adc-bccf-65a225619dc8,business,US,3,Too expensive for what it offers,Mobile app improvements
+67ebae6e-81e,2024-12-01T08:12:31Z,3fdb1bfd-5fb9-4adc-bccf-65a225619dc8,business,US,6,Keeps crashing on mobile,API docs
+795a95bc-5e9,2025-03-01T22:51:39Z,3fdb1bfd-5fb9-4adc-bccf-65a225619dc8,business,US,8,Some bugs occasionally,Bulk actions
+fe1f9387-0d9,2025-06-01T08:18:38Z,3fdb1bfd-5fb9-4adc-bccf-65a225619dc8,business,US,9,Love the kanban board,Bulk actions
+e1404777-781,2025-06-01T14:43:42Z,93c580ac-7e27-484d-ac38-436fec63ee47,starter,GB,10,Saves me hours every week,Better reporting
+a892d74a-7a8,2024-09-01T05:57:38Z,60ff5abd-7da5-4ab2-bb1b-2c2778299464,starter,US,9,Super easy to use,Mobile app improvements
+3a3ca420-9c8,2024-12-01T09:54:30Z,60ff5abd-7da5-4ab2-bb1b-2c2778299464,starter,US,8,Works well enough,
+57446ba2-c0e,2025-03-01T08:13:25Z,60ff5abd-7da5-4ab2-bb1b-2c2778299464,starter,US,9,Super easy to use,Bulk actions
+0de882a8-e5a,2025-06-01T02:12:31Z,60ff5abd-7da5-4ab2-bb1b-2c2778299464,starter,US,9,Love the kanban board,Better reporting
+ea1c0753-f16,2025-03-01T05:44:11Z,fc6c2e89-eed5-4057-ac46-b1ca0a33457f,pro,ZA,10,Saves me hours every week,Better reporting
+4619e3a3-c83,2025-06-01T17:53:59Z,fc6c2e89-eed5-4057-ac46-b1ca0a33457f,pro,ZA,9,Super easy to use,More integrations
+8a0463c1-4c1,2024-09-01T12:14:51Z,6c388762-0c3f-494a-88b3-e215bade85c4,starter,NG,9,Best tool for my team,API docs
+f132be0e-5e3,2024-12-01T14:02:39Z,6c388762-0c3f-494a-88b3-e215bade85c4,starter,NG,10,Best tool for my team,API docs
+442ba0d6-90d,2025-03-01T19:45:33Z,6c388762-0c3f-494a-88b3-e215bade85c4,starter,NG,10,"Clean UI, nothing bloated",Mobile app improvements
+1adb9f8e-dfa,2025-06-01T14:05:38Z,6c388762-0c3f-494a-88b3-e215bade85c4,starter,NG,8,Some bugs occasionally,Bulk actions
+0e582fa7-b51,2024-03-01T08:25:27Z,2db45d77-a364-4c33-84a8-80a6ebbff3b1,starter,US,9,Super easy to use,Better reporting
+c41ac955-8a9,2024-06-01T21:54:06Z,2db45d77-a364-4c33-84a8-80a6ebbff3b1,starter,US,8,Works well enough,More integrations
+77ca8f7c-c41,2024-09-01T21:08:59Z,2db45d77-a364-4c33-84a8-80a6ebbff3b1,starter,US,10,Super easy to use,Bulk actions
+3e16aae0-088,2024-12-01T09:22:37Z,2db45d77-a364-4c33-84a8-80a6ebbff3b1,starter,US,10,"Clean UI, nothing bloated",Bulk actions
+11b0298d-5ac,2025-03-01T02:47:58Z,2db45d77-a364-4c33-84a8-80a6ebbff3b1,starter,US,7,Good but missing a few features,Better reporting
+400dd011-f75,2025-06-01T12:16:50Z,2db45d77-a364-4c33-84a8-80a6ebbff3b1,starter,US,9,Great value,Mobile app improvements
+d728ddd7-0b0,2024-09-01T11:49:35Z,5f90c6d9-95c6-438d-b1a8-95f09342bad9,pro,US,7,Works well enough,Mobile app improvements
+77c7fdd3-e3e,2024-12-01T10:57:53Z,5f90c6d9-95c6-438d-b1a8-95f09342bad9,pro,US,9,Love the kanban board,
+f0dec0a5-672,2025-03-01T14:09:18Z,5f90c6d9-95c6-438d-b1a8-95f09342bad9,pro,US,3,Keeps crashing on mobile,API docs
+ef487897-6bb,2025-06-01T01:49:47Z,5f90c6d9-95c6-438d-b1a8-95f09342bad9,pro,US,10,Saves me hours every week,Mobile app improvements
+a7c77e31-6fe,2024-09-01T13:54:06Z,56758a1e-db52-40b8-b940-e8a6a7404376,starter,DE,9,Love the kanban board,Mobile app improvements
+8215364b-016,2024-12-01T12:20:54Z,56758a1e-db52-40b8-b940-e8a6a7404376,starter,DE,9,Great value,
+f29442e7-290,2025-03-01T15:01:14Z,56758a1e-db52-40b8-b940-e8a6a7404376,starter,DE,10,Super easy to use,More integrations
+d3005615-4de,2025-06-01T21:06:12Z,56758a1e-db52-40b8-b940-e8a6a7404376,starter,DE,7,Good but missing a few features,Mobile app improvements
+82bc4844-6df,2025-03-01T19:10:08Z,47a8b860-a191-4082-aa30-65855d930835,starter,US,10,Super easy to use,
+07390f3e-4a6,2025-06-01T02:45:32Z,47a8b860-a191-4082-aa30-65855d930835,starter,US,8,Some bugs occasionally,
+b0574686-ed5,2024-06-01T03:50:03Z,401c7c37-cb4a-4776-9952-9b593cbf9688,business,NG,8,Good but missing a few features,Better reporting
+3d259569-881,2024-09-01T13:33:04Z,401c7c37-cb4a-4776-9952-9b593cbf9688,business,NG,9,Saves me hours every week,Bulk actions
+b95290e4-f8b,2024-12-01T07:57:24Z,401c7c37-cb4a-4776-9952-9b593cbf9688,business,NG,10,"Clean UI, nothing bloated",API docs
+1ac60389-f98,2025-03-01T07:48:55Z,401c7c37-cb4a-4776-9952-9b593cbf9688,business,NG,8,Good but missing a few features,API docs
+47fcee90-9ed,2025-06-01T21:12:37Z,401c7c37-cb4a-4776-9952-9b593cbf9688,business,NG,5,Missing integrations I need,Bulk actions
+58a4636f-ce5,2024-12-01T20:54:21Z,5de01c01-4872-4fc2-b79c-72257b7476ec,business,NG,10,"Clean UI, nothing bloated",Bulk actions
+11c5f505-f94,2025-03-01T17:35:15Z,5de01c01-4872-4fc2-b79c-72257b7476ec,business,NG,9,Best tool for my team,Mobile app improvements
+9a1f1e50-ab4,2025-06-01T11:28:10Z,5de01c01-4872-4fc2-b79c-72257b7476ec,business,NG,9,Great value,Mobile app improvements
+c951c2e0-0bf,2025-03-01T16:47:10Z,6e7b7f03-652d-491a-a12e-d8b58b9c741e,pro,ZA,3,Too expensive for what it offers,Mobile app improvements
+9ebece64-985,2025-06-01T22:34:44Z,6e7b7f03-652d-491a-a12e-d8b58b9c741e,pro,ZA,8,Some bugs occasionally,More integrations
+1d180f54-d94,2024-03-01T08:01:39Z,cad2f92d-b30a-4445-885a-9a20888fb847,business,NG,9,Best tool for my team,Better reporting
+1de887d1-19f,2024-06-01T21:28:48Z,cad2f92d-b30a-4445-885a-9a20888fb847,business,NG,10,Super easy to use,More integrations
+2191612b-762,2024-09-01T17:14:02Z,cad2f92d-b30a-4445-885a-9a20888fb847,business,NG,7,Decent price,Bulk actions
+2f793fe0-1e9,2024-12-01T12:04:46Z,cad2f92d-b30a-4445-885a-9a20888fb847,business,NG,8,Decent price,API docs
+a32a0e6a-db5,2025-03-01T08:40:14Z,cad2f92d-b30a-4445-885a-9a20888fb847,business,NG,6,Keeps crashing on mobile,API docs
+ebdcc1ec-cb2,2025-06-01T15:09:16Z,cad2f92d-b30a-4445-885a-9a20888fb847,business,NG,9,Saves me hours every week,Bulk actions
+72609215-9d2,2024-09-01T06:12:43Z,b7b1d954-0905-4d47-9a44-723d2bc7a45c,starter,US,9,Love the kanban board,API docs
+b8194c44-33c,2024-12-01T12:08:37Z,b7b1d954-0905-4d47-9a44-723d2bc7a45c,starter,US,7,Some bugs occasionally,Bulk actions
+112bfbc7-a58,2025-03-01T05:51:08Z,b7b1d954-0905-4d47-9a44-723d2bc7a45c,starter,US,9,Saves me hours every week,Mobile app improvements
+81f594d5-868,2025-06-01T05:58:09Z,b7b1d954-0905-4d47-9a44-723d2bc7a45c,starter,US,7,Some bugs occasionally,API docs
+32626739-8f1,2024-12-01T01:17:11Z,bf69eb9c-3e97-4d69-b320-6f8d80c7edac,business,NG,8,Some bugs occasionally,
+336f16f1-091,2025-03-01T22:37:47Z,bf69eb9c-3e97-4d69-b320-6f8d80c7edac,business,NG,10,"Clean UI, nothing bloated",Mobile app improvements
+80f9e1c9-88f,2025-06-01T07:30:19Z,bf69eb9c-3e97-4d69-b320-6f8d80c7edac,business,NG,9,Saves me hours every week,Bulk actions
+254f8f58-cea,2024-03-01T19:39:33Z,f6dc302b-06da-4725-ba3c-af2759ee95dd,starter,BR,9,Great value,
+66d927c8-a9b,2024-06-01T15:59:18Z,f6dc302b-06da-4725-ba3c-af2759ee95dd,starter,BR,9,Love the kanban board,Bulk actions
+030c2d76-286,2024-09-01T04:39:36Z,f6dc302b-06da-4725-ba3c-af2759ee95dd,starter,BR,7,Works well enough,Better reporting
+023fc776-afc,2024-12-01T22:15:39Z,f6dc302b-06da-4725-ba3c-af2759ee95dd,starter,BR,9,Love the kanban board,Better reporting
+45dcaecc-80e,2025-03-01T21:32:16Z,f6dc302b-06da-4725-ba3c-af2759ee95dd,starter,BR,9,Super easy to use,API docs
+503feebd-b81,2025-06-01T16:02:52Z,f6dc302b-06da-4725-ba3c-af2759ee95dd,starter,BR,7,Works well enough,
+c647bd50-9a1,2024-03-01T18:07:17Z,3f191382-6c48-4440-8996-dd363b459c10,business,US,6,Keeps crashing on mobile,Mobile app improvements
+1f7073d6-b7b,2024-06-01T06:53:01Z,3f191382-6c48-4440-8996-dd363b459c10,business,US,7,Works well enough,Bulk actions
+34152228-8b8,2024-09-01T04:30:10Z,3f191382-6c48-4440-8996-dd363b459c10,business,US,9,Saves me hours every week,Bulk actions
+306b2123-6b0,2024-12-01T18:00:30Z,3f191382-6c48-4440-8996-dd363b459c10,business,US,10,Saves me hours every week,More integrations
+b7742b23-a76,2025-03-01T14:13:07Z,3f191382-6c48-4440-8996-dd363b459c10,business,US,9,Saves me hours every week,Mobile app improvements
+84259d75-5da,2025-06-01T19:58:23Z,3f191382-6c48-4440-8996-dd363b459c10,business,US,7,Works well enough,Mobile app improvements
+38efc487-4e2,2024-09-01T19:35:59Z,74957c97-164c-426f-b132-657e0a5bd459,pro,ZA,10,Great value,Mobile app improvements
+90ce8d58-599,2024-12-01T19:57:50Z,74957c97-164c-426f-b132-657e0a5bd459,pro,ZA,9,Saves me hours every week,Better reporting
+6f41d242-f5f,2025-03-01T07:46:41Z,74957c97-164c-426f-b132-657e0a5bd459,pro,ZA,8,Decent price,API docs
+3c4cd98e-30b,2025-06-01T19:09:17Z,74957c97-164c-426f-b132-657e0a5bd459,pro,ZA,10,Best tool for my team,Bulk actions
+88f8acc7-9b4,2024-09-01T05:11:08Z,77770188-46d8-4e01-9a74-640a9c38282a,business,CA,3,Support was slow,More integrations
+c2daf3ed-1d0,2024-12-01T20:06:40Z,77770188-46d8-4e01-9a74-640a9c38282a,business,CA,10,Love the kanban board,API docs
+5794feaa-37c,2025-03-01T03:43:44Z,77770188-46d8-4e01-9a74-640a9c38282a,business,CA,10,Super easy to use,More integrations
+48579d94-888,2025-06-01T06:53:17Z,77770188-46d8-4e01-9a74-640a9c38282a,business,CA,8,Decent price,More integrations
+46d04929-5f3,2025-03-01T23:37:24Z,d4d53aa7-3a73-47b4-ac28-ae66d882c8ab,starter,ZA,10,Best tool for my team,API docs
+1dd6a7d4-c25,2025-06-01T01:46:02Z,d4d53aa7-3a73-47b4-ac28-ae66d882c8ab,starter,ZA,10,Love the kanban board,
+244c89cc-c4e,2024-03-01T15:19:32Z,17a6af28-e71b-4a20-8ed1-3b691e41d988,business,NG,9,Super easy to use,API docs
+61e7f01c-64b,2024-06-01T00:42:55Z,17a6af28-e71b-4a20-8ed1-3b691e41d988,business,NG,9,Best tool for my team,
+2152b115-cc9,2024-09-01T10:22:05Z,17a6af28-e71b-4a20-8ed1-3b691e41d988,business,NG,6,Support was slow,API docs
+4f7a40ca-5ef,2024-12-01T10:48:16Z,17a6af28-e71b-4a20-8ed1-3b691e41d988,business,NG,10,Best tool for my team,API docs
+ba0566ac-6c4,2025-03-01T19:19:27Z,17a6af28-e71b-4a20-8ed1-3b691e41d988,business,NG,10,Love the kanban board,API docs
+a1de9489-61d,2025-06-01T06:36:59Z,17a6af28-e71b-4a20-8ed1-3b691e41d988,business,NG,9,Best tool for my team,Mobile app improvements
+fb4d1272-10c,2025-03-01T04:30:48Z,de8f2a31-ee3d-41d1-a147-5f8d39f2f1c4,starter,GB,9,Best tool for my team,
+a5b7084c-55c,2025-06-01T06:28:34Z,de8f2a31-ee3d-41d1-a147-5f8d39f2f1c4,starter,GB,3,Missing integrations I need,Bulk actions
+cf6fb575-245,2024-12-01T01:23:57Z,d3fc4e57-9d4b-4517-909c-ab405ecaee8f,pro,DE,7,Some bugs occasionally,Bulk actions
+43fbff6e-83d,2025-03-01T01:22:50Z,d3fc4e57-9d4b-4517-909c-ab405ecaee8f,pro,DE,8,Works well enough,Mobile app improvements
+aef43832-b31,2025-06-01T16:04:46Z,d3fc4e57-9d4b-4517-909c-ab405ecaee8f,pro,DE,9,Love the kanban board,Mobile app improvements
+7ba9474a-c5b,2024-06-01T01:53:49Z,d06cd375-be90-4fda-9ccd-1ca2fd8464bc,starter,US,9,"Clean UI, nothing bloated",
+7581b53a-17a,2024-09-01T04:37:48Z,d06cd375-be90-4fda-9ccd-1ca2fd8464bc,starter,US,10,Love the kanban board,
+3842828a-4c2,2024-12-01T16:17:15Z,d06cd375-be90-4fda-9ccd-1ca2fd8464bc,starter,US,8,Decent price,
+94b0dce8-709,2025-03-01T16:05:30Z,d06cd375-be90-4fda-9ccd-1ca2fd8464bc,starter,US,9,Love the kanban board,
+97a161fa-cb0,2025-06-01T16:43:44Z,d06cd375-be90-4fda-9ccd-1ca2fd8464bc,starter,US,10,Saves me hours every week,Mobile app improvements
+58f29df4-721,2024-03-01T12:18:56Z,4cc13c8f-f097-4f2a-b6f2-b7eb919b2afb,starter,NG,7,Works well enough,Bulk actions
+a683bae1-b67,2024-06-01T23:17:05Z,4cc13c8f-f097-4f2a-b6f2-b7eb919b2afb,starter,NG,10,Great value,API docs
+017015cc-d9b,2024-09-01T21:51:48Z,4cc13c8f-f097-4f2a-b6f2-b7eb919b2afb,starter,NG,6,Missing integrations I need,
+29054d11-4d5,2024-12-01T02:34:58Z,4cc13c8f-f097-4f2a-b6f2-b7eb919b2afb,starter,NG,10,Saves me hours every week,Mobile app improvements
+6f478471-9b5,2025-03-01T03:16:37Z,4cc13c8f-f097-4f2a-b6f2-b7eb919b2afb,starter,NG,10,"Clean UI, nothing bloated",Better reporting
+7b773b7d-c25,2025-06-01T13:58:33Z,4cc13c8f-f097-4f2a-b6f2-b7eb919b2afb,starter,NG,9,Super easy to use,
+9ee9af8f-5f2,2025-06-01T06:05:55Z,fd762a4a-22b1-4e63-a281-257777eb6d39,starter,NG,10,Best tool for my team,Mobile app improvements
+4f22df33-5a3,2024-09-01T05:18:57Z,079e45e2-27d6-442c-bb1e-79063ed8db34,starter,ZA,9,Saves me hours every week,Bulk actions
+bc633c46-639,2024-12-01T01:49:43Z,079e45e2-27d6-442c-bb1e-79063ed8db34,starter,ZA,9,Love the kanban board,Better reporting
+f0642d6a-6a8,2025-03-01T14:30:56Z,079e45e2-27d6-442c-bb1e-79063ed8db34,starter,ZA,5,Too expensive for what it offers,More integrations
+ec5dde9c-61d,2025-06-01T02:13:48Z,079e45e2-27d6-442c-bb1e-79063ed8db34,starter,ZA,8,Some bugs occasionally,Bulk actions
+84a3d2a6-037,2024-12-01T09:05:38Z,820a101d-539a-424c-a9ec-7d3a10fc5d52,starter,NG,8,Decent price,Better reporting
+6af01998-e59,2025-03-01T11:10:34Z,820a101d-539a-424c-a9ec-7d3a10fc5d52,starter,NG,9,Best tool for my team,Bulk actions
+09ab5f14-7a8,2025-06-01T16:52:47Z,820a101d-539a-424c-a9ec-7d3a10fc5d52,starter,NG,7,Decent price,More integrations
+0f527d1f-1eb,2024-03-01T15:55:25Z,3aa8e5cd-a20d-4a53-be9f-1715ae055665,starter,DE,10,"Clean UI, nothing bloated",Better reporting
+f096746e-3fc,2024-06-01T05:13:23Z,3aa8e5cd-a20d-4a53-be9f-1715ae055665,starter,DE,10,Love the kanban board,More integrations
+935f5060-b59,2024-09-01T19:15:30Z,3aa8e5cd-a20d-4a53-be9f-1715ae055665,starter,DE,8,Some bugs occasionally,Better reporting
+fb5fdcc0-0f0,2024-12-01T23:17:14Z,3aa8e5cd-a20d-4a53-be9f-1715ae055665,starter,DE,10,"Clean UI, nothing bloated",Bulk actions
+f5c61156-a7f,2025-03-01T03:08:52Z,3aa8e5cd-a20d-4a53-be9f-1715ae055665,starter,DE,10,Saves me hours every week,
+ba112a8f-a91,2025-06-01T00:07:02Z,3aa8e5cd-a20d-4a53-be9f-1715ae055665,starter,DE,6,Support was slow,Better reporting
+e64b5e67-928,2024-12-01T22:24:58Z,d930f6f2-f8b6-46cc-a74f-40187df4f3ad,starter,CA,10,Love the kanban board,
+a84b7eb3-d3f,2025-03-01T14:44:03Z,d930f6f2-f8b6-46cc-a74f-40187df4f3ad,starter,CA,9,Love the kanban board,Bulk actions
+8abf8ede-2a0,2025-06-01T01:28:21Z,d930f6f2-f8b6-46cc-a74f-40187df4f3ad,starter,CA,9,"Clean UI, nothing bloated",
+90abfb8a-fb8,2024-12-01T01:30:07Z,62f51666-5dcf-462b-b702-7f277136b3f3,starter,US,2,Missing integrations I need,Bulk actions
+91d52462-f02,2025-03-01T04:15:01Z,62f51666-5dcf-462b-b702-7f277136b3f3,starter,US,10,Great value,Bulk actions
+66ef6707-c95,2025-06-01T15:46:54Z,62f51666-5dcf-462b-b702-7f277136b3f3,starter,US,9,Great value,More integrations
+7e7133fe-07b,2025-03-01T14:22:10Z,19811276-d72d-4454-b52b-2598d7059b5f,pro,US,10,Saves me hours every week,More integrations
+c3d0918e-14d,2025-06-01T05:35:41Z,19811276-d72d-4454-b52b-2598d7059b5f,pro,US,6,Confusing onboarding,More integrations
+6f0b3c8f-00e,2024-06-01T03:25:20Z,c0c51416-cceb-4335-b1a5-e6ab8269a950,pro,NG,9,Great value,Mobile app improvements
+f9f40a4f-294,2024-09-01T03:53:47Z,c0c51416-cceb-4335-b1a5-e6ab8269a950,pro,NG,9,"Clean UI, nothing bloated",API docs
+9dfa1f75-d90,2024-12-01T19:42:06Z,c0c51416-cceb-4335-b1a5-e6ab8269a950,pro,NG,10,Love the kanban board,API docs
+738438a7-bfd,2025-03-01T06:34:53Z,c0c51416-cceb-4335-b1a5-e6ab8269a950,pro,NG,10,Great value,Mobile app improvements
+13f9f2d5-21f,2025-06-01T19:58:56Z,c0c51416-cceb-4335-b1a5-e6ab8269a950,pro,NG,10,Great value,Bulk actions
+342f1915-c93,2024-12-01T05:59:18Z,e195d24b-a73b-42df-92ad-b3ab4bc27168,starter,NG,8,Works well enough,API docs
+f026da96-6ba,2025-03-01T02:51:54Z,e195d24b-a73b-42df-92ad-b3ab4bc27168,starter,NG,8,Some bugs occasionally,Better reporting
+3f4ca025-5b0,2025-06-01T16:12:53Z,e195d24b-a73b-42df-92ad-b3ab4bc27168,starter,NG,9,Love the kanban board,
+50ec5d4d-f52,2025-03-01T09:57:29Z,f8c532dc-05a5-444c-8dfe-f1031e3b9e7d,pro,US,10,Super easy to use,More integrations
+69352e8c-43b,2025-06-01T11:41:22Z,f8c532dc-05a5-444c-8dfe-f1031e3b9e7d,pro,US,9,Great value,API docs
+b0965d58-820,2024-03-01T11:10:50Z,75173790-5476-44af-b639-dbf78c0ba3cb,starter,NG,10,Best tool for my team,
+c1a1751c-d4e,2024-06-01T21:57:02Z,75173790-5476-44af-b639-dbf78c0ba3cb,starter,NG,9,Super easy to use,More integrations
+758da387-b9a,2024-09-01T17:36:03Z,75173790-5476-44af-b639-dbf78c0ba3cb,starter,NG,9,Love the kanban board,More integrations
+fdc36dc9-f1b,2024-12-01T01:46:15Z,75173790-5476-44af-b639-dbf78c0ba3cb,starter,NG,10,Best tool for my team,
+79bff12e-a61,2025-03-01T05:23:07Z,75173790-5476-44af-b639-dbf78c0ba3cb,starter,NG,10,"Clean UI, nothing bloated",API docs
+63e70f67-11f,2025-06-01T20:47:58Z,75173790-5476-44af-b639-dbf78c0ba3cb,starter,NG,10,Best tool for my team,Bulk actions
+9d43ccbb-028,2024-12-01T23:00:10Z,00bd12d1-01c3-41c0-9bc3-b2faab82cc8e,starter,DE,10,Great value,API docs
+af26d7e0-4d5,2025-03-01T00:06:58Z,00bd12d1-01c3-41c0-9bc3-b2faab82cc8e,starter,DE,8,Good but missing a few features,More integrations
+a841fec8-8cb,2025-06-01T12:47:37Z,00bd12d1-01c3-41c0-9bc3-b2faab82cc8e,starter,DE,10,Love the kanban board,Mobile app improvements
+b1d83e47-8b4,2025-06-01T02:12:31Z,08a79ab7-2b2d-4dff-9de6-187ba0f0d899,starter,NG,10,"Clean UI, nothing bloated",Bulk actions
+02fd4a78-636,2024-09-01T08:04:35Z,e8afd699-a70d-4d12-b21f-94d3635959c8,starter,ZA,9,"Clean UI, nothing bloated",Better reporting
+3ce1cfed-469,2024-12-01T05:48:13Z,e8afd699-a70d-4d12-b21f-94d3635959c8,starter,ZA,10,Super easy to use,Mobile app improvements
+8d21696b-f30,2025-03-01T19:54:56Z,e8afd699-a70d-4d12-b21f-94d3635959c8,starter,ZA,6,Keeps crashing on mobile,API docs
+b72dd26f-7d7,2025-06-01T04:52:20Z,e8afd699-a70d-4d12-b21f-94d3635959c8,starter,ZA,9,Super easy to use,Better reporting
+8531e842-f78,2024-09-01T10:04:16Z,e0af64f6-054b-4736-a3fc-04e38db8564e,starter,CA,8,Some bugs occasionally,More integrations
+9ac39ca2-5b0,2024-12-01T03:37:49Z,e0af64f6-054b-4736-a3fc-04e38db8564e,starter,CA,9,"Clean UI, nothing bloated",
+d2235418-c49,2025-03-01T11:29:06Z,e0af64f6-054b-4736-a3fc-04e38db8564e,starter,CA,9,"Clean UI, nothing bloated",Bulk actions
+d4f97299-43f,2025-06-01T12:11:46Z,e0af64f6-054b-4736-a3fc-04e38db8564e,starter,CA,10,Love the kanban board,
+92c32134-f31,2024-03-01T09:37:40Z,b9f0161b-bd98-4112-bd97-c58217440791,starter,US,7,Good but missing a few features,
+b67bfdb7-7e3,2024-06-01T03:11:01Z,b9f0161b-bd98-4112-bd97-c58217440791,starter,US,10,Super easy to use,Bulk actions
+649af6e4-e14,2024-09-01T14:57:04Z,b9f0161b-bd98-4112-bd97-c58217440791,starter,US,9,Best tool for my team,Bulk actions
+14f6a326-afd,2024-12-01T12:21:23Z,b9f0161b-bd98-4112-bd97-c58217440791,starter,US,7,Good but missing a few features,Bulk actions
+fa059a14-936,2025-03-01T10:39:39Z,b9f0161b-bd98-4112-bd97-c58217440791,starter,US,10,Saves me hours every week,More integrations
+206b6663-157,2025-06-01T12:54:59Z,b9f0161b-bd98-4112-bd97-c58217440791,starter,US,10,"Clean UI, nothing bloated",API docs
+86ce86f0-6e1,2024-03-01T07:12:19Z,16ec1a25-1785-462c-bafd-4b223c8fb56b,pro,NG,10,Saves me hours every week,More integrations
+d4e587fa-a80,2024-06-01T09:14:56Z,16ec1a25-1785-462c-bafd-4b223c8fb56b,pro,NG,10,Love the kanban board,More integrations
+d554860d-0d8,2024-09-01T03:53:44Z,16ec1a25-1785-462c-bafd-4b223c8fb56b,pro,NG,9,Love the kanban board,More integrations
+ef971da1-c75,2024-12-01T10:10:40Z,16ec1a25-1785-462c-bafd-4b223c8fb56b,pro,NG,7,Works well enough,API docs
+f815f066-29e,2025-03-01T10:15:13Z,16ec1a25-1785-462c-bafd-4b223c8fb56b,pro,NG,8,Decent price,Mobile app improvements
+593db4ed-6c4,2025-06-01T18:35:55Z,16ec1a25-1785-462c-bafd-4b223c8fb56b,pro,NG,9,Great value,Mobile app improvements
+e795ce5c-96c,2024-12-01T00:29:45Z,78940e24-3d20-4d9c-9294-48af88f97a28,starter,GB,8,Decent price,
+31f87892-f7f,2025-03-01T13:50:48Z,78940e24-3d20-4d9c-9294-48af88f97a28,starter,GB,4,Support was slow,More integrations
+37232561-78b,2025-06-01T22:04:46Z,78940e24-3d20-4d9c-9294-48af88f97a28,starter,GB,10,Great value,Mobile app improvements
+c33e46cd-545,2024-03-01T19:03:32Z,188ad4e4-8934-4776-9832-8b1f0e3907b3,pro,ZA,8,Good but missing a few features,Bulk actions
+bd912fe1-487,2024-06-01T19:01:12Z,188ad4e4-8934-4776-9832-8b1f0e3907b3,pro,ZA,8,Some bugs occasionally,Mobile app improvements
+d81bdd3b-67d,2024-09-01T20:58:23Z,188ad4e4-8934-4776-9832-8b1f0e3907b3,pro,ZA,9,"Clean UI, nothing bloated",Mobile app improvements
+fa91cdf7-31c,2024-12-01T22:18:09Z,188ad4e4-8934-4776-9832-8b1f0e3907b3,pro,ZA,8,Works well enough,Mobile app improvements
+cb1e4d5b-5f3,2025-03-01T10:07:20Z,188ad4e4-8934-4776-9832-8b1f0e3907b3,pro,ZA,7,Good but missing a few features,Better reporting
+aa0c9c36-898,2025-06-01T16:06:10Z,188ad4e4-8934-4776-9832-8b1f0e3907b3,pro,ZA,10,Best tool for my team,API docs
+8f097f9d-f6a,2024-03-01T16:34:43Z,eac1fbc0-ea48-4687-84f4-8b7a28617f1a,business,ZA,5,Too expensive for what it offers,Bulk actions
+3204aa0f-175,2024-06-01T06:57:43Z,eac1fbc0-ea48-4687-84f4-8b7a28617f1a,business,ZA,4,Too expensive for what it offers,API docs
+81e0cebb-048,2024-09-01T06:43:27Z,eac1fbc0-ea48-4687-84f4-8b7a28617f1a,business,ZA,9,Love the kanban board,Mobile app improvements
+8fcc8a51-dbf,2024-12-01T22:46:31Z,eac1fbc0-ea48-4687-84f4-8b7a28617f1a,business,ZA,10,Best tool for my team,Bulk actions
+5870cf1d-c6e,2025-03-01T04:28:23Z,eac1fbc0-ea48-4687-84f4-8b7a28617f1a,business,ZA,9,Great value,
+b4d1b47f-bd5,2025-06-01T15:06:28Z,eac1fbc0-ea48-4687-84f4-8b7a28617f1a,business,ZA,9,Love the kanban board,API docs
+ddf9b9d9-cd7,2024-09-01T03:58:12Z,4f1a6ebf-ea85-40f8-97d7-53e9faf155f1,business,GB,8,Some bugs occasionally,
+ac2e3523-622,2024-12-01T01:08:16Z,4f1a6ebf-ea85-40f8-97d7-53e9faf155f1,business,GB,10,Love the kanban board,Bulk actions
+4a97aa50-4ca,2025-03-01T23:15:26Z,4f1a6ebf-ea85-40f8-97d7-53e9faf155f1,business,GB,9,Saves me hours every week,
+32168b98-6f6,2025-06-01T18:40:59Z,4f1a6ebf-ea85-40f8-97d7-53e9faf155f1,business,GB,10,Best tool for my team,Better reporting
+1bdf93a2-4d0,2025-03-01T06:58:36Z,ee1fcf9e-b40b-4ff6-ae8c-f792f3e5a413,business,DE,10,Saves me hours every week,API docs
+c96852e7-09a,2025-06-01T02:41:28Z,ee1fcf9e-b40b-4ff6-ae8c-f792f3e5a413,business,DE,3,Keeps crashing on mobile,Better reporting
+9c08d445-07e,2024-09-01T10:50:29Z,ecd57e37-2769-4fa3-a4dc-f92e92a63b14,starter,NG,9,"Clean UI, nothing bloated",More integrations
+fa7cddfe-8e4,2024-12-01T09:01:41Z,ecd57e37-2769-4fa3-a4dc-f92e92a63b14,starter,NG,10,Saves me hours every week,Better reporting
+15c70f35-0c2,2025-03-01T22:28:41Z,ecd57e37-2769-4fa3-a4dc-f92e92a63b14,starter,NG,10,Love the kanban board,Mobile app improvements
+2a4708da-3e5,2025-06-01T18:57:02Z,ecd57e37-2769-4fa3-a4dc-f92e92a63b14,starter,NG,7,Some bugs occasionally,Better reporting
+dde57dcb-df3,2024-12-01T13:39:50Z,1e6a7a93-8ed7-4671-9d81-c5bbd6fd037f,starter,KE,9,Super easy to use,API docs
+fd65732d-427,2025-03-01T16:34:50Z,1e6a7a93-8ed7-4671-9d81-c5bbd6fd037f,starter,KE,10,Saves me hours every week,API docs
+6e9a260d-617,2025-06-01T14:54:16Z,1e6a7a93-8ed7-4671-9d81-c5bbd6fd037f,starter,KE,10,Saves me hours every week,Bulk actions
+0894066a-2d0,2024-12-01T00:07:01Z,d87daa7c-86c3-4a1e-8835-53fc7f66abd7,business,US,6,Too expensive for what it offers,Better reporting
+4167c66a-870,2025-03-01T01:41:08Z,d87daa7c-86c3-4a1e-8835-53fc7f66abd7,business,US,9,Saves me hours every week,
+2c1171fe-e56,2025-06-01T20:15:35Z,d87daa7c-86c3-4a1e-8835-53fc7f66abd7,business,US,10,Super easy to use,More integrations
+b1fa8078-a7b,2024-09-01T12:09:38Z,3df42e71-f49d-488f-b985-700ad8a98f57,starter,NG,8,Some bugs occasionally,More integrations
+bc5b0a94-7e8,2024-12-01T00:04:25Z,3df42e71-f49d-488f-b985-700ad8a98f57,starter,NG,10,Saves me hours every week,Mobile app improvements
+9e4383c2-54e,2025-03-01T19:44:55Z,3df42e71-f49d-488f-b985-700ad8a98f57,starter,NG,9,"Clean UI, nothing bloated",Bulk actions
+ae6b68ca-b0c,2025-06-01T03:44:24Z,3df42e71-f49d-488f-b985-700ad8a98f57,starter,NG,6,Support was slow,Better reporting
+64f90837-91b,2024-12-01T22:36:41Z,cdd1222f-d4c5-4e9f-8116-be99f40676b4,pro,NG,8,Some bugs occasionally,More integrations
+ba25557a-eb3,2025-03-01T13:34:50Z,cdd1222f-d4c5-4e9f-8116-be99f40676b4,pro,NG,10,Great value,API docs
+e229b6fc-168,2025-06-01T20:48:01Z,cdd1222f-d4c5-4e9f-8116-be99f40676b4,pro,NG,10,"Clean UI, nothing bloated",More integrations
+1b57520b-0dc,2024-12-01T20:09:43Z,5bfb7248-b079-4a6e-9438-0d680030e268,starter,CA,9,"Clean UI, nothing bloated",Better reporting
+7cf46ac3-2d2,2025-03-01T08:43:08Z,5bfb7248-b079-4a6e-9438-0d680030e268,starter,CA,6,Too expensive for what it offers,API docs
+d86bac18-cf7,2025-06-01T13:21:52Z,5bfb7248-b079-4a6e-9438-0d680030e268,starter,CA,10,"Clean UI, nothing bloated",Mobile app improvements
+a5fd161f-e81,2025-06-01T05:24:52Z,ad8bf2a5-ad1b-48db-82bd-ce116b88b40d,pro,BR,9,Super easy to use,Bulk actions
+0e933585-278,2024-09-01T22:04:57Z,14da8877-123b-4d45-b38d-a6f23c705477,starter,US,9,Great value,More integrations
+bbd50311-961,2024-12-01T15:14:47Z,14da8877-123b-4d45-b38d-a6f23c705477,starter,US,7,Good but missing a few features,More integrations
+65e8cfa5-d2d,2025-03-01T00:18:39Z,14da8877-123b-4d45-b38d-a6f23c705477,starter,US,9,Best tool for my team,Bulk actions
+7832ae9e-a90,2025-06-01T21:23:40Z,14da8877-123b-4d45-b38d-a6f23c705477,starter,US,10,"Clean UI, nothing bloated",API docs
+7338aa77-e10,2024-09-01T00:14:08Z,2f767534-4a21-4d50-bab3-0cb32e9386fb,starter,CA,10,Great value,Mobile app improvements
+7e3da090-6ec,2024-12-01T16:03:44Z,2f767534-4a21-4d50-bab3-0cb32e9386fb,starter,CA,9,Love the kanban board,Bulk actions
+16b34e15-0f5,2025-03-01T15:02:05Z,2f767534-4a21-4d50-bab3-0cb32e9386fb,starter,CA,10,Love the kanban board,More integrations
+b49f30fc-a32,2025-06-01T07:07:38Z,2f767534-4a21-4d50-bab3-0cb32e9386fb,starter,CA,8,Good but missing a few features,API docs
+fb9ea9e1-a03,2024-12-01T14:34:51Z,3fffa8f2-1e0e-4c8c-a2e5-8e5a573827d6,pro,US,7,Good but missing a few features,API docs
+b67cbee6-288,2025-03-01T22:56:16Z,3fffa8f2-1e0e-4c8c-a2e5-8e5a573827d6,pro,US,10,Love the kanban board,Bulk actions
+6f76b458-98b,2025-06-01T19:45:17Z,3fffa8f2-1e0e-4c8c-a2e5-8e5a573827d6,pro,US,8,Some bugs occasionally,
+8eed681b-3ed,2025-06-01T08:08:43Z,f317920e-b536-404b-9e72-6766cd13ec4a,business,NG,10,Saves me hours every week,API docs
+7bd40e49-ca0,2024-06-01T19:03:51Z,42ae42e6-8c05-455e-8b84-a09a2adaaae6,pro,NG,10,Best tool for my team,Better reporting
+d4049ac9-59d,2024-09-01T01:51:43Z,42ae42e6-8c05-455e-8b84-a09a2adaaae6,pro,NG,10,Love the kanban board,Mobile app improvements
+c64347e8-c5c,2024-12-01T02:28:55Z,42ae42e6-8c05-455e-8b84-a09a2adaaae6,pro,NG,10,"Clean UI, nothing bloated",More integrations
+6146e1eb-873,2025-03-01T09:22:21Z,42ae42e6-8c05-455e-8b84-a09a2adaaae6,pro,NG,9,Super easy to use,More integrations
+18112cdc-3ee,2025-06-01T10:58:49Z,42ae42e6-8c05-455e-8b84-a09a2adaaae6,pro,NG,10,Love the kanban board,
+7993593e-6c7,2025-03-01T04:02:31Z,c2f5b66d-deeb-4e5c-93a8-97dd1f8f077d,business,ZA,9,Best tool for my team,API docs
+d5bff6da-aa7,2025-06-01T23:57:41Z,c2f5b66d-deeb-4e5c-93a8-97dd1f8f077d,business,ZA,7,Decent price,More integrations
+7a368572-8f3,2024-03-01T00:37:17Z,7e7b149c-bd29-45b2-a23a-3a53a0104379,business,DE,9,Love the kanban board,Bulk actions
+e511fc1a-880,2024-06-01T14:39:02Z,7e7b149c-bd29-45b2-a23a-3a53a0104379,business,DE,9,Love the kanban board,API docs
+d9a9ff66-4ea,2024-09-01T10:36:13Z,7e7b149c-bd29-45b2-a23a-3a53a0104379,business,DE,9,Super easy to use,Mobile app improvements
+6b16da67-ff5,2024-12-01T08:35:02Z,7e7b149c-bd29-45b2-a23a-3a53a0104379,business,DE,10,Great value,Mobile app improvements
+8e8eb559-9a4,2025-03-01T08:52:56Z,7e7b149c-bd29-45b2-a23a-3a53a0104379,business,DE,9,Saves me hours every week,Bulk actions
+43aa4a6e-527,2025-06-01T08:43:06Z,7e7b149c-bd29-45b2-a23a-3a53a0104379,business,DE,7,Good but missing a few features,More integrations
+7b701d32-be1,2024-09-01T23:26:16Z,8aa5a2dd-4f81-4119-bf02-0ceaede47795,starter,KE,0,Too expensive for what it offers,API docs
+7c7b4ada-32c,2024-12-01T08:49:04Z,8aa5a2dd-4f81-4119-bf02-0ceaede47795,starter,KE,6,Missing integrations I need,API docs
+15c77c8c-bdd,2025-03-01T01:24:02Z,8aa5a2dd-4f81-4119-bf02-0ceaede47795,starter,KE,8,Good but missing a few features,
+410b68e5-3d3,2025-06-01T02:42:07Z,8aa5a2dd-4f81-4119-bf02-0ceaede47795,starter,KE,0,Keeps crashing on mobile,
+1915c58b-6ef,2024-03-01T07:39:01Z,4c1fdd59-a4dc-41cf-9468-026348e8e1b4,business,CA,10,Love the kanban board,More integrations
+65b99eb5-27d,2024-06-01T15:07:35Z,4c1fdd59-a4dc-41cf-9468-026348e8e1b4,business,CA,7,Some bugs occasionally,Better reporting
+baf2a278-d8f,2024-09-01T14:22:16Z,4c1fdd59-a4dc-41cf-9468-026348e8e1b4,business,CA,10,Great value,Bulk actions
+b41c847b-8eb,2024-12-01T12:12:46Z,4c1fdd59-a4dc-41cf-9468-026348e8e1b4,business,CA,10,Great value,
+8853ae73-bb1,2025-03-01T19:49:07Z,4c1fdd59-a4dc-41cf-9468-026348e8e1b4,business,CA,5,Too expensive for what it offers,Better reporting
+5253996b-80f,2025-06-01T16:53:27Z,4c1fdd59-a4dc-41cf-9468-026348e8e1b4,business,CA,8,Some bugs occasionally,Better reporting
+93538442-19b,2025-03-01T04:22:36Z,d86a6b16-8b56-4eb8-b5d8-03aa8e8b6294,starter,US,10,Saves me hours every week,
+d57af3b9-2e9,2025-06-01T00:10:54Z,d86a6b16-8b56-4eb8-b5d8-03aa8e8b6294,starter,US,4,Keeps crashing on mobile,Bulk actions
+31a145e7-2cb,2024-03-01T12:45:45Z,266bebb9-00eb-4a9c-ba38-5c5e9ff71e48,business,US,10,Super easy to use,
+a50cb99f-795,2024-06-01T08:42:29Z,266bebb9-00eb-4a9c-ba38-5c5e9ff71e48,business,US,8,Good but missing a few features,Mobile app improvements
+dab048a7-35e,2024-09-01T14:35:49Z,266bebb9-00eb-4a9c-ba38-5c5e9ff71e48,business,US,10,Super easy to use,
+f5f195c0-865,2024-12-01T03:36:59Z,266bebb9-00eb-4a9c-ba38-5c5e9ff71e48,business,US,10,Love the kanban board,Mobile app improvements
+bf7dea89-1ac,2025-03-01T14:37:57Z,266bebb9-00eb-4a9c-ba38-5c5e9ff71e48,business,US,8,Decent price,More integrations
+d6392f03-e9f,2025-06-01T17:50:10Z,266bebb9-00eb-4a9c-ba38-5c5e9ff71e48,business,US,9,Saves me hours every week,More integrations
+f3a22d1b-4bb,2024-06-01T23:03:19Z,0c683c27-70b3-4bff-b632-ce4eb0e552e2,starter,US,10,Saves me hours every week,Better reporting
+94f8f751-0b7,2024-09-01T16:18:56Z,0c683c27-70b3-4bff-b632-ce4eb0e552e2,starter,US,10,Super easy to use,Bulk actions
+c14d6cda-f54,2024-12-01T20:39:38Z,0c683c27-70b3-4bff-b632-ce4eb0e552e2,starter,US,9,Great value,Bulk actions
+50955942-020,2025-03-01T10:18:13Z,0c683c27-70b3-4bff-b632-ce4eb0e552e2,starter,US,9,"Clean UI, nothing bloated",More integrations
+197df674-af7,2025-06-01T01:22:59Z,0c683c27-70b3-4bff-b632-ce4eb0e552e2,starter,US,3,Missing integrations I need,Bulk actions
+920d99d7-c9e,2024-03-01T20:58:58Z,022a0b0d-c2f3-4a8b-9c83-1845df26a12f,pro,DE,8,Good but missing a few features,
+edf9e1e9-1b6,2024-06-01T13:42:36Z,022a0b0d-c2f3-4a8b-9c83-1845df26a12f,pro,DE,0,Confusing onboarding,API docs
+a2e45e45-561,2024-09-01T11:44:54Z,022a0b0d-c2f3-4a8b-9c83-1845df26a12f,pro,DE,8,Some bugs occasionally,API docs
+12f186f9-132,2024-12-01T22:34:22Z,022a0b0d-c2f3-4a8b-9c83-1845df26a12f,pro,DE,9,"Clean UI, nothing bloated",Better reporting
+d36aedd7-e8c,2025-03-01T21:12:07Z,022a0b0d-c2f3-4a8b-9c83-1845df26a12f,pro,DE,8,Some bugs occasionally,Mobile app improvements
+9ca68e08-8b5,2025-06-01T00:53:55Z,022a0b0d-c2f3-4a8b-9c83-1845df26a12f,pro,DE,10,Great value,More integrations
+ef229313-ca2,2024-09-01T09:28:34Z,2d50beb5-90d8-476a-9038-15ca2a70e911,starter,NG,7,Decent price,
+b2f00a60-428,2024-12-01T20:12:01Z,2d50beb5-90d8-476a-9038-15ca2a70e911,starter,NG,10,Great value,Better reporting
+30687d96-370,2025-03-01T03:45:58Z,2d50beb5-90d8-476a-9038-15ca2a70e911,starter,NG,8,Good but missing a few features,API docs
+7f3d7ed9-b11,2025-06-01T18:45:55Z,2d50beb5-90d8-476a-9038-15ca2a70e911,starter,NG,10,Great value,Bulk actions
+bb50fcaa-c31,2024-03-01T13:03:33Z,c2e845bd-6b99-4b40-924c-76d1d7acecd5,pro,GB,8,Some bugs occasionally,Mobile app improvements
+9b07d3a0-3e5,2024-06-01T04:22:23Z,c2e845bd-6b99-4b40-924c-76d1d7acecd5,pro,GB,8,Good but missing a few features,Better reporting
+354696a8-f95,2024-09-01T12:31:58Z,c2e845bd-6b99-4b40-924c-76d1d7acecd5,pro,GB,10,Love the kanban board,Bulk actions
+60aadbe2-c32,2024-12-01T02:28:37Z,c2e845bd-6b99-4b40-924c-76d1d7acecd5,pro,GB,9,Saves me hours every week,Bulk actions
+2ddf83f5-f24,2025-03-01T18:55:02Z,c2e845bd-6b99-4b40-924c-76d1d7acecd5,pro,GB,5,Confusing onboarding,
+a219f376-9b8,2025-06-01T11:43:12Z,c2e845bd-6b99-4b40-924c-76d1d7acecd5,pro,GB,6,Confusing onboarding,Bulk actions
+11923f96-78c,2024-09-01T19:59:52Z,04f81ab4-8ef2-48d4-8640-359b2b519888,pro,NG,9,Great value,More integrations
+69e49142-e74,2024-12-01T02:12:37Z,04f81ab4-8ef2-48d4-8640-359b2b519888,pro,NG,8,Decent price,Mobile app improvements
+d5fafd6b-600,2025-03-01T06:15:07Z,04f81ab4-8ef2-48d4-8640-359b2b519888,pro,NG,9,Best tool for my team,API docs
+aa0eb948-207,2025-06-01T15:10:57Z,04f81ab4-8ef2-48d4-8640-359b2b519888,pro,NG,9,Super easy to use,
+3c1e5254-b57,2025-03-01T16:24:31Z,9eaa07c9-db36-4f7b-8011-d5baf9805c92,pro,US,10,Best tool for my team,API docs
+2ed890fd-57b,2025-06-01T23:39:41Z,9eaa07c9-db36-4f7b-8011-d5baf9805c92,pro,US,9,"Clean UI, nothing bloated",Bulk actions
+744a0f0a-194,2025-03-01T21:26:12Z,524a93b9-a1c5-4aa4-8d15-8bc3d97a2d82,business,DE,7,Works well enough,More integrations
+09ac82da-941,2025-06-01T12:45:06Z,524a93b9-a1c5-4aa4-8d15-8bc3d97a2d82,business,DE,7,Some bugs occasionally,Bulk actions
+e22be2af-fc7,2024-03-01T15:45:26Z,4f5353e5-23b0-4127-9833-c12f2bbc8f79,business,NG,10,Best tool for my team,Bulk actions
+7e8003cf-a97,2024-06-01T10:23:08Z,4f5353e5-23b0-4127-9833-c12f2bbc8f79,business,NG,8,Some bugs occasionally,Bulk actions
+be522ca3-eb7,2024-09-01T12:01:39Z,4f5353e5-23b0-4127-9833-c12f2bbc8f79,business,NG,10,Great value,Better reporting
+7731ce78-2b2,2024-12-01T17:06:31Z,4f5353e5-23b0-4127-9833-c12f2bbc8f79,business,NG,9,Great value,Mobile app improvements
+2af944aa-005,2025-03-01T15:47:50Z,4f5353e5-23b0-4127-9833-c12f2bbc8f79,business,NG,3,Confusing onboarding,
+43400fed-1c2,2025-06-01T10:34:02Z,4f5353e5-23b0-4127-9833-c12f2bbc8f79,business,NG,7,Works well enough,API docs
+80981fdb-7e5,2024-09-01T11:04:44Z,a0114f31-30e5-458b-850a-b31f54477a01,pro,ZA,8,Some bugs occasionally,Mobile app improvements
+d6929821-c39,2024-12-01T11:03:38Z,a0114f31-30e5-458b-850a-b31f54477a01,pro,ZA,8,Works well enough,Better reporting
+5df0ad7a-d2d,2025-03-01T22:47:09Z,a0114f31-30e5-458b-850a-b31f54477a01,pro,ZA,10,Saves me hours every week,More integrations
+e5cf3326-69d,2025-06-01T04:34:20Z,a0114f31-30e5-458b-850a-b31f54477a01,pro,ZA,5,Missing integrations I need,Mobile app improvements
+81a6afd8-9d5,2024-06-01T22:36:43Z,37d79ac2-3d98-433f-bfc5-552ae3d756f8,starter,CA,10,Great value,
+ce0f6e20-027,2024-09-01T17:42:40Z,37d79ac2-3d98-433f-bfc5-552ae3d756f8,starter,CA,10,Love the kanban board,Mobile app improvements
+26504951-080,2024-12-01T18:02:15Z,37d79ac2-3d98-433f-bfc5-552ae3d756f8,starter,CA,7,Works well enough,Better reporting
+18b2d0bf-183,2025-03-01T06:55:27Z,37d79ac2-3d98-433f-bfc5-552ae3d756f8,starter,CA,8,Some bugs occasionally,Bulk actions
+eae3fcff-7e4,2025-06-01T21:15:55Z,37d79ac2-3d98-433f-bfc5-552ae3d756f8,starter,CA,8,Decent price,Bulk actions
+40123088-992,2025-03-01T15:13:39Z,842a9fa5-2ead-44dc-a1a3-2f440930b456,pro,NG,9,Great value,Better reporting
+3facea00-c80,2025-06-01T06:55:24Z,842a9fa5-2ead-44dc-a1a3-2f440930b456,pro,NG,9,Super easy to use,
+998c72b4-0b9,2024-12-01T16:31:45Z,ed61985f-ac7d-40ea-9081-806860857e95,pro,KE,9,Love the kanban board,More integrations
+99256816-4f5,2025-03-01T14:02:00Z,ed61985f-ac7d-40ea-9081-806860857e95,pro,KE,9,Saves me hours every week,
+3de5e2b6-fe0,2025-06-01T13:11:06Z,ed61985f-ac7d-40ea-9081-806860857e95,pro,KE,9,Love the kanban board,Mobile app improvements
+1fba536b-cdf,2024-09-01T17:50:25Z,05a7bdcd-9a3a-4e99-8cf0-24e8dca7a242,business,ZA,5,Confusing onboarding,
+965b3962-e2b,2024-12-01T02:41:16Z,05a7bdcd-9a3a-4e99-8cf0-24e8dca7a242,business,ZA,6,Support was slow,Bulk actions
+5c4fc699-15e,2025-03-01T21:00:17Z,05a7bdcd-9a3a-4e99-8cf0-24e8dca7a242,business,ZA,6,Too expensive for what it offers,API docs
+0363f7e0-850,2025-06-01T09:36:59Z,05a7bdcd-9a3a-4e99-8cf0-24e8dca7a242,business,ZA,6,Keeps crashing on mobile,
+e8ec8dab-5f2,2025-03-01T11:33:46Z,c351fd3c-9c2f-4019-acc4-5136605f8e7d,pro,ZA,10,"Clean UI, nothing bloated",
+5f454f18-892,2025-06-01T18:00:52Z,c351fd3c-9c2f-4019-acc4-5136605f8e7d,pro,ZA,9,Best tool for my team,API docs
+d82e5e25-403,2024-06-01T05:01:02Z,5dbbe00d-adde-4aab-aa31-aab47eb27217,pro,DE,9,Best tool for my team,Mobile app improvements
+e464c357-5ad,2024-09-01T21:09:29Z,5dbbe00d-adde-4aab-aa31-aab47eb27217,pro,DE,10,Super easy to use,API docs
+daf4ae14-7fd,2024-12-01T04:03:24Z,5dbbe00d-adde-4aab-aa31-aab47eb27217,pro,DE,10,Best tool for my team,More integrations
+73aeb7de-3d6,2025-03-01T09:38:15Z,5dbbe00d-adde-4aab-aa31-aab47eb27217,pro,DE,7,Good but missing a few features,More integrations
+98f7d562-be7,2025-06-01T06:26:04Z,5dbbe00d-adde-4aab-aa31-aab47eb27217,pro,DE,9,Saves me hours every week,
+8acbcca3-97f,2024-09-01T07:39:12Z,773cfcd0-7c3a-46e3-9902-6e9fdf072942,starter,GB,8,Some bugs occasionally,Mobile app improvements
+5a14378e-4d2,2024-12-01T09:17:13Z,773cfcd0-7c3a-46e3-9902-6e9fdf072942,starter,GB,8,Works well enough,Mobile app improvements
+b9a13ef9-4f9,2025-03-01T02:17:16Z,773cfcd0-7c3a-46e3-9902-6e9fdf072942,starter,GB,8,Some bugs occasionally,Bulk actions
+a7a7fa62-1ef,2025-06-01T06:04:31Z,773cfcd0-7c3a-46e3-9902-6e9fdf072942,starter,GB,8,Good but missing a few features,Better reporting
+6a833c03-c97,2024-06-01T17:39:20Z,86cb203f-2d38-4cfe-8645-5ec8d79593bc,starter,NG,10,"Clean UI, nothing bloated",More integrations
+1d38fafe-6c8,2024-09-01T12:23:22Z,86cb203f-2d38-4cfe-8645-5ec8d79593bc,starter,NG,10,Saves me hours every week,API docs
+446e8bff-e3d,2024-12-01T12:59:03Z,86cb203f-2d38-4cfe-8645-5ec8d79593bc,starter,NG,5,Confusing onboarding,Bulk actions
+a793b5f3-324,2025-03-01T05:06:32Z,86cb203f-2d38-4cfe-8645-5ec8d79593bc,starter,NG,10,"Clean UI, nothing bloated",Bulk actions
+c2dd2683-e77,2025-06-01T01:33:18Z,86cb203f-2d38-4cfe-8645-5ec8d79593bc,starter,NG,10,Great value,More integrations
+4a9685f5-acb,2024-09-01T21:43:28Z,b6225f09-6ccc-453f-b215-3fa5fed36e78,pro,CA,8,Decent price,
+7424ea63-e3b,2024-12-01T16:39:40Z,b6225f09-6ccc-453f-b215-3fa5fed36e78,pro,CA,9,Love the kanban board,API docs
+633a6fea-77c,2025-03-01T18:31:59Z,b6225f09-6ccc-453f-b215-3fa5fed36e78,pro,CA,10,Super easy to use,More integrations
+2553c82b-51c,2025-06-01T07:40:17Z,b6225f09-6ccc-453f-b215-3fa5fed36e78,pro,CA,9,Best tool for my team,More integrations
+543168be-9d2,2024-12-01T08:22:25Z,021dc990-5938-4cce-aa51-469773a5907d,business,KE,7,Some bugs occasionally,
+16c48ad1-f55,2025-03-01T12:12:54Z,021dc990-5938-4cce-aa51-469773a5907d,business,KE,9,Love the kanban board,Mobile app improvements
+40311959-0a5,2025-06-01T03:22:21Z,021dc990-5938-4cce-aa51-469773a5907d,business,KE,8,Some bugs occasionally,Mobile app improvements
+b220eb73-505,2025-03-01T15:55:46Z,fc2e8e1b-34fe-44e9-9add-e704623aa369,starter,GB,8,Works well enough,Mobile app improvements
+7fa4cb06-f8e,2025-06-01T12:16:18Z,fc2e8e1b-34fe-44e9-9add-e704623aa369,starter,GB,10,Super easy to use,Better reporting
+bb46b9fd-65c,2024-09-01T17:39:07Z,b4eecf2a-28dc-4555-9b77-112a225b5393,pro,NG,8,Works well enough,Mobile app improvements
+78375e29-a2b,2024-12-01T00:51:05Z,b4eecf2a-28dc-4555-9b77-112a225b5393,pro,NG,9,Great value,Mobile app improvements
+89c14dbd-a7c,2025-03-01T05:37:06Z,b4eecf2a-28dc-4555-9b77-112a225b5393,pro,NG,8,Some bugs occasionally,Mobile app improvements
+5e9d0f47-0b1,2025-06-01T10:49:10Z,b4eecf2a-28dc-4555-9b77-112a225b5393,pro,NG,9,"Clean UI, nothing bloated",More integrations
+ac2848b6-0b2,2024-09-01T18:06:27Z,5d9ff34c-ed1f-46fd-94a6-35ae94e475c3,starter,KE,10,Super easy to use,
+c7296aeb-814,2024-12-01T06:26:49Z,5d9ff34c-ed1f-46fd-94a6-35ae94e475c3,starter,KE,10,Great value,Bulk actions
+78124b8a-5f1,2025-03-01T04:58:41Z,5d9ff34c-ed1f-46fd-94a6-35ae94e475c3,starter,KE,10,Love the kanban board,API docs
+1fe78763-9d2,2025-06-01T02:07:36Z,5d9ff34c-ed1f-46fd-94a6-35ae94e475c3,starter,KE,3,Confusing onboarding,
+76a846fd-4a4,2025-03-01T12:20:36Z,8aa56870-74ff-4405-87a0-65f6fd686bb4,pro,KE,9,Great value,API docs
+26f8b7dc-5a9,2025-06-01T19:05:38Z,8aa56870-74ff-4405-87a0-65f6fd686bb4,pro,KE,7,Good but missing a few features,
+f3faf6bb-6ec,2024-03-01T04:19:09Z,85a4d85c-dba0-4ae6-b344-0838cd43ec12,starter,US,3,Confusing onboarding,Better reporting
+874777c9-150,2024-06-01T07:07:16Z,85a4d85c-dba0-4ae6-b344-0838cd43ec12,starter,US,9,Saves me hours every week,
+2a344306-c15,2024-09-01T14:53:45Z,85a4d85c-dba0-4ae6-b344-0838cd43ec12,starter,US,2,Too expensive for what it offers,Bulk actions
+3a0ecbd2-8ea,2024-12-01T10:17:16Z,85a4d85c-dba0-4ae6-b344-0838cd43ec12,starter,US,9,Super easy to use,
+29ba590a-580,2025-03-01T11:22:17Z,85a4d85c-dba0-4ae6-b344-0838cd43ec12,starter,US,8,Some bugs occasionally,API docs
+0dcb8de5-105,2025-06-01T16:16:43Z,85a4d85c-dba0-4ae6-b344-0838cd43ec12,starter,US,10,Super easy to use,Bulk actions
+c60c0718-0a5,2025-06-01T19:45:23Z,c4a1b736-fee9-4a6d-8128-319c92ee19ba,pro,NG,10,Saves me hours every week,Better reporting
+7d81d3a4-530,2024-09-01T08:35:17Z,2812adc6-79b5-48f5-a4ff-e73b01262d95,pro,US,10,Love the kanban board,Bulk actions
+08108718-9cc,2024-12-01T05:49:27Z,2812adc6-79b5-48f5-a4ff-e73b01262d95,pro,US,7,Works well enough,API docs
+caedb8f9-b0f,2025-03-01T15:34:29Z,2812adc6-79b5-48f5-a4ff-e73b01262d95,pro,US,7,Decent price,Mobile app improvements
+959e25ab-d25,2025-06-01T22:28:58Z,2812adc6-79b5-48f5-a4ff-e73b01262d95,pro,US,10,Love the kanban board,More integrations
+d56ec873-9cd,2024-06-01T10:48:04Z,15ae9e68-dfe8-4c9a-96f3-bcca8cb9d615,pro,CA,4,Too expensive for what it offers,Mobile app improvements
+bdfe69a5-702,2024-09-01T19:58:19Z,15ae9e68-dfe8-4c9a-96f3-bcca8cb9d615,pro,CA,8,Some bugs occasionally,Better reporting
+b2cf45e1-4a6,2024-12-01T12:07:39Z,15ae9e68-dfe8-4c9a-96f3-bcca8cb9d615,pro,CA,8,Some bugs occasionally,Bulk actions
+d755d6a3-a91,2025-03-01T22:08:56Z,15ae9e68-dfe8-4c9a-96f3-bcca8cb9d615,pro,CA,10,"Clean UI, nothing bloated",Better reporting
+ed9d6ce3-35a,2025-06-01T19:49:34Z,15ae9e68-dfe8-4c9a-96f3-bcca8cb9d615,pro,CA,9,Love the kanban board,
+936f7b66-cc5,2024-03-01T20:06:00Z,0471aec1-f70a-40d8-aae5-a858bcb30d3a,pro,NG,9,Saves me hours every week,More integrations
+2a4c1ec9-ba9,2024-06-01T01:19:48Z,0471aec1-f70a-40d8-aae5-a858bcb30d3a,pro,NG,10,Great value,Bulk actions
+0e92383c-44d,2024-09-01T16:19:18Z,0471aec1-f70a-40d8-aae5-a858bcb30d3a,pro,NG,9,Best tool for my team,Mobile app improvements
+d46750ec-f70,2024-12-01T00:07:21Z,0471aec1-f70a-40d8-aae5-a858bcb30d3a,pro,NG,10,Super easy to use,Mobile app improvements
+42bd7afa-327,2025-03-01T15:50:13Z,0471aec1-f70a-40d8-aae5-a858bcb30d3a,pro,NG,7,Decent price,
+cf660edb-2a9,2025-06-01T18:13:39Z,0471aec1-f70a-40d8-aae5-a858bcb30d3a,pro,NG,9,Great value,More integrations
+e52b0954-a2d,2025-06-01T01:26:52Z,e93c09c9-3994-455a-9cd4-1812c4de071d,business,DE,10,Super easy to use,Bulk actions
+bc556a69-916,2024-09-01T21:53:56Z,8fb77b55-bec9-4bda-a9d7-f7ffb4f28b1e,starter,GB,10,Saves me hours every week,More integrations
+7cd1bf31-3d6,2024-12-01T20:32:17Z,8fb77b55-bec9-4bda-a9d7-f7ffb4f28b1e,starter,GB,8,Decent price,Bulk actions
+8af47653-bb0,2025-03-01T02:35:19Z,8fb77b55-bec9-4bda-a9d7-f7ffb4f28b1e,starter,GB,10,Love the kanban board,Better reporting
+91c12727-0e4,2025-06-01T14:45:11Z,8fb77b55-bec9-4bda-a9d7-f7ffb4f28b1e,starter,GB,9,Love the kanban board,Mobile app improvements
+11db7574-530,2024-03-01T09:21:09Z,2f864161-5728-4952-86ba-dfb086b15d72,pro,GB,9,"Clean UI, nothing bloated",Better reporting
+2e27402a-a24,2024-06-01T15:01:28Z,2f864161-5728-4952-86ba-dfb086b15d72,pro,GB,9,Love the kanban board,Better reporting
+30dc09ee-01b,2024-09-01T19:20:27Z,2f864161-5728-4952-86ba-dfb086b15d72,pro,GB,5,Support was slow,Bulk actions
+34894e59-df7,2024-12-01T10:19:20Z,2f864161-5728-4952-86ba-dfb086b15d72,pro,GB,4,Support was slow,More integrations
+739b1d9b-bb7,2025-03-01T14:18:18Z,2f864161-5728-4952-86ba-dfb086b15d72,pro,GB,8,Decent price,
+07a403c3-1ae,2025-06-01T01:24:35Z,2f864161-5728-4952-86ba-dfb086b15d72,pro,GB,9,Super easy to use,More integrations
+ee67206e-40a,2024-09-01T13:11:15Z,4bd6cd9e-818c-4ca3-abeb-c6d3f6b92c8b,starter,NG,10,Love the kanban board,Bulk actions
+490b5b19-716,2024-12-01T18:17:36Z,4bd6cd9e-818c-4ca3-abeb-c6d3f6b92c8b,starter,NG,10,Best tool for my team,Bulk actions
+02699356-010,2025-03-01T02:17:29Z,4bd6cd9e-818c-4ca3-abeb-c6d3f6b92c8b,starter,NG,10,Saves me hours every week,Mobile app improvements
+04221593-615,2025-06-01T16:59:33Z,4bd6cd9e-818c-4ca3-abeb-c6d3f6b92c8b,starter,NG,9,Super easy to use,Bulk actions
+4ad0c814-ad2,2024-03-01T23:32:28Z,82038f1b-b219-4835-b87c-626df88a5830,pro,GB,7,Some bugs occasionally,Better reporting
+329fbb95-7ad,2024-06-01T21:10:22Z,82038f1b-b219-4835-b87c-626df88a5830,pro,GB,7,Good but missing a few features,Bulk actions
+723a4526-f94,2024-09-01T08:15:13Z,82038f1b-b219-4835-b87c-626df88a5830,pro,GB,8,Decent price,More integrations
+a8164404-081,2024-12-01T14:58:10Z,82038f1b-b219-4835-b87c-626df88a5830,pro,GB,10,Great value,More integrations
+4d47142f-76f,2025-03-01T18:52:14Z,82038f1b-b219-4835-b87c-626df88a5830,pro,GB,8,Good but missing a few features,Mobile app improvements
+788dd9aa-665,2025-06-01T22:51:06Z,82038f1b-b219-4835-b87c-626df88a5830,pro,GB,6,Support was slow,Better reporting
+7e8e9c18-172,2024-03-01T05:54:52Z,241c16a1-54e9-4cab-971f-c7d4e5ea52c1,starter,IN,10,"Clean UI, nothing bloated",API docs
+e830cd27-c41,2024-06-01T19:51:23Z,241c16a1-54e9-4cab-971f-c7d4e5ea52c1,starter,IN,9,"Clean UI, nothing bloated",Better reporting
+1194da2c-a75,2024-09-01T18:19:45Z,241c16a1-54e9-4cab-971f-c7d4e5ea52c1,starter,IN,7,Works well enough,Mobile app improvements
+5e617625-16c,2024-12-01T06:18:57Z,241c16a1-54e9-4cab-971f-c7d4e5ea52c1,starter,IN,10,"Clean UI, nothing bloated",
+a14a482e-f6c,2025-03-01T20:39:46Z,241c16a1-54e9-4cab-971f-c7d4e5ea52c1,starter,IN,10,Love the kanban board,Better reporting
+be7d4a5f-ff3,2025-06-01T11:16:54Z,241c16a1-54e9-4cab-971f-c7d4e5ea52c1,starter,IN,6,Too expensive for what it offers,Bulk actions
+748baae5-eee,2024-12-01T14:46:52Z,000afff8-8cbe-4686-ac69-7dc1e68ad78e,business,US,10,"Clean UI, nothing bloated",More integrations
+4f695d4b-d25,2025-03-01T19:02:46Z,000afff8-8cbe-4686-ac69-7dc1e68ad78e,business,US,9,Saves me hours every week,Bulk actions
+0085d2ca-480,2025-06-01T15:00:04Z,000afff8-8cbe-4686-ac69-7dc1e68ad78e,business,US,10,Love the kanban board,Bulk actions
+51a5b781-2cf,2025-06-01T01:44:32Z,633cfcfb-b74c-4e5d-8c68-e1f8acb5a82f,pro,CA,8,Decent price,API docs
+f775de9a-5b2,2024-09-01T09:36:57Z,f3a759b1-1584-4d22-9486-863e2d487af1,pro,GB,5,Too expensive for what it offers,More integrations
+cc67c18a-535,2024-12-01T08:20:06Z,f3a759b1-1584-4d22-9486-863e2d487af1,pro,GB,9,Best tool for my team,Bulk actions
+ae8f085d-0cb,2025-03-01T10:46:39Z,f3a759b1-1584-4d22-9486-863e2d487af1,pro,GB,9,Great value,Mobile app improvements
+b23c4668-c4c,2025-06-01T05:31:41Z,f3a759b1-1584-4d22-9486-863e2d487af1,pro,GB,10,"Clean UI, nothing bloated",
+b052cbd2-277,2024-06-01T06:36:58Z,52a2e5b3-2b0d-47fe-8c2b-bf30790e2afa,business,NG,5,Missing integrations I need,
+1dc01caf-ff8,2024-09-01T14:12:39Z,52a2e5b3-2b0d-47fe-8c2b-bf30790e2afa,business,NG,10,Saves me hours every week,API docs
+a595cb18-cbf,2024-12-01T11:37:44Z,52a2e5b3-2b0d-47fe-8c2b-bf30790e2afa,business,NG,0,Support was slow,Better reporting
+d88fc7a9-da0,2025-03-01T22:47:29Z,52a2e5b3-2b0d-47fe-8c2b-bf30790e2afa,business,NG,8,Good but missing a few features,More integrations
+8541dca3-37e,2025-06-01T10:43:27Z,52a2e5b3-2b0d-47fe-8c2b-bf30790e2afa,business,NG,10,Super easy to use,
+61430224-343,2025-03-01T21:49:22Z,c66d6c1a-fe08-4912-a245-bc0b8dd0ec9c,pro,GB,8,Some bugs occasionally,Mobile app improvements
+a80dccd9-71a,2025-06-01T02:05:09Z,c66d6c1a-fe08-4912-a245-bc0b8dd0ec9c,pro,GB,8,Good but missing a few features,
+b107a775-be1,2025-03-01T12:41:56Z,4d19a24a-9697-472f-be15-4cd94fe5933a,pro,NG,6,Support was slow,Better reporting
+542c1ec6-baa,2025-06-01T07:39:30Z,4d19a24a-9697-472f-be15-4cd94fe5933a,pro,NG,6,Support was slow,
+b4d82433-1ef,2024-06-01T10:39:55Z,3937551c-74cf-4dd2-8dfe-57f91ec0637c,starter,US,10,Saves me hours every week,
+97e991dd-77a,2024-09-01T12:19:49Z,3937551c-74cf-4dd2-8dfe-57f91ec0637c,starter,US,10,Great value,Mobile app improvements
+fbbcaba2-7be,2024-12-01T15:48:56Z,3937551c-74cf-4dd2-8dfe-57f91ec0637c,starter,US,7,Good but missing a few features,More integrations
+65f5a527-d6d,2025-03-01T15:29:47Z,3937551c-74cf-4dd2-8dfe-57f91ec0637c,starter,US,10,"Clean UI, nothing bloated",API docs
+84063855-9c1,2025-06-01T20:57:12Z,3937551c-74cf-4dd2-8dfe-57f91ec0637c,starter,US,4,Keeps crashing on mobile,API docs
+781a1755-397,2024-12-01T23:50:51Z,e542bc3f-ed8f-415e-8526-d62a76ca8393,pro,US,10,Best tool for my team,Mobile app improvements
+3bfafe91-3bb,2025-03-01T00:36:20Z,e542bc3f-ed8f-415e-8526-d62a76ca8393,pro,US,4,Missing integrations I need,Mobile app improvements
+cac76271-cf0,2025-06-01T02:14:40Z,e542bc3f-ed8f-415e-8526-d62a76ca8393,pro,US,10,Love the kanban board,Bulk actions
+6be81f89-1db,2024-03-01T06:43:30Z,c4ec93f5-b2ba-4dcc-8c71-d1c07af19ff1,starter,US,10,Great value,More integrations
+b6abc79d-f61,2024-06-01T13:20:08Z,c4ec93f5-b2ba-4dcc-8c71-d1c07af19ff1,starter,US,10,Love the kanban board,Bulk actions
+dc26f52e-4e1,2024-09-01T10:38:36Z,c4ec93f5-b2ba-4dcc-8c71-d1c07af19ff1,starter,US,9,Love the kanban board,Bulk actions
+d6bd670e-a8c,2024-12-01T05:18:47Z,c4ec93f5-b2ba-4dcc-8c71-d1c07af19ff1,starter,US,10,Super easy to use,API docs
+45044120-c0e,2025-03-01T02:21:03Z,c4ec93f5-b2ba-4dcc-8c71-d1c07af19ff1,starter,US,9,Love the kanban board,API docs
+99c1a64a-d30,2025-06-01T16:18:57Z,c4ec93f5-b2ba-4dcc-8c71-d1c07af19ff1,starter,US,10,Super easy to use,API docs
+7f25f973-27b,2024-12-01T11:47:24Z,f8bba4ad-e30e-4a35-9f68-1010d31c99d3,starter,GB,8,Works well enough,API docs
+f0538097-76a,2025-03-01T13:59:08Z,f8bba4ad-e30e-4a35-9f68-1010d31c99d3,starter,GB,7,Good but missing a few features,Bulk actions
+2f703023-b49,2025-06-01T07:46:02Z,f8bba4ad-e30e-4a35-9f68-1010d31c99d3,starter,GB,8,Some bugs occasionally,
+8d13dd63-37e,2024-12-01T01:04:06Z,adea8e2e-31ce-443c-83a8-1332fd2d6684,business,GH,10,Love the kanban board,Better reporting
+86e6e1d6-b42,2025-03-01T19:01:46Z,adea8e2e-31ce-443c-83a8-1332fd2d6684,business,GH,8,Good but missing a few features,
+1addb296-39a,2025-06-01T12:31:59Z,adea8e2e-31ce-443c-83a8-1332fd2d6684,business,GH,9,Great value,Bulk actions
+785a062b-654,2024-03-01T00:45:10Z,b1334a9f-c558-4113-bec1-4b6e11ede846,business,ZA,8,Good but missing a few features,
+f894798d-d8a,2024-06-01T00:22:32Z,b1334a9f-c558-4113-bec1-4b6e11ede846,business,ZA,4,Missing integrations I need,More integrations
+3ffd41c3-f31,2024-09-01T11:10:56Z,b1334a9f-c558-4113-bec1-4b6e11ede846,business,ZA,5,Too expensive for what it offers,Mobile app improvements
+b8a823e7-7c4,2024-12-01T14:00:08Z,b1334a9f-c558-4113-bec1-4b6e11ede846,business,ZA,9,Saves me hours every week,More integrations
+ddeba57b-2d0,2025-03-01T17:49:41Z,b1334a9f-c558-4113-bec1-4b6e11ede846,business,ZA,10,Great value,Bulk actions
+b3b6b698-282,2025-06-01T03:12:38Z,b1334a9f-c558-4113-bec1-4b6e11ede846,business,ZA,8,Some bugs occasionally,API docs
+fbbe923a-4ff,2024-06-01T15:43:30Z,b461f244-8413-4af9-ad41-b94d1db6654e,pro,NG,9,Love the kanban board,
+b0b4c699-aa0,2024-09-01T07:51:09Z,b461f244-8413-4af9-ad41-b94d1db6654e,pro,NG,8,Works well enough,Mobile app improvements
+beaf324e-140,2024-12-01T21:45:51Z,b461f244-8413-4af9-ad41-b94d1db6654e,pro,NG,8,Some bugs occasionally,
+1a9d20fd-011,2025-03-01T10:36:56Z,b461f244-8413-4af9-ad41-b94d1db6654e,pro,NG,10,Great value,API docs
+1f20dacd-c78,2025-06-01T04:50:02Z,b461f244-8413-4af9-ad41-b94d1db6654e,pro,NG,6,Keeps crashing on mobile,API docs
+4a54457a-3d2,2024-06-01T07:39:49Z,b352c753-948a-412f-ad01-476b7892915f,starter,NG,10,Love the kanban board,Better reporting
+13718920-b7b,2024-09-01T03:45:40Z,b352c753-948a-412f-ad01-476b7892915f,starter,NG,9,Super easy to use,API docs
+fd9a0a79-685,2024-12-01T03:40:42Z,b352c753-948a-412f-ad01-476b7892915f,starter,NG,9,Best tool for my team,More integrations
+22e1e615-c35,2025-03-01T07:29:08Z,b352c753-948a-412f-ad01-476b7892915f,starter,NG,10,"Clean UI, nothing bloated",Bulk actions
+e063ed88-c20,2025-06-01T07:41:08Z,b352c753-948a-412f-ad01-476b7892915f,starter,NG,9,Great value,Better reporting
+2251f53c-e11,2024-06-01T14:59:08Z,cc0d6cfd-d404-463e-a6e1-471db0563291,starter,NG,8,Good but missing a few features,API docs
+db0d8d5e-124,2024-09-01T05:40:32Z,cc0d6cfd-d404-463e-a6e1-471db0563291,starter,NG,9,"Clean UI, nothing bloated",Mobile app improvements
+e0a95dd8-84f,2024-12-01T09:41:55Z,cc0d6cfd-d404-463e-a6e1-471db0563291,starter,NG,10,Love the kanban board,
+81aa1a00-7d7,2025-03-01T03:53:56Z,cc0d6cfd-d404-463e-a6e1-471db0563291,starter,NG,10,Best tool for my team,Better reporting
+25a92104-e84,2025-06-01T04:32:36Z,cc0d6cfd-d404-463e-a6e1-471db0563291,starter,NG,10,Love the kanban board,Better reporting
+c49cd71c-518,2025-03-01T23:58:02Z,ef5f680f-285b-4a5c-b4d9-23c8f1457dce,business,NG,9,Great value,Mobile app improvements
+8948828c-a4b,2025-06-01T16:43:57Z,ef5f680f-285b-4a5c-b4d9-23c8f1457dce,business,NG,10,Saves me hours every week,Better reporting
+0870c7d1-561,2024-09-01T01:04:33Z,e8a815e3-e8f9-439c-aae5-23c772fccea5,business,GB,8,Works well enough,
+673b9364-949,2024-12-01T19:42:23Z,e8a815e3-e8f9-439c-aae5-23c772fccea5,business,GB,9,"Clean UI, nothing bloated",Better reporting
+d24bc37d-eec,2025-03-01T05:44:12Z,e8a815e3-e8f9-439c-aae5-23c772fccea5,business,GB,8,Some bugs occasionally,Better reporting
+e262a980-ee7,2025-06-01T14:23:09Z,e8a815e3-e8f9-439c-aae5-23c772fccea5,business,GB,8,Works well enough,
+1a34adf1-303,2025-06-01T11:05:16Z,b552cb87-fda5-4727-b4e7-b191a6380ad2,pro,DE,0,Confusing onboarding,Better reporting
+a8e2e949-5f9,2025-03-01T07:46:23Z,ce053d99-ca3a-4263-b85c-8cc054b3818d,pro,NG,8,Decent price,
+68bf48ff-8a8,2025-06-01T23:05:13Z,ce053d99-ca3a-4263-b85c-8cc054b3818d,pro,NG,9,Great value,
+fa5fe2c6-723,2024-06-01T19:26:05Z,1ac1b6e3-2d52-49b4-92a3-b89bab6e1d7b,pro,CA,9,"Clean UI, nothing bloated",More integrations
+7517cb6a-3bc,2024-09-01T02:17:30Z,1ac1b6e3-2d52-49b4-92a3-b89bab6e1d7b,pro,CA,10,"Clean UI, nothing bloated",Bulk actions
+21ad2f3a-821,2024-12-01T08:14:02Z,1ac1b6e3-2d52-49b4-92a3-b89bab6e1d7b,pro,CA,9,Great value,API docs
+7d7c3f12-180,2025-03-01T07:21:58Z,1ac1b6e3-2d52-49b4-92a3-b89bab6e1d7b,pro,CA,9,Great value,Bulk actions
+c33153da-65f,2025-06-01T05:46:09Z,1ac1b6e3-2d52-49b4-92a3-b89bab6e1d7b,pro,CA,9,Great value,Bulk actions
+30d111a6-6d5,2024-03-01T08:17:12Z,3c75cdf6-a4cd-4661-a6e8-7899264e40d9,pro,US,9,Super easy to use,
+3216756b-4e9,2024-06-01T17:19:43Z,3c75cdf6-a4cd-4661-a6e8-7899264e40d9,pro,US,10,"Clean UI, nothing bloated",More integrations
+d0bb7e20-764,2024-09-01T19:58:19Z,3c75cdf6-a4cd-4661-a6e8-7899264e40d9,pro,US,7,Decent price,Mobile app improvements
+dbf7bb04-89a,2024-12-01T12:10:07Z,3c75cdf6-a4cd-4661-a6e8-7899264e40d9,pro,US,10,"Clean UI, nothing bloated",Bulk actions
+3522f591-893,2025-03-01T18:32:21Z,3c75cdf6-a4cd-4661-a6e8-7899264e40d9,pro,US,6,Confusing onboarding,Bulk actions
+6b5f5995-3c6,2025-06-01T14:58:59Z,3c75cdf6-a4cd-4661-a6e8-7899264e40d9,pro,US,10,Great value,Mobile app improvements
+7f6a89a6-aa0,2024-12-01T02:34:42Z,ae1cc4e5-6a91-4f83-b323-8c35deff8f62,starter,CA,8,Works well enough,API docs
+0d9dc4bc-9cf,2025-03-01T19:41:12Z,ae1cc4e5-6a91-4f83-b323-8c35deff8f62,starter,CA,10,Super easy to use,Bulk actions
+2d03459d-394,2025-06-01T13:24:34Z,ae1cc4e5-6a91-4f83-b323-8c35deff8f62,starter,CA,7,Some bugs occasionally,Bulk actions
+d3b57d88-7ae,2024-06-01T20:19:47Z,76afafef-a2a7-4bb1-8da5-b1e79d17967d,pro,NG,9,Super easy to use,Better reporting
+88eab6af-022,2024-09-01T00:58:50Z,76afafef-a2a7-4bb1-8da5-b1e79d17967d,pro,NG,9,"Clean UI, nothing bloated",Bulk actions
+e52c71d4-974,2024-12-01T12:01:46Z,76afafef-a2a7-4bb1-8da5-b1e79d17967d,pro,NG,9,"Clean UI, nothing bloated",API docs
+2dfac83d-6a7,2025-03-01T07:41:22Z,76afafef-a2a7-4bb1-8da5-b1e79d17967d,pro,NG,10,"Clean UI, nothing bloated",Better reporting
+92bb3f5a-cc2,2025-06-01T17:47:56Z,76afafef-a2a7-4bb1-8da5-b1e79d17967d,pro,NG,10,Best tool for my team,Better reporting
+b55a2378-0e8,2025-03-01T06:35:53Z,47e52fa9-9936-43cc-b16f-b98806f437d6,pro,US,9,Love the kanban board,Better reporting
+acd0567a-f62,2025-06-01T05:17:52Z,47e52fa9-9936-43cc-b16f-b98806f437d6,pro,US,0,Missing integrations I need,Better reporting
+cc8aa0c3-e05,2024-09-01T15:18:39Z,2f4ed0ba-0cc4-4b8e-8f8a-743126c91142,starter,CA,9,"Clean UI, nothing bloated",Better reporting
+45e50d81-0a0,2024-12-01T02:19:11Z,2f4ed0ba-0cc4-4b8e-8f8a-743126c91142,starter,CA,9,Great value,Bulk actions
+ee528522-81a,2025-03-01T03:21:14Z,2f4ed0ba-0cc4-4b8e-8f8a-743126c91142,starter,CA,6,Keeps crashing on mobile,
+5b1e6def-07a,2025-06-01T14:41:30Z,2f4ed0ba-0cc4-4b8e-8f8a-743126c91142,starter,CA,8,Good but missing a few features,Bulk actions
+194433d6-dfd,2025-03-01T18:36:35Z,07db1e24-9bc8-42ba-ad22-f3aa23a85227,business,CA,9,Great value,Mobile app improvements
+44935d37-59e,2025-06-01T17:55:57Z,07db1e24-9bc8-42ba-ad22-f3aa23a85227,business,CA,9,"Clean UI, nothing bloated",More integrations
+55e9fa88-da5,2024-06-01T16:56:25Z,56e933cf-a1da-498b-b5aa-6fadf999125d,pro,ZA,9,Great value,More integrations
+a6a3d1b7-928,2024-09-01T23:24:33Z,56e933cf-a1da-498b-b5aa-6fadf999125d,pro,ZA,10,Super easy to use,
+1dfbdbc0-207,2024-12-01T07:52:54Z,56e933cf-a1da-498b-b5aa-6fadf999125d,pro,ZA,10,Saves me hours every week,API docs
+93169c57-d09,2025-03-01T12:20:46Z,56e933cf-a1da-498b-b5aa-6fadf999125d,pro,ZA,8,Works well enough,API docs
+e5e7e0e7-a8a,2025-06-01T06:47:14Z,56e933cf-a1da-498b-b5aa-6fadf999125d,pro,ZA,8,Some bugs occasionally,More integrations
+a4dee546-9c6,2025-06-01T23:25:25Z,b4449717-71b9-464f-9921-def368306a48,business,NG,7,Good but missing a few features,More integrations
+9096e66a-915,2025-03-01T06:26:12Z,d4942dee-44d4-4c9b-ac0b-4ec917850d2e,starter,GB,10,Saves me hours every week,Mobile app improvements
+a13b1b3c-10d,2025-06-01T14:25:00Z,d4942dee-44d4-4c9b-ac0b-4ec917850d2e,starter,GB,8,Good but missing a few features,API docs
+dc4ed28f-1b1,2024-03-01T21:21:31Z,3461d4a9-785b-4074-b39d-c1519b36e4c2,starter,KE,9,"Clean UI, nothing bloated",Mobile app improvements
+c2c6db2e-bd3,2024-06-01T02:16:17Z,3461d4a9-785b-4074-b39d-c1519b36e4c2,starter,KE,8,Works well enough,Better reporting
+f34686ee-921,2024-09-01T01:25:07Z,3461d4a9-785b-4074-b39d-c1519b36e4c2,starter,KE,8,Decent price,More integrations
+2ea5b865-679,2024-12-01T17:27:13Z,3461d4a9-785b-4074-b39d-c1519b36e4c2,starter,KE,9,Love the kanban board,Mobile app improvements
+97fe8a8d-02b,2025-03-01T22:12:27Z,3461d4a9-785b-4074-b39d-c1519b36e4c2,starter,KE,7,Decent price,Bulk actions
+42fb2edb-173,2025-06-01T21:57:22Z,3461d4a9-785b-4074-b39d-c1519b36e4c2,starter,KE,3,Too expensive for what it offers,More integrations
+8c38e5f1-984,2024-12-01T23:07:36Z,017d5fb3-416d-4128-874b-b616b760b84d,starter,KE,9,Best tool for my team,Mobile app improvements
+d1b6e4c5-1fa,2025-03-01T21:59:49Z,017d5fb3-416d-4128-874b-b616b760b84d,starter,KE,10,Super easy to use,More integrations
+4863fb37-da0,2025-06-01T03:41:16Z,017d5fb3-416d-4128-874b-b616b760b84d,starter,KE,8,Good but missing a few features,More integrations
+e1c6da99-26f,2024-09-01T12:42:04Z,b47e7032-9b03-45f3-b16f-e446eb9e1e38,pro,US,8,Works well enough,API docs
+f07cd592-16f,2024-12-01T00:05:51Z,b47e7032-9b03-45f3-b16f-e446eb9e1e38,pro,US,1,Confusing onboarding,Better reporting
+9b24c27d-969,2025-03-01T21:49:01Z,b47e7032-9b03-45f3-b16f-e446eb9e1e38,pro,US,10,Saves me hours every week,Better reporting
+62292751-3e8,2025-06-01T22:04:22Z,b47e7032-9b03-45f3-b16f-e446eb9e1e38,pro,US,8,Some bugs occasionally,Bulk actions
+9dfbdbcd-096,2024-06-01T05:06:25Z,e107f94b-a7e7-42da-9e1d-550b2efbc853,pro,KE,9,Best tool for my team,
+78d52800-5b8,2024-09-01T16:24:11Z,e107f94b-a7e7-42da-9e1d-550b2efbc853,pro,KE,10,"Clean UI, nothing bloated",More integrations
+d217f07e-365,2024-12-01T15:23:34Z,e107f94b-a7e7-42da-9e1d-550b2efbc853,pro,KE,7,Decent price,API docs
+cf4fe902-b06,2025-03-01T06:13:27Z,e107f94b-a7e7-42da-9e1d-550b2efbc853,pro,KE,9,Love the kanban board,More integrations
+19a226b6-dea,2025-06-01T21:27:36Z,e107f94b-a7e7-42da-9e1d-550b2efbc853,pro,KE,10,"Clean UI, nothing bloated",API docs
+5ceb3d32-db7,2024-03-01T00:09:23Z,44589954-e185-4105-9ba0-8632afc0a30b,pro,GB,9,Saves me hours every week,API docs
+c134a9f6-7b5,2024-06-01T10:01:21Z,44589954-e185-4105-9ba0-8632afc0a30b,pro,GB,10,Love the kanban board,
+28a49b99-c16,2024-09-01T09:52:19Z,44589954-e185-4105-9ba0-8632afc0a30b,pro,GB,6,Confusing onboarding,Bulk actions
+2d010f9c-e8b,2024-12-01T20:03:18Z,44589954-e185-4105-9ba0-8632afc0a30b,pro,GB,9,"Clean UI, nothing bloated",More integrations
+5b535057-eff,2025-03-01T19:00:45Z,44589954-e185-4105-9ba0-8632afc0a30b,pro,GB,3,Keeps crashing on mobile,Bulk actions
+a3007901-f51,2025-06-01T12:17:04Z,44589954-e185-4105-9ba0-8632afc0a30b,pro,GB,10,Best tool for my team,Bulk actions
+6905a8ca-c23,2024-12-01T02:35:45Z,f9c2aae0-981b-4722-9fe1-1e3d2d629a8f,starter,GB,10,Love the kanban board,
+aa556d98-a61,2025-03-01T00:46:50Z,f9c2aae0-981b-4722-9fe1-1e3d2d629a8f,starter,GB,7,Decent price,
+9754a6ce-7cb,2025-06-01T14:22:03Z,f9c2aae0-981b-4722-9fe1-1e3d2d629a8f,starter,GB,8,Some bugs occasionally,More integrations
+5d748553-cea,2024-03-01T08:34:16Z,74e652df-004a-4acf-a32b-d74af5a6fb14,starter,US,10,Best tool for my team,Bulk actions
+d1b3cee4-b29,2024-06-01T22:51:19Z,74e652df-004a-4acf-a32b-d74af5a6fb14,starter,US,4,Support was slow,Better reporting
+ba7ebbe0-807,2024-09-01T20:51:58Z,74e652df-004a-4acf-a32b-d74af5a6fb14,starter,US,8,Some bugs occasionally,Mobile app improvements
+2a3875bd-619,2024-12-01T07:45:41Z,74e652df-004a-4acf-a32b-d74af5a6fb14,starter,US,8,Works well enough,Bulk actions
+9814d13e-f42,2025-03-01T09:13:07Z,74e652df-004a-4acf-a32b-d74af5a6fb14,starter,US,5,Support was slow,
+6df257e0-7eb,2025-06-01T00:57:42Z,74e652df-004a-4acf-a32b-d74af5a6fb14,starter,US,2,Missing integrations I need,Mobile app improvements
+b0447daa-33f,2024-09-01T00:07:59Z,6fedee47-eb80-409b-9c1e-a2a88a30b6df,business,NG,10,Best tool for my team,Better reporting
+ad3b58a0-e6f,2024-12-01T15:28:45Z,6fedee47-eb80-409b-9c1e-a2a88a30b6df,business,NG,9,Great value,API docs
+124cf268-a68,2025-03-01T21:10:43Z,6fedee47-eb80-409b-9c1e-a2a88a30b6df,business,NG,10,Great value,More integrations
+d61ec1b0-f33,2025-06-01T17:29:13Z,6fedee47-eb80-409b-9c1e-a2a88a30b6df,business,NG,8,Works well enough,API docs
+6c739c6b-ab4,2024-09-01T23:06:16Z,3e614c53-7288-485b-b8a9-74a9487f7ef4,starter,GB,9,Best tool for my team,API docs
+5f71cf0d-5b6,2024-12-01T04:40:22Z,3e614c53-7288-485b-b8a9-74a9487f7ef4,starter,GB,8,Some bugs occasionally,More integrations
+a1454195-6bb,2025-03-01T15:20:21Z,3e614c53-7288-485b-b8a9-74a9487f7ef4,starter,GB,10,Great value,Bulk actions
+ada9b24f-100,2025-06-01T20:08:18Z,3e614c53-7288-485b-b8a9-74a9487f7ef4,starter,GB,0,Too expensive for what it offers,More integrations
+be30142c-83d,2025-03-01T13:48:09Z,ec835f9d-2dac-46e3-b84b-d26e9d72af1c,pro,CA,10,"Clean UI, nothing bloated",
+7ba17688-524,2025-06-01T17:52:24Z,ec835f9d-2dac-46e3-b84b-d26e9d72af1c,pro,CA,10,Saves me hours every week,
+f1112519-e5d,2024-06-01T14:52:25Z,adc99256-ad19-4678-b430-20bf7a5d5f9d,starter,CA,9,Best tool for my team,More integrations
+9f2ffa78-82e,2024-09-01T10:50:12Z,adc99256-ad19-4678-b430-20bf7a5d5f9d,starter,CA,9,Best tool for my team,Bulk actions
+6f11746a-fcc,2024-12-01T02:39:52Z,adc99256-ad19-4678-b430-20bf7a5d5f9d,starter,CA,10,Super easy to use,Better reporting
+36e6c222-a7a,2025-03-01T09:57:45Z,adc99256-ad19-4678-b430-20bf7a5d5f9d,starter,CA,9,Great value,Better reporting
+be1a5ba8-575,2025-06-01T10:04:32Z,adc99256-ad19-4678-b430-20bf7a5d5f9d,starter,CA,9,Great value,API docs
+86bc2f16-76e,2024-12-01T10:31:35Z,ddefc4d3-4333-49bb-a27b-0e0167363763,starter,ZA,9,Saves me hours every week,More integrations
+0b7e007d-99e,2025-03-01T15:15:38Z,ddefc4d3-4333-49bb-a27b-0e0167363763,starter,ZA,0,Missing integrations I need,Better reporting
+d1e36a29-55a,2025-06-01T05:51:03Z,ddefc4d3-4333-49bb-a27b-0e0167363763,starter,ZA,10,Saves me hours every week,API docs
+ce7b1b18-aa6,2024-09-01T19:39:15Z,6c21dee1-93dc-460f-8373-9baecbc18303,pro,NG,10,Best tool for my team,API docs
+9ca87458-650,2024-12-01T01:47:21Z,6c21dee1-93dc-460f-8373-9baecbc18303,pro,NG,9,Best tool for my team,Mobile app improvements
+77c332cc-625,2025-03-01T15:33:55Z,6c21dee1-93dc-460f-8373-9baecbc18303,pro,NG,10,Great value,Better reporting
+61df90fb-776,2025-06-01T02:33:25Z,6c21dee1-93dc-460f-8373-9baecbc18303,pro,NG,8,Works well enough,Better reporting
+3960552e-8ec,2024-09-01T19:30:05Z,210fa16c-0dcd-4135-b3b8-fa3986646c28,business,NG,9,"Clean UI, nothing bloated",API docs
+d4ed5781-368,2024-12-01T23:11:57Z,210fa16c-0dcd-4135-b3b8-fa3986646c28,business,NG,10,Great value,
+3ced13b4-e48,2025-03-01T15:44:21Z,210fa16c-0dcd-4135-b3b8-fa3986646c28,business,NG,10,Great value,More integrations
+938c49de-9b5,2025-06-01T11:07:22Z,210fa16c-0dcd-4135-b3b8-fa3986646c28,business,NG,7,Works well enough,More integrations
+f8c2064c-6e2,2024-12-01T17:30:03Z,ba2381b5-3d78-49b9-8487-fca07a6a609d,pro,US,10,Great value,More integrations
+e1212b89-ef7,2025-03-01T15:22:01Z,ba2381b5-3d78-49b9-8487-fca07a6a609d,pro,US,9,"Clean UI, nothing bloated",Mobile app improvements
+0d5d141e-f89,2025-06-01T01:02:07Z,ba2381b5-3d78-49b9-8487-fca07a6a609d,pro,US,10,Super easy to use,Mobile app improvements
+c9138edd-3b2,2024-12-01T22:40:33Z,ca21cc97-4067-4660-bb2c-4adcd1ee0a8c,pro,NG,8,Some bugs occasionally,Bulk actions
+66b3bee5-7e0,2025-03-01T19:23:32Z,ca21cc97-4067-4660-bb2c-4adcd1ee0a8c,pro,NG,6,Too expensive for what it offers,Mobile app improvements
+dd1f6b26-4f8,2025-06-01T13:17:23Z,ca21cc97-4067-4660-bb2c-4adcd1ee0a8c,pro,NG,9,"Clean UI, nothing bloated",Mobile app improvements
+135643db-26c,2024-12-01T03:08:12Z,e031ba82-b5ab-4bde-98a5-ef0815d5f374,starter,GH,9,Best tool for my team,Mobile app improvements
+7db4becd-583,2025-03-01T04:35:05Z,e031ba82-b5ab-4bde-98a5-ef0815d5f374,starter,GH,6,Missing integrations I need,Better reporting
+b363d822-d36,2025-06-01T01:13:06Z,e031ba82-b5ab-4bde-98a5-ef0815d5f374,starter,GH,2,Missing integrations I need,More integrations
+93bc0310-8b4,2024-09-01T14:57:10Z,940dd183-dff8-4fc3-8f25-cab4e0b4545a,starter,NG,8,Some bugs occasionally,Better reporting
+c3cf7532-412,2024-12-01T12:57:14Z,940dd183-dff8-4fc3-8f25-cab4e0b4545a,starter,NG,8,Works well enough,Mobile app improvements
+df59997c-b04,2025-03-01T22:10:39Z,940dd183-dff8-4fc3-8f25-cab4e0b4545a,starter,NG,7,Some bugs occasionally,API docs
+12ad6dad-2c3,2025-06-01T15:00:22Z,940dd183-dff8-4fc3-8f25-cab4e0b4545a,starter,NG,9,Best tool for my team,
+e9ae060f-083,2025-03-01T07:41:27Z,df298b88-2624-4746-92f0-c090750b1cd7,pro,CA,10,Super easy to use,Mobile app improvements
+f350611d-8c1,2025-06-01T05:39:29Z,df298b88-2624-4746-92f0-c090750b1cd7,pro,CA,1,Confusing onboarding,Better reporting
+8604013f-663,2024-03-01T01:20:01Z,02b445a8-e028-4acd-8760-e9bc8801e17e,starter,US,9,"Clean UI, nothing bloated",API docs
+9f02f01c-1cf,2024-06-01T11:21:21Z,02b445a8-e028-4acd-8760-e9bc8801e17e,starter,US,10,Love the kanban board,Bulk actions
+921a66b7-7ce,2024-09-01T16:17:41Z,02b445a8-e028-4acd-8760-e9bc8801e17e,starter,US,7,Works well enough,Mobile app improvements
+37557db6-75e,2024-12-01T10:10:58Z,02b445a8-e028-4acd-8760-e9bc8801e17e,starter,US,4,Keeps crashing on mobile,Mobile app improvements
+ab63ff24-250,2025-03-01T15:52:38Z,02b445a8-e028-4acd-8760-e9bc8801e17e,starter,US,7,Works well enough,
+a2f3b537-4d3,2025-06-01T04:59:12Z,02b445a8-e028-4acd-8760-e9bc8801e17e,starter,US,9,Best tool for my team,Better reporting
+433e9244-eeb,2024-03-01T22:40:53Z,0604f7af-4afe-45ea-9405-3f80d0b9aac5,pro,NG,7,Good but missing a few features,
+109e3bc3-d33,2024-06-01T21:40:21Z,0604f7af-4afe-45ea-9405-3f80d0b9aac5,pro,NG,9,Love the kanban board,
+a5fb92cf-930,2024-09-01T11:04:29Z,0604f7af-4afe-45ea-9405-3f80d0b9aac5,pro,NG,10,Saves me hours every week,API docs
+7aa239a0-079,2024-12-01T08:40:28Z,0604f7af-4afe-45ea-9405-3f80d0b9aac5,pro,NG,9,Saves me hours every week,More integrations
+730c546a-f7d,2025-03-01T02:00:16Z,0604f7af-4afe-45ea-9405-3f80d0b9aac5,pro,NG,9,Super easy to use,Better reporting
+96f56c74-cab,2025-06-01T11:09:00Z,0604f7af-4afe-45ea-9405-3f80d0b9aac5,pro,NG,10,Love the kanban board,Bulk actions
+620a8f9d-680,2024-03-01T11:10:55Z,84a596ef-797f-4348-a951-8d3bad9b28ec,business,US,10,Saves me hours every week,More integrations
+3b272275-dbd,2024-06-01T07:36:06Z,84a596ef-797f-4348-a951-8d3bad9b28ec,business,US,0,Support was slow,Better reporting
+c122845f-c81,2024-09-01T11:53:23Z,84a596ef-797f-4348-a951-8d3bad9b28ec,business,US,8,Works well enough,More integrations
+1ce21097-d47,2024-12-01T05:01:04Z,84a596ef-797f-4348-a951-8d3bad9b28ec,business,US,10,Saves me hours every week,Mobile app improvements
+14de7d85-561,2025-03-01T16:12:43Z,84a596ef-797f-4348-a951-8d3bad9b28ec,business,US,7,Some bugs occasionally,More integrations
+2e080b3f-94c,2025-06-01T13:23:17Z,84a596ef-797f-4348-a951-8d3bad9b28ec,business,US,10,Super easy to use,API docs
+393e2a4e-4fe,2024-12-01T05:25:29Z,0e0daf9c-1d9c-4db2-b47f-d1e7cc712971,business,GH,7,Good but missing a few features,More integrations
+39127a7b-177,2025-03-01T05:43:41Z,0e0daf9c-1d9c-4db2-b47f-d1e7cc712971,business,GH,7,Some bugs occasionally,More integrations
+da6f8dc9-b1f,2025-06-01T01:36:02Z,0e0daf9c-1d9c-4db2-b47f-d1e7cc712971,business,GH,9,Great value,API docs
+0617d993-ad3,2024-03-01T23:03:59Z,c389eec8-57a9-45eb-9928-56e19b32454e,starter,NG,10,Great value,Mobile app improvements
+7a37e0b9-d96,2024-06-01T19:51:10Z,c389eec8-57a9-45eb-9928-56e19b32454e,starter,NG,9,"Clean UI, nothing bloated",Better reporting
+f1d8285c-1a9,2024-09-01T07:08:52Z,c389eec8-57a9-45eb-9928-56e19b32454e,starter,NG,5,Missing integrations I need,Bulk actions
+c5a16db7-7ec,2024-12-01T11:41:28Z,c389eec8-57a9-45eb-9928-56e19b32454e,starter,NG,10,"Clean UI, nothing bloated",More integrations
+53975c9f-192,2025-03-01T17:21:49Z,c389eec8-57a9-45eb-9928-56e19b32454e,starter,NG,8,Works well enough,API docs
+8be78468-81e,2025-06-01T16:28:26Z,c389eec8-57a9-45eb-9928-56e19b32454e,starter,NG,9,Best tool for my team,Mobile app improvements
+5fa87ae2-ba5,2025-03-01T03:28:48Z,6c3bc093-5580-40ed-92fc-3ec2bf6a6840,pro,GB,9,Super easy to use,Bulk actions
+247bcbab-64b,2025-06-01T20:58:19Z,6c3bc093-5580-40ed-92fc-3ec2bf6a6840,pro,GB,9,Saves me hours every week,Better reporting
+3eab6e34-dbb,2024-03-01T12:27:50Z,3cb05c78-5da0-4cda-bfec-30dfd86ec8d3,starter,KE,7,Works well enough,
+2c8bf242-27b,2024-06-01T12:42:34Z,3cb05c78-5da0-4cda-bfec-30dfd86ec8d3,starter,KE,10,Best tool for my team,API docs
+521b884a-72c,2024-09-01T19:25:56Z,3cb05c78-5da0-4cda-bfec-30dfd86ec8d3,starter,KE,8,Decent price,Bulk actions
+5f681b3f-cf9,2024-12-01T13:05:05Z,3cb05c78-5da0-4cda-bfec-30dfd86ec8d3,starter,KE,6,Missing integrations I need,API docs
+17a05226-949,2025-03-01T07:56:08Z,3cb05c78-5da0-4cda-bfec-30dfd86ec8d3,starter,KE,1,Support was slow,API docs
+d888310d-65f,2025-06-01T22:22:49Z,3cb05c78-5da0-4cda-bfec-30dfd86ec8d3,starter,KE,7,Good but missing a few features,Bulk actions
+0d2837a0-77c,2024-06-01T08:32:05Z,252cd101-efb4-4467-b950-1d6df3e51a11,starter,GH,10,Best tool for my team,
+e30cf932-562,2024-09-01T17:19:42Z,252cd101-efb4-4467-b950-1d6df3e51a11,starter,GH,8,Decent price,
+4d09b4c2-aea,2024-12-01T12:04:28Z,252cd101-efb4-4467-b950-1d6df3e51a11,starter,GH,10,Best tool for my team,Bulk actions
+38c2ba6c-a99,2025-03-01T11:36:38Z,252cd101-efb4-4467-b950-1d6df3e51a11,starter,GH,7,Decent price,More integrations
+d25f53c0-42a,2025-06-01T07:37:57Z,252cd101-efb4-4467-b950-1d6df3e51a11,starter,GH,10,Best tool for my team,Mobile app improvements
+eb263ca4-528,2024-03-01T03:41:28Z,7fbf15a8-e557-45e6-b484-76cf5b0f2c68,starter,NG,8,Decent price,API docs
+a9bacb84-58d,2024-06-01T11:45:42Z,7fbf15a8-e557-45e6-b484-76cf5b0f2c68,starter,NG,10,Saves me hours every week,Bulk actions
+4647d6d2-54a,2024-09-01T10:51:48Z,7fbf15a8-e557-45e6-b484-76cf5b0f2c68,starter,NG,7,Works well enough,More integrations
+e58ed522-dea,2024-12-01T23:04:05Z,7fbf15a8-e557-45e6-b484-76cf5b0f2c68,starter,NG,10,Love the kanban board,More integrations
+1a7985a2-622,2025-03-01T17:04:14Z,7fbf15a8-e557-45e6-b484-76cf5b0f2c68,starter,NG,9,Best tool for my team,Bulk actions
+2256d903-145,2025-06-01T05:19:56Z,7fbf15a8-e557-45e6-b484-76cf5b0f2c68,starter,NG,5,Support was slow,More integrations
+48c62150-73f,2025-03-01T02:26:30Z,018fde18-e7d5-4ee8-bcbb-355d276ddc06,pro,NG,10,Best tool for my team,Mobile app improvements
+61d4053a-7fe,2025-06-01T01:06:33Z,018fde18-e7d5-4ee8-bcbb-355d276ddc06,pro,NG,10,Saves me hours every week,Bulk actions
+fe67e666-da0,2024-09-01T10:50:18Z,4c058cd4-883c-4e11-861e-1ce40d04a5bd,pro,NG,5,Too expensive for what it offers,More integrations
+492e7b8f-23d,2024-12-01T15:05:27Z,4c058cd4-883c-4e11-861e-1ce40d04a5bd,pro,NG,9,Saves me hours every week,Bulk actions
+853c76c4-8a5,2025-03-01T04:00:00Z,4c058cd4-883c-4e11-861e-1ce40d04a5bd,pro,NG,10,Great value,Mobile app improvements
+9626bccc-84e,2025-06-01T02:59:57Z,4c058cd4-883c-4e11-861e-1ce40d04a5bd,pro,NG,10,Love the kanban board,More integrations
+f73cf5f5-075,2025-03-01T23:09:17Z,87ded5dc-55a9-47e8-932c-bd80afa37ad5,pro,US,8,Works well enough,API docs
+68487477-65d,2025-06-01T14:45:18Z,87ded5dc-55a9-47e8-932c-bd80afa37ad5,pro,US,8,Decent price,Bulk actions
+529f6395-d71,2024-03-01T23:27:40Z,559ddc05-254e-400a-ba1e-abede16e93f2,pro,KE,0,Too expensive for what it offers,Better reporting
+b44f6997-bbf,2024-06-01T07:54:22Z,559ddc05-254e-400a-ba1e-abede16e93f2,pro,KE,7,Decent price,
+36f69d2e-a86,2024-09-01T02:48:27Z,559ddc05-254e-400a-ba1e-abede16e93f2,pro,KE,10,Love the kanban board,API docs
+52d5eaed-038,2024-12-01T03:09:28Z,559ddc05-254e-400a-ba1e-abede16e93f2,pro,KE,2,Confusing onboarding,
+4bad02cf-3ed,2025-03-01T14:55:07Z,559ddc05-254e-400a-ba1e-abede16e93f2,pro,KE,8,Works well enough,API docs
+5373cc75-f35,2025-06-01T11:43:08Z,559ddc05-254e-400a-ba1e-abede16e93f2,pro,KE,10,Super easy to use,Bulk actions
+46249cf4-7d1,2025-06-01T17:13:09Z,47f475eb-2880-43ef-b2dd-d4f7783ad102,starter,US,9,Super easy to use,
+d67f5aa5-fed,2024-09-01T00:49:41Z,0bfcfdf5-4127-4242-a393-633ff9750645,business,GH,8,Some bugs occasionally,API docs
+92196da5-9b5,2024-12-01T14:50:25Z,0bfcfdf5-4127-4242-a393-633ff9750645,business,GH,9,"Clean UI, nothing bloated",Better reporting
+4d129093-18e,2025-03-01T00:00:54Z,0bfcfdf5-4127-4242-a393-633ff9750645,business,GH,8,Some bugs occasionally,
+66a1c27c-0aa,2025-06-01T16:33:11Z,0bfcfdf5-4127-4242-a393-633ff9750645,business,GH,9,Love the kanban board,
+6859f116-136,2024-06-01T19:08:08Z,aee83b3b-6906-4aa2-96f8-8854a00c2c8a,starter,GB,9,Best tool for my team,Better reporting
+9d811277-bf3,2024-09-01T17:36:23Z,aee83b3b-6906-4aa2-96f8-8854a00c2c8a,starter,GB,8,Decent price,API docs
+f8d2eb27-5af,2024-12-01T21:43:04Z,aee83b3b-6906-4aa2-96f8-8854a00c2c8a,starter,GB,10,Love the kanban board,API docs
+1900540b-387,2025-03-01T21:10:04Z,aee83b3b-6906-4aa2-96f8-8854a00c2c8a,starter,GB,4,Missing integrations I need,Mobile app improvements
+1fc7e0ef-477,2025-06-01T04:43:35Z,aee83b3b-6906-4aa2-96f8-8854a00c2c8a,starter,GB,9,Love the kanban board,Mobile app improvements
+af777b5c-a7d,2024-06-01T22:19:00Z,990178cb-bb62-4c0c-996a-159993a44ea5,business,NG,4,Confusing onboarding,More integrations
+a3e5c6e3-b1f,2024-09-01T01:19:27Z,990178cb-bb62-4c0c-996a-159993a44ea5,business,NG,9,"Clean UI, nothing bloated",Mobile app improvements
+3299ed30-312,2024-12-01T20:39:17Z,990178cb-bb62-4c0c-996a-159993a44ea5,business,NG,10,Saves me hours every week,
+79ae1867-1a5,2025-03-01T12:25:25Z,990178cb-bb62-4c0c-996a-159993a44ea5,business,NG,1,Keeps crashing on mobile,Mobile app improvements
+ce9bc0ef-bc9,2025-06-01T11:47:54Z,990178cb-bb62-4c0c-996a-159993a44ea5,business,NG,8,Good but missing a few features,More integrations
+ca09c5fc-143,2024-03-01T06:27:39Z,5a1b41e5-0aba-4ce7-818f-3a7f4f8f9647,starter,GB,6,Confusing onboarding,More integrations
+e5c46c3c-b66,2024-06-01T05:49:06Z,5a1b41e5-0aba-4ce7-818f-3a7f4f8f9647,starter,GB,7,Good but missing a few features,More integrations
+b63bb62b-646,2024-09-01T12:23:37Z,5a1b41e5-0aba-4ce7-818f-3a7f4f8f9647,starter,GB,7,Some bugs occasionally,Bulk actions
+98c48a8c-255,2024-12-01T12:36:24Z,5a1b41e5-0aba-4ce7-818f-3a7f4f8f9647,starter,GB,10,"Clean UI, nothing bloated",Bulk actions
+29547c49-9e5,2025-03-01T10:21:39Z,5a1b41e5-0aba-4ce7-818f-3a7f4f8f9647,starter,GB,10,Super easy to use,Mobile app improvements
+1ed881a6-b26,2025-06-01T09:19:45Z,5a1b41e5-0aba-4ce7-818f-3a7f4f8f9647,starter,GB,10,Great value,API docs
+6b812ff8-20d,2025-03-01T03:47:00Z,a8230ecc-dae6-44e5-a9d6-a20fc90bfb4b,pro,ZA,10,Saves me hours every week,Better reporting
+91a727eb-261,2025-06-01T14:53:43Z,a8230ecc-dae6-44e5-a9d6-a20fc90bfb4b,pro,ZA,9,Super easy to use,API docs
+c77680e8-c3f,2024-03-01T08:28:33Z,046360a0-abb3-4e61-bf4f-c6b2746de1c0,pro,GB,10,Great value,Better reporting
+488a110b-46c,2024-06-01T10:07:56Z,046360a0-abb3-4e61-bf4f-c6b2746de1c0,pro,GB,9,Super easy to use,Mobile app improvements
+42f465e9-116,2024-09-01T22:08:59Z,046360a0-abb3-4e61-bf4f-c6b2746de1c0,pro,GB,10,"Clean UI, nothing bloated",Mobile app improvements
+f57fd454-6f5,2024-12-01T12:08:01Z,046360a0-abb3-4e61-bf4f-c6b2746de1c0,pro,GB,10,Love the kanban board,More integrations
+3ff0ff0c-7af,2025-03-01T13:40:01Z,046360a0-abb3-4e61-bf4f-c6b2746de1c0,pro,GB,10,Great value,
+961a4e12-d45,2025-06-01T07:41:19Z,046360a0-abb3-4e61-bf4f-c6b2746de1c0,pro,GB,8,Works well enough,Mobile app improvements
+3fca251a-7fb,2025-03-01T20:20:54Z,997520a7-0304-4f6c-9c7c-346be983976f,pro,CA,4,Missing integrations I need,Better reporting
+72a2296a-f25,2025-06-01T03:35:58Z,997520a7-0304-4f6c-9c7c-346be983976f,pro,CA,10,Great value,
+8a05044b-53f,2024-09-01T18:09:54Z,47bcccfb-f7af-42ed-9988-32b3d1836673,starter,NG,6,Too expensive for what it offers,Mobile app improvements
+a1465599-3df,2024-12-01T17:41:42Z,47bcccfb-f7af-42ed-9988-32b3d1836673,starter,NG,4,Confusing onboarding,Better reporting
+c78f8d04-15f,2025-03-01T20:24:50Z,47bcccfb-f7af-42ed-9988-32b3d1836673,starter,NG,6,Missing integrations I need,API docs
+94f054bd-b8c,2025-06-01T20:45:00Z,47bcccfb-f7af-42ed-9988-32b3d1836673,starter,NG,10,Best tool for my team,Bulk actions
+96e96708-57d,2025-03-01T01:23:09Z,3c85a474-0e44-4319-8815-02977bd28725,pro,NG,9,Best tool for my team,Better reporting
+6e53c380-cdf,2025-06-01T11:31:02Z,3c85a474-0e44-4319-8815-02977bd28725,pro,NG,10,Best tool for my team,Mobile app improvements
+06f5dc04-2ee,2025-03-01T23:38:54Z,0879d1f6-0ccd-40f8-b186-60506d6b376f,starter,DE,9,"Clean UI, nothing bloated",Bulk actions
+9cc334af-6b0,2025-06-01T13:46:05Z,0879d1f6-0ccd-40f8-b186-60506d6b376f,starter,DE,7,Some bugs occasionally,Better reporting
+d145cdf0-2fb,2024-12-01T05:28:45Z,64aee7ad-1a15-4b29-8e12-eae7ffa7bcba,business,GH,9,Great value,Better reporting
+d433da76-713,2025-03-01T22:19:39Z,64aee7ad-1a15-4b29-8e12-eae7ffa7bcba,business,GH,9,Super easy to use,Bulk actions
+6335285c-888,2025-06-01T06:27:05Z,64aee7ad-1a15-4b29-8e12-eae7ffa7bcba,business,GH,9,Best tool for my team,API docs
+b798eff7-545,2024-12-01T21:16:22Z,b7178eef-d5ff-40e1-990c-37f9c414b63b,pro,DE,10,Super easy to use,Bulk actions
+80635004-7c9,2025-03-01T07:33:15Z,b7178eef-d5ff-40e1-990c-37f9c414b63b,pro,DE,10,Best tool for my team,API docs
+ec87544e-05e,2025-06-01T04:19:39Z,b7178eef-d5ff-40e1-990c-37f9c414b63b,pro,DE,9,Best tool for my team,Better reporting
+02cae79a-296,2024-06-01T21:25:46Z,8f0980e1-12ed-4e58-9e32-309ee6d156da,starter,DE,9,Saves me hours every week,
+2b29b986-158,2024-09-01T08:45:08Z,8f0980e1-12ed-4e58-9e32-309ee6d156da,starter,DE,2,Too expensive for what it offers,Better reporting
+cd64ab16-2d1,2024-12-01T06:28:53Z,8f0980e1-12ed-4e58-9e32-309ee6d156da,starter,DE,10,Love the kanban board,Bulk actions
+e11345f7-b0a,2025-03-01T16:50:50Z,8f0980e1-12ed-4e58-9e32-309ee6d156da,starter,DE,10,Super easy to use,Bulk actions
+fec9ff49-924,2025-06-01T00:51:23Z,8f0980e1-12ed-4e58-9e32-309ee6d156da,starter,DE,7,Decent price,Better reporting
+ffe29462-fc7,2025-06-01T17:31:26Z,cb5b93e6-010d-4515-8e9f-9b79fb9b3c61,pro,NG,10,Love the kanban board,Bulk actions
+06b63691-7d8,2024-03-01T08:42:52Z,ce73edc0-c5f5-46ac-b1db-98fe68c22643,starter,US,7,Works well enough,
+24d03865-64e,2024-06-01T09:25:30Z,ce73edc0-c5f5-46ac-b1db-98fe68c22643,starter,US,4,Too expensive for what it offers,Better reporting
+57512202-1f7,2024-09-01T23:21:57Z,ce73edc0-c5f5-46ac-b1db-98fe68c22643,starter,US,8,Works well enough,API docs
+f3e4c790-fb8,2024-12-01T02:43:43Z,ce73edc0-c5f5-46ac-b1db-98fe68c22643,starter,US,10,Great value,Bulk actions
+88796b48-a22,2025-03-01T23:33:06Z,ce73edc0-c5f5-46ac-b1db-98fe68c22643,starter,US,9,"Clean UI, nothing bloated",Bulk actions
+5f93ada5-27d,2025-06-01T04:30:29Z,ce73edc0-c5f5-46ac-b1db-98fe68c22643,starter,US,10,Best tool for my team,Mobile app improvements
+b0e1d7ea-c83,2024-09-01T08:49:40Z,0d3c4fbc-4a09-4943-80f7-48b53c0290c5,business,NG,10,"Clean UI, nothing bloated",API docs
+dd098082-d46,2024-12-01T12:32:47Z,0d3c4fbc-4a09-4943-80f7-48b53c0290c5,business,NG,9,"Clean UI, nothing bloated",
+4a546a2c-9a9,2025-03-01T03:13:22Z,0d3c4fbc-4a09-4943-80f7-48b53c0290c5,business,NG,9,Great value,
+cf1cffbb-aeb,2025-06-01T00:52:37Z,0d3c4fbc-4a09-4943-80f7-48b53c0290c5,business,NG,9,Best tool for my team,API docs
+d566b9ae-ed4,2024-03-01T20:15:18Z,ce31cc9f-3741-42e7-ba7b-1906d0a6e4c7,business,DE,7,Decent price,Mobile app improvements
+9783978f-754,2024-06-01T22:47:47Z,ce31cc9f-3741-42e7-ba7b-1906d0a6e4c7,business,DE,8,Decent price,API docs
+1eb564f6-66c,2024-09-01T00:28:01Z,ce31cc9f-3741-42e7-ba7b-1906d0a6e4c7,business,DE,9,"Clean UI, nothing bloated",API docs
+95c2a46c-a4f,2024-12-01T13:26:00Z,ce31cc9f-3741-42e7-ba7b-1906d0a6e4c7,business,DE,6,Confusing onboarding,Bulk actions
+47dd6498-655,2025-03-01T20:38:32Z,ce31cc9f-3741-42e7-ba7b-1906d0a6e4c7,business,DE,8,Works well enough,Mobile app improvements
+d9d7feff-bd3,2025-06-01T01:38:27Z,ce31cc9f-3741-42e7-ba7b-1906d0a6e4c7,business,DE,7,Some bugs occasionally,Better reporting
+db8d8192-b88,2024-12-01T10:00:09Z,96a84608-45bb-4e03-91e3-f80b8c8d8d63,starter,KE,8,Some bugs occasionally,
+9e355d70-fb2,2025-03-01T02:34:16Z,96a84608-45bb-4e03-91e3-f80b8c8d8d63,starter,KE,9,Super easy to use,Better reporting
+e7839121-703,2025-06-01T09:36:12Z,96a84608-45bb-4e03-91e3-f80b8c8d8d63,starter,KE,4,Missing integrations I need,API docs
+f50de53e-b73,2024-09-01T22:18:35Z,93c085e4-4550-40cc-ac8f-9087396fd09d,starter,IN,8,Works well enough,Bulk actions
+ef649e93-219,2024-12-01T07:07:45Z,93c085e4-4550-40cc-ac8f-9087396fd09d,starter,IN,10,Best tool for my team,More integrations
+8eb8db7c-a4f,2025-03-01T01:02:02Z,93c085e4-4550-40cc-ac8f-9087396fd09d,starter,IN,10,Best tool for my team,Better reporting
+267447e2-4ee,2025-06-01T16:14:14Z,93c085e4-4550-40cc-ac8f-9087396fd09d,starter,IN,9,Saves me hours every week,API docs
+91c671e9-254,2024-06-01T14:26:06Z,91e7b019-5bdd-4602-8484-6f2e577b1a3d,pro,DE,8,Good but missing a few features,API docs
+c8d96493-41d,2024-09-01T20:16:04Z,91e7b019-5bdd-4602-8484-6f2e577b1a3d,pro,DE,9,Super easy to use,Mobile app improvements
+6d5d33a4-cdc,2024-12-01T02:12:12Z,91e7b019-5bdd-4602-8484-6f2e577b1a3d,pro,DE,9,Super easy to use,Mobile app improvements
+9e605076-65d,2025-03-01T19:56:20Z,91e7b019-5bdd-4602-8484-6f2e577b1a3d,pro,DE,10,Love the kanban board,API docs
+4d19ef03-c87,2025-06-01T10:27:56Z,91e7b019-5bdd-4602-8484-6f2e577b1a3d,pro,DE,10,Saves me hours every week,Better reporting
+c7a80def-760,2024-03-01T04:31:53Z,e868ee77-ed48-4f8d-b0bb-14df3d1f38f9,pro,GB,10,Best tool for my team,More integrations
+4653b8e0-63a,2024-06-01T22:09:17Z,e868ee77-ed48-4f8d-b0bb-14df3d1f38f9,pro,GB,10,"Clean UI, nothing bloated",Mobile app improvements
+bcd8bd88-b6a,2024-09-01T15:00:03Z,e868ee77-ed48-4f8d-b0bb-14df3d1f38f9,pro,GB,10,Love the kanban board,Mobile app improvements
+ae5c0015-f34,2024-12-01T10:48:31Z,e868ee77-ed48-4f8d-b0bb-14df3d1f38f9,pro,GB,8,Some bugs occasionally,Mobile app improvements
+a30f6d16-510,2025-03-01T08:59:33Z,e868ee77-ed48-4f8d-b0bb-14df3d1f38f9,pro,GB,9,"Clean UI, nothing bloated",
+bf325d72-ea9,2025-06-01T17:04:38Z,e868ee77-ed48-4f8d-b0bb-14df3d1f38f9,pro,GB,8,Decent price,Bulk actions
+530992b4-c7c,2025-03-01T07:40:46Z,277030f9-a01b-44c4-b274-4f47009f1558,starter,GH,10,Best tool for my team,API docs
+d8f5daf8-342,2025-06-01T03:44:54Z,277030f9-a01b-44c4-b274-4f47009f1558,starter,GH,8,Decent price,Mobile app improvements
+162a2d24-58c,2024-09-01T23:13:09Z,f34a9484-c934-40c4-a990-88bcd366da1e,pro,US,10,Great value,API docs
+8306e78a-8a7,2024-12-01T09:07:35Z,f34a9484-c934-40c4-a990-88bcd366da1e,pro,US,10,Best tool for my team,API docs
+0bd1b8e9-dad,2025-03-01T08:31:58Z,f34a9484-c934-40c4-a990-88bcd366da1e,pro,US,8,Works well enough,More integrations
+123e2da4-8c8,2025-06-01T08:25:46Z,f34a9484-c934-40c4-a990-88bcd366da1e,pro,US,9,Love the kanban board,Bulk actions
+e1f7e6d9-236,2024-12-01T23:55:47Z,aad25c2a-d4d3-47e1-a07d-ede2f8eeb66b,starter,NG,10,Saves me hours every week,Better reporting
+409e91b5-8bc,2025-03-01T23:11:15Z,aad25c2a-d4d3-47e1-a07d-ede2f8eeb66b,starter,NG,7,Decent price,Bulk actions
+edb8cb30-7e7,2025-06-01T20:10:43Z,aad25c2a-d4d3-47e1-a07d-ede2f8eeb66b,starter,NG,9,Love the kanban board,
+94f732d8-ec6,2024-12-01T17:55:34Z,4238a0b8-0d58-4b7a-8569-579523e56bc0,starter,GB,10,"Clean UI, nothing bloated",Bulk actions
+a0346453-0a5,2025-03-01T11:13:18Z,4238a0b8-0d58-4b7a-8569-579523e56bc0,starter,GB,10,"Clean UI, nothing bloated",Better reporting
+35672bdc-72e,2025-06-01T05:02:25Z,4238a0b8-0d58-4b7a-8569-579523e56bc0,starter,GB,9,Saves me hours every week,Mobile app improvements
+c639ad68-77b,2025-03-01T21:23:33Z,7dcbe1ea-6da1-45e0-8b5a-aba2a4289c02,starter,GB,10,Love the kanban board,Bulk actions
+0705766c-0e3,2025-06-01T10:47:56Z,7dcbe1ea-6da1-45e0-8b5a-aba2a4289c02,starter,GB,10,Saves me hours every week,API docs
+f8293b95-5a9,2024-06-01T12:15:36Z,1cb9a85f-dcae-4584-a2a0-ab1e65a92a70,pro,GH,5,Keeps crashing on mobile,Bulk actions
+68c9d8b2-ad8,2024-09-01T17:39:14Z,1cb9a85f-dcae-4584-a2a0-ab1e65a92a70,pro,GH,10,Saves me hours every week,API docs
+a2356985-706,2024-12-01T03:17:25Z,1cb9a85f-dcae-4584-a2a0-ab1e65a92a70,pro,GH,7,Good but missing a few features,More integrations
+e19506f8-b8f,2025-03-01T19:56:20Z,1cb9a85f-dcae-4584-a2a0-ab1e65a92a70,pro,GH,7,Decent price,API docs
+fbef2af9-dc0,2025-06-01T18:37:33Z,1cb9a85f-dcae-4584-a2a0-ab1e65a92a70,pro,GH,9,Great value,
+265f47ec-9a7,2025-03-01T01:42:56Z,f9db3678-d413-469d-85ec-2e4cc4dc73d2,business,IN,4,Confusing onboarding,API docs
+8fd0661a-032,2025-06-01T02:49:36Z,f9db3678-d413-469d-85ec-2e4cc4dc73d2,business,IN,10,Best tool for my team,API docs
+17566979-7bb,2025-03-01T07:30:16Z,d8cb8969-565d-4eef-b775-542ba0fd5c7d,pro,DE,4,Keeps crashing on mobile,
+3f505ddb-93a,2025-06-01T23:17:13Z,d8cb8969-565d-4eef-b775-542ba0fd5c7d,pro,DE,10,Saves me hours every week,API docs
+13bb400e-d36,2025-03-01T22:12:47Z,e4312fa9-bcf3-41dd-8c0e-7a87d97be327,pro,NG,4,Missing integrations I need,
+593f016c-6a5,2025-06-01T22:56:29Z,e4312fa9-bcf3-41dd-8c0e-7a87d97be327,pro,NG,10,Great value,Better reporting
+fea42a6c-93e,2025-03-01T04:04:44Z,5380eefa-8631-4f80-8373-1d02fe392ea9,starter,GB,7,Good but missing a few features,Mobile app improvements
+81a6e58e-4a0,2025-06-01T21:59:12Z,5380eefa-8631-4f80-8373-1d02fe392ea9,starter,GB,10,Best tool for my team,Better reporting
+387339ea-5a3,2025-06-01T20:18:19Z,ddfefcdc-d718-4d8d-8685-6888a552b0be,business,US,9,Best tool for my team,API docs
+a3b0721e-b48,2024-03-01T02:49:29Z,e98005f2-45c0-4da4-a552-fda3f4c0e8e9,starter,NG,10,"Clean UI, nothing bloated",Better reporting
+153a98a6-7dd,2024-06-01T14:02:10Z,e98005f2-45c0-4da4-a552-fda3f4c0e8e9,starter,NG,9,Great value,Better reporting
+d009878b-f00,2024-09-01T08:55:59Z,e98005f2-45c0-4da4-a552-fda3f4c0e8e9,starter,NG,8,Works well enough,More integrations
+891ac7ca-b63,2024-12-01T01:14:45Z,e98005f2-45c0-4da4-a552-fda3f4c0e8e9,starter,NG,10,"Clean UI, nothing bloated",Bulk actions
+549aafd9-3c6,2025-03-01T12:12:53Z,e98005f2-45c0-4da4-a552-fda3f4c0e8e9,starter,NG,9,Saves me hours every week,Bulk actions
+4f143fea-a39,2025-06-01T13:17:57Z,e98005f2-45c0-4da4-a552-fda3f4c0e8e9,starter,NG,9,Great value,
+4a6b9a49-7d1,2024-06-01T04:35:43Z,e9335b8f-87a6-4bd8-ad11-a1a29ff254d7,starter,KE,10,Best tool for my team,Bulk actions
+b47a0692-021,2024-09-01T02:33:45Z,e9335b8f-87a6-4bd8-ad11-a1a29ff254d7,starter,KE,10,Great value,More integrations
+607db590-216,2024-12-01T05:04:09Z,e9335b8f-87a6-4bd8-ad11-a1a29ff254d7,starter,KE,9,Saves me hours every week,More integrations
+2f8721ef-914,2025-03-01T01:24:35Z,e9335b8f-87a6-4bd8-ad11-a1a29ff254d7,starter,KE,10,Great value,
+a3aa76bf-19b,2025-06-01T03:34:15Z,e9335b8f-87a6-4bd8-ad11-a1a29ff254d7,starter,KE,10,Saves me hours every week,Mobile app improvements
+04a520b2-401,2024-09-01T21:05:54Z,3b64ad1e-3e32-4184-9355-39c2edb4e7d1,starter,US,7,Some bugs occasionally,Better reporting
+aa6da110-39a,2024-12-01T17:23:36Z,3b64ad1e-3e32-4184-9355-39c2edb4e7d1,starter,US,10,Super easy to use,Bulk actions
+ebc923ca-2d1,2025-03-01T20:32:01Z,3b64ad1e-3e32-4184-9355-39c2edb4e7d1,starter,US,7,Works well enough,
+d6b72f74-4e4,2025-06-01T15:55:55Z,3b64ad1e-3e32-4184-9355-39c2edb4e7d1,starter,US,9,Love the kanban board,Better reporting
+3489b2a7-eb4,2024-06-01T20:07:24Z,75b1b3c9-9821-4cfb-983f-b388c4d09ba2,starter,KE,8,Good but missing a few features,Better reporting
+47e6dbea-ad4,2024-09-01T01:35:21Z,75b1b3c9-9821-4cfb-983f-b388c4d09ba2,starter,KE,9,Great value,More integrations
+7ead49d9-c43,2024-12-01T13:09:54Z,75b1b3c9-9821-4cfb-983f-b388c4d09ba2,starter,KE,2,Too expensive for what it offers,Better reporting
+8adfe4a4-084,2025-03-01T12:11:33Z,75b1b3c9-9821-4cfb-983f-b388c4d09ba2,starter,KE,7,Good but missing a few features,More integrations
+6f837a9d-0b2,2025-06-01T00:59:17Z,75b1b3c9-9821-4cfb-983f-b388c4d09ba2,starter,KE,8,Works well enough,More integrations
+2463cbc0-062,2024-12-01T10:01:34Z,42ba9697-a199-48ca-a0d1-9c943ef4a358,starter,GH,9,Great value,API docs
+4de39281-4e8,2025-03-01T04:02:04Z,42ba9697-a199-48ca-a0d1-9c943ef4a358,starter,GH,5,Confusing onboarding,
+73502293-3a1,2025-06-01T19:04:21Z,42ba9697-a199-48ca-a0d1-9c943ef4a358,starter,GH,9,Saves me hours every week,Bulk actions
+dffb058f-90c,2024-09-01T21:09:04Z,93d3f449-14a3-43a8-ab07-2165d80ca1ff,starter,ZA,9,Super easy to use,API docs
+cdb0ef6b-6f2,2024-12-01T11:17:07Z,93d3f449-14a3-43a8-ab07-2165d80ca1ff,starter,ZA,1,Support was slow,Better reporting
+eaa06014-fe1,2025-03-01T07:13:22Z,93d3f449-14a3-43a8-ab07-2165d80ca1ff,starter,ZA,8,Some bugs occasionally,Better reporting
+2a004d76-fbe,2025-06-01T04:49:03Z,93d3f449-14a3-43a8-ab07-2165d80ca1ff,starter,ZA,10,Love the kanban board,More integrations
+4c42ec4c-40d,2024-03-01T05:38:33Z,07ab680e-2668-425e-88e4-9fc8147dc74a,pro,BR,9,Love the kanban board,More integrations
+c3a9db3d-126,2024-06-01T17:31:40Z,07ab680e-2668-425e-88e4-9fc8147dc74a,pro,BR,10,Love the kanban board,API docs
+11742ea8-e80,2024-09-01T19:56:11Z,07ab680e-2668-425e-88e4-9fc8147dc74a,pro,BR,10,"Clean UI, nothing bloated",Bulk actions
+049e651d-98e,2024-12-01T14:01:17Z,07ab680e-2668-425e-88e4-9fc8147dc74a,pro,BR,9,"Clean UI, nothing bloated",
+97ba52af-56b,2025-03-01T04:25:28Z,07ab680e-2668-425e-88e4-9fc8147dc74a,pro,BR,7,Some bugs occasionally,Better reporting
+c1acd8b7-da5,2025-06-01T14:49:36Z,07ab680e-2668-425e-88e4-9fc8147dc74a,pro,BR,10,Best tool for my team,Bulk actions
+3d2f2196-1b2,2024-03-01T21:19:48Z,87f88d10-be65-45ba-93d2-1c9a1f43b6d7,starter,NG,8,Works well enough,
+961eac4f-463,2024-06-01T06:22:40Z,87f88d10-be65-45ba-93d2-1c9a1f43b6d7,starter,NG,9,"Clean UI, nothing bloated",Mobile app improvements
+298cbbeb-03b,2024-09-01T21:14:39Z,87f88d10-be65-45ba-93d2-1c9a1f43b6d7,starter,NG,9,Best tool for my team,API docs
+ccc4ec2c-687,2024-12-01T18:27:05Z,87f88d10-be65-45ba-93d2-1c9a1f43b6d7,starter,NG,1,Too expensive for what it offers,Mobile app improvements
+4ec52530-8b0,2025-03-01T15:11:59Z,87f88d10-be65-45ba-93d2-1c9a1f43b6d7,starter,NG,9,Love the kanban board,More integrations
+3b4c943e-f50,2025-06-01T20:58:27Z,87f88d10-be65-45ba-93d2-1c9a1f43b6d7,starter,NG,10,"Clean UI, nothing bloated",API docs
+2e174724-8a2,2024-12-01T13:12:08Z,d4998fe4-9ab5-4719-b5c3-bbefaeed37d9,business,KE,10,Love the kanban board,API docs
+cd2f27f6-8b0,2025-03-01T01:04:54Z,d4998fe4-9ab5-4719-b5c3-bbefaeed37d9,business,KE,10,Love the kanban board,Mobile app improvements
+581db204-53e,2025-06-01T22:48:46Z,d4998fe4-9ab5-4719-b5c3-bbefaeed37d9,business,KE,10,Best tool for my team,Mobile app improvements
+733e9c73-744,2025-03-01T10:47:25Z,6b27569d-e5fe-4292-a27f-097f4bef459b,starter,US,9,"Clean UI, nothing bloated",Better reporting
+4f3d5271-f7c,2025-06-01T08:52:20Z,6b27569d-e5fe-4292-a27f-097f4bef459b,starter,US,9,Best tool for my team,Better reporting
+8fffb8f1-382,2024-09-01T04:38:38Z,52ed0278-53e6-49fb-aaa7-cbff6500d904,business,IN,7,Works well enough,Mobile app improvements
+6759a40f-560,2024-12-01T22:59:28Z,52ed0278-53e6-49fb-aaa7-cbff6500d904,business,IN,10,Saves me hours every week,
+fc858d08-676,2025-03-01T13:10:06Z,52ed0278-53e6-49fb-aaa7-cbff6500d904,business,IN,5,Keeps crashing on mobile,API docs
+d36d82ed-b5f,2025-06-01T16:50:24Z,52ed0278-53e6-49fb-aaa7-cbff6500d904,business,IN,10,Love the kanban board,API docs
+b1a2a43b-0be,2024-09-01T20:43:47Z,dcd95b7a-fdc1-4fc6-aab9-72c1b3ba476f,pro,US,0,Support was slow,Mobile app improvements
+6eb082ec-34b,2024-12-01T11:39:53Z,dcd95b7a-fdc1-4fc6-aab9-72c1b3ba476f,pro,US,9,Great value,
+1c75935d-bf0,2025-03-01T14:54:55Z,dcd95b7a-fdc1-4fc6-aab9-72c1b3ba476f,pro,US,9,Saves me hours every week,Bulk actions
+7323e572-091,2025-06-01T08:48:55Z,dcd95b7a-fdc1-4fc6-aab9-72c1b3ba476f,pro,US,1,Too expensive for what it offers,
+94faa615-7cc,2024-09-01T05:04:42Z,a29057ab-e7e9-4620-bf18-454c2149e392,pro,NG,10,Great value,Bulk actions
+c5f9d931-f2f,2024-12-01T20:13:33Z,a29057ab-e7e9-4620-bf18-454c2149e392,pro,NG,1,Confusing onboarding,Bulk actions
+42ee0bc6-e37,2025-03-01T00:05:56Z,a29057ab-e7e9-4620-bf18-454c2149e392,pro,NG,10,Great value,More integrations
+b3a0e11b-659,2025-06-01T14:18:35Z,a29057ab-e7e9-4620-bf18-454c2149e392,pro,NG,10,Saves me hours every week,Mobile app improvements
+0cda98fe-85a,2025-03-01T10:59:05Z,f1ebb51b-3aef-4e6a-b6db-c34c0edce390,business,IN,9,"Clean UI, nothing bloated",More integrations
+6b9a9667-efb,2025-06-01T11:27:42Z,f1ebb51b-3aef-4e6a-b6db-c34c0edce390,business,IN,7,Some bugs occasionally,Bulk actions
+697948aa-db5,2024-12-01T07:51:00Z,ad8f7a87-4f9f-4070-966b-5b3c82f4810d,pro,US,8,Good but missing a few features,Better reporting
+9b157648-ae5,2025-03-01T17:42:27Z,ad8f7a87-4f9f-4070-966b-5b3c82f4810d,pro,US,9,Super easy to use,Better reporting
+db4b6b6c-797,2025-06-01T12:49:32Z,ad8f7a87-4f9f-4070-966b-5b3c82f4810d,pro,US,9,Super easy to use,Better reporting
+3dd39bb1-70a,2024-03-01T17:43:22Z,cdd81c38-e476-48a3-8430-e69d89e910d4,starter,NG,7,Some bugs occasionally,Mobile app improvements
+a17c404e-2b2,2024-06-01T01:04:42Z,cdd81c38-e476-48a3-8430-e69d89e910d4,starter,NG,5,Too expensive for what it offers,Better reporting
+94716c2b-ee6,2024-09-01T00:26:03Z,cdd81c38-e476-48a3-8430-e69d89e910d4,starter,NG,10,Great value,API docs
+befe85dd-b9f,2024-12-01T08:48:49Z,cdd81c38-e476-48a3-8430-e69d89e910d4,starter,NG,9,Best tool for my team,Mobile app improvements
+49aff30a-f97,2025-03-01T22:28:07Z,cdd81c38-e476-48a3-8430-e69d89e910d4,starter,NG,2,Confusing onboarding,Mobile app improvements
+65816e70-6ee,2025-06-01T19:15:01Z,cdd81c38-e476-48a3-8430-e69d89e910d4,starter,NG,9,Saves me hours every week,Bulk actions
+8a6115c0-828,2024-06-01T10:52:41Z,5b946b8c-b27d-47cb-952b-abb87359ef8a,pro,KE,7,Works well enough,Mobile app improvements
+d2e50d42-f4b,2024-09-01T18:32:58Z,5b946b8c-b27d-47cb-952b-abb87359ef8a,pro,KE,10,Great value,
+36f8d2bd-7cd,2024-12-01T14:01:18Z,5b946b8c-b27d-47cb-952b-abb87359ef8a,pro,KE,9,Best tool for my team,Bulk actions
+3cd5098b-5a2,2025-03-01T08:51:44Z,5b946b8c-b27d-47cb-952b-abb87359ef8a,pro,KE,10,"Clean UI, nothing bloated",Mobile app improvements
+e2821043-6b3,2025-06-01T04:44:06Z,5b946b8c-b27d-47cb-952b-abb87359ef8a,pro,KE,9,Best tool for my team,Better reporting
+5ec52d34-877,2024-03-01T01:07:51Z,0f8c2986-4981-49fc-b31f-8becd6d88afb,pro,US,10,Super easy to use,Bulk actions
+55bc4968-449,2024-06-01T16:28:09Z,0f8c2986-4981-49fc-b31f-8becd6d88afb,pro,US,9,Best tool for my team,Mobile app improvements
+acf3fec5-d74,2024-09-01T22:44:38Z,0f8c2986-4981-49fc-b31f-8becd6d88afb,pro,US,7,Some bugs occasionally,Mobile app improvements
+52f3635d-589,2024-12-01T18:46:16Z,0f8c2986-4981-49fc-b31f-8becd6d88afb,pro,US,8,Good but missing a few features,Mobile app improvements
+9f275731-ff0,2025-03-01T18:49:29Z,0f8c2986-4981-49fc-b31f-8becd6d88afb,pro,US,10,Great value,Bulk actions
+39734f19-ddd,2025-06-01T20:08:15Z,0f8c2986-4981-49fc-b31f-8becd6d88afb,pro,US,8,Good but missing a few features,Mobile app improvements
+958f6b5f-cba,2025-03-01T16:14:06Z,3e0b97a0-8b7f-4349-b17f-f6f0f9de2f53,pro,NG,9,Love the kanban board,More integrations
+a84ff6d0-be7,2025-06-01T04:18:58Z,3e0b97a0-8b7f-4349-b17f-f6f0f9de2f53,pro,NG,9,Love the kanban board,Bulk actions
+5912ceaf-e49,2024-03-01T21:25:26Z,3a508615-5666-479e-b289-40d7a4a80d2a,starter,NG,7,Decent price,Better reporting
+7d434807-f8b,2024-06-01T06:10:09Z,3a508615-5666-479e-b289-40d7a4a80d2a,starter,NG,9,Love the kanban board,
+8436a9f9-97a,2024-09-01T10:58:41Z,3a508615-5666-479e-b289-40d7a4a80d2a,starter,NG,10,Love the kanban board,
+ba41e425-b80,2024-12-01T02:04:17Z,3a508615-5666-479e-b289-40d7a4a80d2a,starter,NG,8,Some bugs occasionally,Mobile app improvements
+dbe795ce-a1f,2025-03-01T14:51:11Z,3a508615-5666-479e-b289-40d7a4a80d2a,starter,NG,10,"Clean UI, nothing bloated",Mobile app improvements
+fb8e763d-bc4,2025-06-01T09:55:33Z,3a508615-5666-479e-b289-40d7a4a80d2a,starter,NG,8,Works well enough,Better reporting
+eb953e4a-146,2025-03-01T07:51:03Z,91f80022-34d3-4a29-85b4-4dd9ecc59012,business,CA,8,Some bugs occasionally,API docs
+a5dcc11f-59e,2025-06-01T06:29:55Z,91f80022-34d3-4a29-85b4-4dd9ecc59012,business,CA,8,Decent price,More integrations
+7ece1f3a-cc9,2024-09-01T21:56:15Z,59da93a9-db37-4bc6-9084-d7c32d19133e,business,NG,9,Love the kanban board,Better reporting
+7a2ec787-aa4,2024-12-01T02:39:09Z,59da93a9-db37-4bc6-9084-d7c32d19133e,business,NG,10,Great value,
+0a94b89a-ea1,2025-03-01T20:04:57Z,59da93a9-db37-4bc6-9084-d7c32d19133e,business,NG,9,"Clean UI, nothing bloated",Better reporting
+01f61d00-2e5,2025-06-01T02:40:53Z,59da93a9-db37-4bc6-9084-d7c32d19133e,business,NG,6,Support was slow,API docs
+e39b662c-96e,2024-09-01T23:49:52Z,204d7c5e-240c-4892-88ed-fcc768524fe1,pro,GB,9,Saves me hours every week,
+fd949d4e-806,2024-12-01T10:46:40Z,204d7c5e-240c-4892-88ed-fcc768524fe1,pro,GB,8,Decent price,Bulk actions
+4068af8f-282,2025-03-01T07:09:08Z,204d7c5e-240c-4892-88ed-fcc768524fe1,pro,GB,10,"Clean UI, nothing bloated",
+2aae40ea-913,2025-06-01T05:08:51Z,204d7c5e-240c-4892-88ed-fcc768524fe1,pro,GB,9,Great value,API docs
+46c1d737-3fe,2024-09-01T03:00:08Z,897524aa-12b8-4d36-ae16-fe28f8b8a7f2,pro,US,10,Saves me hours every week,Better reporting
+cf183de7-d99,2024-12-01T19:29:08Z,897524aa-12b8-4d36-ae16-fe28f8b8a7f2,pro,US,8,Some bugs occasionally,
+848fc8fb-a9e,2025-03-01T00:09:05Z,897524aa-12b8-4d36-ae16-fe28f8b8a7f2,pro,US,10,Great value,API docs
+20dc6d94-127,2025-06-01T03:00:42Z,897524aa-12b8-4d36-ae16-fe28f8b8a7f2,pro,US,7,Works well enough,
+2f3efaca-a75,2024-06-01T01:44:32Z,1565357c-7018-411a-9cb9-f49e22584bac,pro,NG,9,"Clean UI, nothing bloated",Better reporting
+d3498b1c-df2,2024-09-01T02:27:46Z,1565357c-7018-411a-9cb9-f49e22584bac,pro,NG,9,Super easy to use,Mobile app improvements
+937168cb-9d4,2024-12-01T12:50:48Z,1565357c-7018-411a-9cb9-f49e22584bac,pro,NG,10,Saves me hours every week,Better reporting
+cb527168-8a5,2025-03-01T08:25:48Z,1565357c-7018-411a-9cb9-f49e22584bac,pro,NG,10,"Clean UI, nothing bloated",More integrations
+6996d109-382,2025-06-01T16:54:34Z,1565357c-7018-411a-9cb9-f49e22584bac,pro,NG,10,Saves me hours every week,Better reporting
+3bb6952b-36e,2024-09-01T00:46:43Z,940aa1ea-c2ae-47ae-be08-ad10021d4209,starter,NG,9,Super easy to use,
+4f5125b7-885,2024-12-01T01:50:21Z,940aa1ea-c2ae-47ae-be08-ad10021d4209,starter,NG,10,Super easy to use,More integrations
+bbe83836-e7c,2025-03-01T02:32:40Z,940aa1ea-c2ae-47ae-be08-ad10021d4209,starter,NG,10,"Clean UI, nothing bloated",API docs
+21055d04-6b2,2025-06-01T10:25:33Z,940aa1ea-c2ae-47ae-be08-ad10021d4209,starter,NG,9,Love the kanban board,
+6b78e482-252,2024-06-01T11:57:10Z,021cf935-d08e-41d9-8a63-0c98ad892621,pro,CA,9,Love the kanban board,More integrations
+cfb933ca-42b,2024-09-01T13:02:51Z,021cf935-d08e-41d9-8a63-0c98ad892621,pro,CA,9,Saves me hours every week,API docs
+9acd054f-9a9,2024-12-01T03:53:33Z,021cf935-d08e-41d9-8a63-0c98ad892621,pro,CA,8,Some bugs occasionally,Mobile app improvements
+5dbd89a1-326,2025-03-01T09:04:23Z,021cf935-d08e-41d9-8a63-0c98ad892621,pro,CA,8,Good but missing a few features,More integrations
+9680f976-604,2025-06-01T00:48:08Z,021cf935-d08e-41d9-8a63-0c98ad892621,pro,CA,8,Decent price,API docs
+03568109-124,2024-12-01T14:34:31Z,aa86dbcb-550a-4017-bf00-bc70dea7f25f,pro,US,5,Confusing onboarding,
+2510cc4c-e43,2025-03-01T02:47:21Z,aa86dbcb-550a-4017-bf00-bc70dea7f25f,pro,US,10,Saves me hours every week,Better reporting
+742c5c9e-afa,2025-06-01T08:12:54Z,aa86dbcb-550a-4017-bf00-bc70dea7f25f,pro,US,10,Great value,Mobile app improvements
+50da399e-234,2024-09-01T09:46:06Z,6dd20475-4669-4e44-bb36-4a7a6ab71172,business,CA,8,Decent price,Mobile app improvements
+a55c486b-e95,2024-12-01T18:26:51Z,6dd20475-4669-4e44-bb36-4a7a6ab71172,business,CA,8,Some bugs occasionally,More integrations
+29e8b069-07c,2025-03-01T12:19:33Z,6dd20475-4669-4e44-bb36-4a7a6ab71172,business,CA,8,Works well enough,
+7b4fe1e6-b00,2025-06-01T20:13:30Z,6dd20475-4669-4e44-bb36-4a7a6ab71172,business,CA,10,Saves me hours every week,Mobile app improvements
+8b243e3b-738,2024-06-01T15:20:01Z,9e9ac39c-aee9-458a-a556-f8a5c12098c9,business,NG,8,Some bugs occasionally,Mobile app improvements
+edd3c823-95a,2024-09-01T11:07:12Z,9e9ac39c-aee9-458a-a556-f8a5c12098c9,business,NG,10,Saves me hours every week,
+f40eeb6d-a09,2024-12-01T14:48:30Z,9e9ac39c-aee9-458a-a556-f8a5c12098c9,business,NG,10,Super easy to use,Mobile app improvements
+f5ac7df7-ae3,2025-03-01T08:15:15Z,9e9ac39c-aee9-458a-a556-f8a5c12098c9,business,NG,10,Love the kanban board,API docs
+de2e81b4-436,2025-06-01T12:13:29Z,9e9ac39c-aee9-458a-a556-f8a5c12098c9,business,NG,7,Works well enough,API docs
+345d9469-c8a,2024-03-01T04:34:25Z,153c838d-fd67-454a-8e80-ac714d2e0a41,pro,GH,6,Confusing onboarding,More integrations
+3c3f38b0-660,2024-06-01T21:28:07Z,153c838d-fd67-454a-8e80-ac714d2e0a41,pro,GH,8,Good but missing a few features,Bulk actions
+587bb23c-80d,2024-09-01T09:15:18Z,153c838d-fd67-454a-8e80-ac714d2e0a41,pro,GH,9,Great value,Bulk actions
+cbe591ef-96f,2024-12-01T08:00:17Z,153c838d-fd67-454a-8e80-ac714d2e0a41,pro,GH,3,Confusing onboarding,Better reporting
+eaf74f41-4cb,2025-03-01T11:13:42Z,153c838d-fd67-454a-8e80-ac714d2e0a41,pro,GH,10,Love the kanban board,Mobile app improvements
+a769f72e-5ce,2025-06-01T17:17:00Z,153c838d-fd67-454a-8e80-ac714d2e0a41,pro,GH,9,Saves me hours every week,API docs
+9d6e8e84-57f,2024-03-01T17:34:36Z,7287a2e9-b2a0-4fc0-9c85-84c623c131dc,pro,US,9,Super easy to use,
+28af250e-6c2,2024-06-01T10:33:16Z,7287a2e9-b2a0-4fc0-9c85-84c623c131dc,pro,US,7,Some bugs occasionally,
+8b3943d3-d00,2024-09-01T06:01:47Z,7287a2e9-b2a0-4fc0-9c85-84c623c131dc,pro,US,8,Decent price,
+fc51acf8-790,2024-12-01T08:05:59Z,7287a2e9-b2a0-4fc0-9c85-84c623c131dc,pro,US,10,Love the kanban board,API docs
+9525d710-3ca,2025-03-01T15:51:42Z,7287a2e9-b2a0-4fc0-9c85-84c623c131dc,pro,US,7,Good but missing a few features,
+31872c60-50f,2025-06-01T04:24:00Z,7287a2e9-b2a0-4fc0-9c85-84c623c131dc,pro,US,9,"Clean UI, nothing bloated",Mobile app improvements
+cd714499-2b2,2024-03-01T07:43:23Z,cb093987-a9f6-4c44-b5df-b633c25cf6fe,starter,IN,7,Decent price,Bulk actions
+92c5a298-5b2,2024-06-01T10:26:46Z,cb093987-a9f6-4c44-b5df-b633c25cf6fe,starter,IN,0,Missing integrations I need,Mobile app improvements
+b3d02462-ad9,2024-09-01T15:12:55Z,cb093987-a9f6-4c44-b5df-b633c25cf6fe,starter,IN,8,Some bugs occasionally,Bulk actions
+8eb47613-eeb,2024-12-01T10:17:56Z,cb093987-a9f6-4c44-b5df-b633c25cf6fe,starter,IN,1,Missing integrations I need,Better reporting
+38430a4f-76f,2025-03-01T15:14:42Z,cb093987-a9f6-4c44-b5df-b633c25cf6fe,starter,IN,7,Decent price,
+715ef779-445,2025-06-01T04:39:11Z,cb093987-a9f6-4c44-b5df-b633c25cf6fe,starter,IN,8,Decent price,More integrations
+28e19418-2fc,2024-06-01T02:49:03Z,84900ad7-e6a1-42db-8caf-bda82c9d6df2,pro,GH,10,Love the kanban board,Mobile app improvements
+c6e99a40-c72,2024-09-01T16:28:58Z,84900ad7-e6a1-42db-8caf-bda82c9d6df2,pro,GH,9,Love the kanban board,API docs
+741bb5ec-2d3,2024-12-01T16:02:15Z,84900ad7-e6a1-42db-8caf-bda82c9d6df2,pro,GH,10,Best tool for my team,
+6532cca3-d38,2025-03-01T21:07:51Z,84900ad7-e6a1-42db-8caf-bda82c9d6df2,pro,GH,8,Works well enough,
+cacde21c-1d7,2025-06-01T07:03:52Z,84900ad7-e6a1-42db-8caf-bda82c9d6df2,pro,GH,10,Super easy to use,
+57e76f70-508,2025-06-01T20:54:04Z,edbf0f63-6f65-40e0-87ca-012567ce8617,business,NG,9,Love the kanban board,API docs
+089f57b4-ab0,2024-03-01T13:34:17Z,25e4a50f-2eb3-4e29-a0e1-0b6104a2f417,pro,IN,10,Love the kanban board,Mobile app improvements
+54ee988c-ae3,2024-06-01T21:42:33Z,25e4a50f-2eb3-4e29-a0e1-0b6104a2f417,pro,IN,9,Saves me hours every week,Mobile app improvements
+d0ff17d8-503,2024-09-01T04:45:08Z,25e4a50f-2eb3-4e29-a0e1-0b6104a2f417,pro,IN,9,Great value,Mobile app improvements
+3a87baf8-bc9,2024-12-01T08:40:41Z,25e4a50f-2eb3-4e29-a0e1-0b6104a2f417,pro,IN,10,"Clean UI, nothing bloated",Better reporting
+7196b1bf-1c6,2025-03-01T01:17:54Z,25e4a50f-2eb3-4e29-a0e1-0b6104a2f417,pro,IN,10,Love the kanban board,Mobile app improvements
+73e61655-e10,2025-06-01T05:01:52Z,25e4a50f-2eb3-4e29-a0e1-0b6104a2f417,pro,IN,4,Too expensive for what it offers,Bulk actions
+1a93544a-89d,2024-03-01T05:55:40Z,5f663dd2-2c17-407e-a755-583606d7be41,business,US,9,Super easy to use,API docs
+e98bdda8-70e,2024-06-01T00:40:40Z,5f663dd2-2c17-407e-a755-583606d7be41,business,US,9,Love the kanban board,Mobile app improvements
+04421546-c04,2024-09-01T13:36:22Z,5f663dd2-2c17-407e-a755-583606d7be41,business,US,3,Confusing onboarding,More integrations
+9ea1ac9e-66b,2024-12-01T21:32:01Z,5f663dd2-2c17-407e-a755-583606d7be41,business,US,9,Great value,Bulk actions
+3d2539c6-e86,2025-03-01T23:53:04Z,5f663dd2-2c17-407e-a755-583606d7be41,business,US,9,Best tool for my team,
+f8f01b74-1ad,2025-06-01T11:03:54Z,5f663dd2-2c17-407e-a755-583606d7be41,business,US,9,Best tool for my team,More integrations
+cec5e4e8-68e,2025-06-01T20:51:21Z,af0f0845-dcfe-49ef-8ef4-9064a6d95b64,business,GB,9,Super easy to use,Better reporting
+88b49ef5-ec4,2024-03-01T20:04:59Z,3531be66-e44b-452e-9760-5ce423f61da3,business,DE,9,Best tool for my team,Mobile app improvements
+189b9bf9-7f1,2024-06-01T00:38:31Z,3531be66-e44b-452e-9760-5ce423f61da3,business,DE,9,Love the kanban board,More integrations
+f52edd9b-ed8,2024-09-01T07:40:24Z,3531be66-e44b-452e-9760-5ce423f61da3,business,DE,7,Decent price,More integrations
+2428b7a5-e43,2024-12-01T11:46:03Z,3531be66-e44b-452e-9760-5ce423f61da3,business,DE,4,Keeps crashing on mobile,Better reporting
+840f6da8-87d,2025-03-01T17:43:11Z,3531be66-e44b-452e-9760-5ce423f61da3,business,DE,10,Saves me hours every week,
+b763fdfd-c7a,2025-06-01T19:10:52Z,3531be66-e44b-452e-9760-5ce423f61da3,business,DE,6,Keeps crashing on mobile,Better reporting
+3f4a2501-b7a,2024-12-01T09:10:05Z,b46df555-325b-4130-94ef-ab02513bfeb6,starter,NG,10,Super easy to use,Better reporting
+8d252521-d9a,2025-03-01T14:24:11Z,b46df555-325b-4130-94ef-ab02513bfeb6,starter,NG,10,Great value,Mobile app improvements
+614ea123-294,2025-06-01T10:23:31Z,b46df555-325b-4130-94ef-ab02513bfeb6,starter,NG,8,Decent price,Mobile app improvements
+8f13a692-784,2025-03-01T13:12:47Z,09800b85-130a-4248-b34c-d07b838cf12f,pro,NG,7,Good but missing a few features,Mobile app improvements
+1acf154c-d43,2025-06-01T11:54:25Z,09800b85-130a-4248-b34c-d07b838cf12f,pro,NG,9,Super easy to use,Better reporting
+232bae8f-af1,2024-09-01T07:53:32Z,e8c40eb2-93d8-4467-9453-fdf4536e4524,starter,ZA,7,Good but missing a few features,
+25e67b8f-a27,2024-12-01T14:30:50Z,e8c40eb2-93d8-4467-9453-fdf4536e4524,starter,ZA,10,Great value,More integrations
+9695862b-d3b,2025-03-01T03:50:20Z,e8c40eb2-93d8-4467-9453-fdf4536e4524,starter,ZA,9,"Clean UI, nothing bloated",Bulk actions
+ff8d0cb1-497,2025-06-01T04:46:53Z,e8c40eb2-93d8-4467-9453-fdf4536e4524,starter,ZA,6,Too expensive for what it offers,API docs
+b8ae6c47-eb3,2024-09-01T16:48:08Z,e51e2ea4-53b2-4833-ae36-08bf0b80142a,pro,NG,9,Super easy to use,More integrations
+8796721f-b7a,2024-12-01T13:30:23Z,e51e2ea4-53b2-4833-ae36-08bf0b80142a,pro,NG,10,Great value,Better reporting
+4d89e954-aed,2025-03-01T01:14:06Z,e51e2ea4-53b2-4833-ae36-08bf0b80142a,pro,NG,6,Support was slow,API docs
+a9a64e1f-f8a,2025-06-01T09:10:36Z,e51e2ea4-53b2-4833-ae36-08bf0b80142a,pro,NG,9,"Clean UI, nothing bloated",API docs
+41590a36-04f,2024-09-01T05:06:26Z,e872a409-0d1a-40f4-a88b-6dbb5e02bb8f,starter,DE,9,Love the kanban board,More integrations
+22df2f1f-c39,2024-12-01T11:03:29Z,e872a409-0d1a-40f4-a88b-6dbb5e02bb8f,starter,DE,9,"Clean UI, nothing bloated",Bulk actions
+4e93747c-88c,2025-03-01T04:33:13Z,e872a409-0d1a-40f4-a88b-6dbb5e02bb8f,starter,DE,8,Some bugs occasionally,Mobile app improvements
+ea59ad88-0b8,2025-06-01T13:21:22Z,e872a409-0d1a-40f4-a88b-6dbb5e02bb8f,starter,DE,6,Too expensive for what it offers,
+f31c97e5-661,2025-03-01T02:23:27Z,337db213-042d-4cbe-aefe-f72051c59522,pro,NG,10,Love the kanban board,More integrations
+d33c645c-b8e,2025-06-01T14:47:28Z,337db213-042d-4cbe-aefe-f72051c59522,pro,NG,9,"Clean UI, nothing bloated",API docs
+0e1b213e-ef5,2025-03-01T18:56:31Z,860013f9-d1d1-4fee-84e8-b62235d2ba79,pro,NG,5,Confusing onboarding,
+ed46dab9-987,2025-06-01T12:57:42Z,860013f9-d1d1-4fee-84e8-b62235d2ba79,pro,NG,9,Saves me hours every week,Mobile app improvements
+6ad55a20-d20,2024-09-01T23:29:14Z,432ff232-3a00-4b19-b5a4-8d0816594ddd,pro,BR,10,Great value,API docs
+00475dd8-0ff,2024-12-01T06:53:55Z,432ff232-3a00-4b19-b5a4-8d0816594ddd,pro,BR,7,Works well enough,Mobile app improvements
+ca015d34-980,2025-03-01T01:19:45Z,432ff232-3a00-4b19-b5a4-8d0816594ddd,pro,BR,10,Best tool for my team,More integrations
+799ef685-818,2025-06-01T14:58:51Z,432ff232-3a00-4b19-b5a4-8d0816594ddd,pro,BR,10,Love the kanban board,
+2a2dbfef-5bd,2024-12-01T05:58:37Z,6b435e5f-188a-4e00-a55e-f82465f68ae1,pro,NG,10,Best tool for my team,
+2a8d9f8a-83b,2025-03-01T17:27:53Z,6b435e5f-188a-4e00-a55e-f82465f68ae1,pro,NG,9,Love the kanban board,Bulk actions
+03fe2cec-def,2025-06-01T06:44:16Z,6b435e5f-188a-4e00-a55e-f82465f68ae1,pro,NG,7,Some bugs occasionally,
+a32a063d-79e,2024-03-01T21:15:30Z,b4d94850-7393-442f-81a5-0ed17d08bfb4,starter,NG,9,"Clean UI, nothing bloated",Mobile app improvements
+b286665e-08e,2024-06-01T02:21:27Z,b4d94850-7393-442f-81a5-0ed17d08bfb4,starter,NG,9,Super easy to use,API docs
+875b1971-6cc,2024-09-01T22:57:35Z,b4d94850-7393-442f-81a5-0ed17d08bfb4,starter,NG,10,Saves me hours every week,
+55f51244-655,2024-12-01T19:47:47Z,b4d94850-7393-442f-81a5-0ed17d08bfb4,starter,NG,7,Some bugs occasionally,
+199bde77-431,2025-03-01T10:29:43Z,b4d94850-7393-442f-81a5-0ed17d08bfb4,starter,NG,9,Saves me hours every week,API docs
+ffd2eb0b-944,2025-06-01T13:09:36Z,b4d94850-7393-442f-81a5-0ed17d08bfb4,starter,NG,9,Super easy to use,Bulk actions
+9a75a5b7-159,2025-03-01T20:43:29Z,00272715-7c75-4a7f-ba61-32b30550cc3d,business,ZA,5,Keeps crashing on mobile,More integrations
+712720e2-253,2025-06-01T07:55:33Z,00272715-7c75-4a7f-ba61-32b30550cc3d,business,ZA,9,Love the kanban board,
+e140216e-693,2025-03-01T06:19:44Z,44b2b537-734c-44b2-b8e8-6cc34c36c58a,pro,NG,9,Love the kanban board,
+5c66b406-54c,2025-06-01T06:45:45Z,44b2b537-734c-44b2-b8e8-6cc34c36c58a,pro,NG,10,Best tool for my team,Better reporting
+d2ea9c04-14b,2024-09-01T00:12:22Z,600a2068-b8c5-483e-8336-31fb5898f831,pro,US,9,Love the kanban board,API docs
+a0f5b4db-b2d,2024-12-01T21:56:49Z,600a2068-b8c5-483e-8336-31fb5898f831,pro,US,7,Works well enough,Better reporting
+1d901154-231,2025-03-01T18:01:12Z,600a2068-b8c5-483e-8336-31fb5898f831,pro,US,6,Missing integrations I need,More integrations
+5567b11f-9f2,2025-06-01T07:59:44Z,600a2068-b8c5-483e-8336-31fb5898f831,pro,US,10,Best tool for my team,API docs
+10d71551-971,2024-12-01T00:02:22Z,cb1f0f66-6128-434f-afb2-32dc6dd0fb75,starter,GB,8,Some bugs occasionally,Bulk actions
+052425de-9b2,2025-03-01T09:07:10Z,cb1f0f66-6128-434f-afb2-32dc6dd0fb75,starter,GB,10,Best tool for my team,API docs
+b7741959-fad,2025-06-01T10:20:15Z,cb1f0f66-6128-434f-afb2-32dc6dd0fb75,starter,GB,8,Decent price,More integrations
+b687005f-659,2024-03-01T19:45:45Z,0b018914-e94a-43e7-908e-b11ebe13e5bd,starter,US,10,Saves me hours every week,API docs
+9ee86ded-736,2024-06-01T06:50:26Z,0b018914-e94a-43e7-908e-b11ebe13e5bd,starter,US,10,Saves me hours every week,Mobile app improvements
+03d0e14b-dc5,2024-09-01T03:44:54Z,0b018914-e94a-43e7-908e-b11ebe13e5bd,starter,US,9,Super easy to use,Mobile app improvements
+35e124cc-6eb,2024-12-01T14:10:45Z,0b018914-e94a-43e7-908e-b11ebe13e5bd,starter,US,7,Decent price,
+1e9bdea1-ebf,2025-03-01T16:31:00Z,0b018914-e94a-43e7-908e-b11ebe13e5bd,starter,US,9,Love the kanban board,More integrations
+1fe3b015-3a1,2025-06-01T13:39:04Z,0b018914-e94a-43e7-908e-b11ebe13e5bd,starter,US,9,Love the kanban board,
+586367cb-cf5,2025-03-01T15:03:52Z,0e2947f4-c197-4278-ad67-2dbcaf1ed72d,pro,US,7,Decent price,More integrations
+bb4da598-80f,2025-06-01T15:24:21Z,0e2947f4-c197-4278-ad67-2dbcaf1ed72d,pro,US,10,"Clean UI, nothing bloated",
+89f48345-ca0,2024-09-01T15:18:30Z,74aa3f40-7c13-4a99-8307-8a14ea5f8777,starter,US,8,Some bugs occasionally,
+33c80702-de5,2024-12-01T17:09:15Z,74aa3f40-7c13-4a99-8307-8a14ea5f8777,starter,US,0,Keeps crashing on mobile,
+e440dd11-42f,2025-03-01T07:17:32Z,74aa3f40-7c13-4a99-8307-8a14ea5f8777,starter,US,8,Decent price,Better reporting
+97876185-de9,2025-06-01T09:56:50Z,74aa3f40-7c13-4a99-8307-8a14ea5f8777,starter,US,10,Saves me hours every week,Better reporting
+e44a6855-bc0,2024-06-01T19:00:36Z,be0858f7-0e00-485f-a11d-46994186b77e,business,CA,9,Great value,More integrations
+f615586c-61b,2024-09-01T22:09:34Z,be0858f7-0e00-485f-a11d-46994186b77e,business,CA,10,Saves me hours every week,API docs
+ef2e940a-3f9,2024-12-01T00:58:32Z,be0858f7-0e00-485f-a11d-46994186b77e,business,CA,9,Super easy to use,API docs
+ecdeac71-308,2025-03-01T23:24:47Z,be0858f7-0e00-485f-a11d-46994186b77e,business,CA,7,Some bugs occasionally,More integrations
+265d2da8-539,2025-06-01T05:38:53Z,be0858f7-0e00-485f-a11d-46994186b77e,business,CA,10,Super easy to use,
+f9068066-40e,2024-06-01T09:10:17Z,b5be2aea-6644-41d5-b082-4f201a6e1c19,starter,ZA,9,Super easy to use,Bulk actions
+d1c23729-b01,2024-09-01T22:27:38Z,b5be2aea-6644-41d5-b082-4f201a6e1c19,starter,ZA,9,Best tool for my team,Better reporting
+86b9dcc6-f59,2024-12-01T11:02:21Z,b5be2aea-6644-41d5-b082-4f201a6e1c19,starter,ZA,10,Super easy to use,Mobile app improvements
+dc84d5b9-43e,2025-03-01T14:36:26Z,b5be2aea-6644-41d5-b082-4f201a6e1c19,starter,ZA,10,Saves me hours every week,Bulk actions
+c10dc4bc-186,2025-06-01T06:11:06Z,b5be2aea-6644-41d5-b082-4f201a6e1c19,starter,ZA,9,Super easy to use,API docs
+d7c1245c-68c,2024-06-01T03:37:23Z,6e64cbd4-aa4b-4fab-b292-b310a2bfcdb8,pro,US,9,"Clean UI, nothing bloated",API docs
+28445a73-99c,2024-09-01T15:01:45Z,6e64cbd4-aa4b-4fab-b292-b310a2bfcdb8,pro,US,10,Saves me hours every week,Mobile app improvements
+540ab64d-8b7,2024-12-01T19:20:48Z,6e64cbd4-aa4b-4fab-b292-b310a2bfcdb8,pro,US,0,Keeps crashing on mobile,
+7f9e79c3-608,2025-03-01T06:05:56Z,6e64cbd4-aa4b-4fab-b292-b310a2bfcdb8,pro,US,9,Great value,Mobile app improvements
+2c573c7f-d1c,2025-06-01T14:30:35Z,6e64cbd4-aa4b-4fab-b292-b310a2bfcdb8,pro,US,8,Works well enough,Mobile app improvements
+7555e713-14c,2024-03-01T22:08:11Z,f2993a4f-e959-4007-96fe-6d37e71f641b,pro,ZA,7,Some bugs occasionally,More integrations
+14b17eb5-6af,2024-06-01T11:09:08Z,f2993a4f-e959-4007-96fe-6d37e71f641b,pro,ZA,10,Love the kanban board,More integrations
+e3a62ab1-74e,2024-09-01T23:26:38Z,f2993a4f-e959-4007-96fe-6d37e71f641b,pro,ZA,8,Some bugs occasionally,
+9a7291b3-6ab,2024-12-01T21:14:29Z,f2993a4f-e959-4007-96fe-6d37e71f641b,pro,ZA,10,Great value,API docs
+10e02e4d-8f6,2025-03-01T07:58:31Z,f2993a4f-e959-4007-96fe-6d37e71f641b,pro,ZA,4,Too expensive for what it offers,Mobile app improvements
+70d8448d-7d5,2025-06-01T12:49:36Z,f2993a4f-e959-4007-96fe-6d37e71f641b,pro,ZA,10,"Clean UI, nothing bloated",Mobile app improvements
+065790ed-225,2024-03-01T20:39:16Z,5f96da9e-2bbf-48a7-ab8a-66f08b532cf7,starter,US,10,Great value,API docs
+f384d12c-952,2024-06-01T02:34:17Z,5f96da9e-2bbf-48a7-ab8a-66f08b532cf7,starter,US,4,Too expensive for what it offers,More integrations
+52ee82ff-32b,2024-09-01T19:24:07Z,5f96da9e-2bbf-48a7-ab8a-66f08b532cf7,starter,US,10,"Clean UI, nothing bloated",Bulk actions
+5df8d0bf-180,2024-12-01T11:12:31Z,5f96da9e-2bbf-48a7-ab8a-66f08b532cf7,starter,US,10,Saves me hours every week,Mobile app improvements
+a3c68ece-54d,2025-03-01T16:21:50Z,5f96da9e-2bbf-48a7-ab8a-66f08b532cf7,starter,US,8,Good but missing a few features,More integrations
+5c5e7c5e-75f,2025-06-01T21:05:22Z,5f96da9e-2bbf-48a7-ab8a-66f08b532cf7,starter,US,6,Missing integrations I need,Bulk actions
+b084defe-51e,2024-12-01T17:29:48Z,2afb4809-05f1-4ab5-8bef-bfb56f6f426f,starter,CA,4,Keeps crashing on mobile,API docs
+61602c33-ad7,2025-03-01T03:02:25Z,2afb4809-05f1-4ab5-8bef-bfb56f6f426f,starter,CA,9,Great value,
+2113091f-1f5,2025-06-01T13:41:10Z,2afb4809-05f1-4ab5-8bef-bfb56f6f426f,starter,CA,9,Best tool for my team,
+52cf3dac-62c,2024-03-01T15:33:33Z,7b7cd866-b9f6-450e-b9c7-98a875c273ce,starter,NG,1,Confusing onboarding,Better reporting
+d63de1b4-7df,2024-06-01T14:22:19Z,7b7cd866-b9f6-450e-b9c7-98a875c273ce,starter,NG,9,Best tool for my team,API docs
+0ce3bc88-bb3,2024-09-01T10:40:44Z,7b7cd866-b9f6-450e-b9c7-98a875c273ce,starter,NG,10,Love the kanban board,More integrations
+b534e78c-885,2024-12-01T18:34:29Z,7b7cd866-b9f6-450e-b9c7-98a875c273ce,starter,NG,6,Confusing onboarding,API docs
+09db29ae-cfd,2025-03-01T20:14:22Z,7b7cd866-b9f6-450e-b9c7-98a875c273ce,starter,NG,9,"Clean UI, nothing bloated",Better reporting
+62dc0659-2ee,2025-06-01T01:25:54Z,7b7cd866-b9f6-450e-b9c7-98a875c273ce,starter,NG,6,Missing integrations I need,Bulk actions
+3985fa60-0bd,2024-09-01T02:25:44Z,32136f43-2896-421b-91fd-1c2373bda8fa,pro,GB,10,"Clean UI, nothing bloated",API docs
+4bb6131d-d51,2024-12-01T07:42:43Z,32136f43-2896-421b-91fd-1c2373bda8fa,pro,GB,9,Best tool for my team,API docs
+38ba1a5d-2aa,2025-03-01T21:46:58Z,32136f43-2896-421b-91fd-1c2373bda8fa,pro,GB,9,Super easy to use,
+e8f22cd1-6cd,2025-06-01T21:21:57Z,32136f43-2896-421b-91fd-1c2373bda8fa,pro,GB,8,Works well enough,Mobile app improvements
+ae2c4282-1a2,2024-03-01T09:55:53Z,c2c31a20-7f73-41a5-93a5-3fa58f94b74d,starter,NG,7,Good but missing a few features,Bulk actions
+0d506fbc-054,2024-06-01T00:53:10Z,c2c31a20-7f73-41a5-93a5-3fa58f94b74d,starter,NG,9,Super easy to use,Bulk actions
+c33330f0-8b8,2024-09-01T14:57:19Z,c2c31a20-7f73-41a5-93a5-3fa58f94b74d,starter,NG,9,Best tool for my team,Mobile app improvements
+9dc5fe5e-ec3,2024-12-01T20:18:45Z,c2c31a20-7f73-41a5-93a5-3fa58f94b74d,starter,NG,10,Saves me hours every week,More integrations
+18a65d4c-097,2025-03-01T04:21:56Z,c2c31a20-7f73-41a5-93a5-3fa58f94b74d,starter,NG,10,Great value,API docs
+9b0b0599-7c7,2025-06-01T18:25:26Z,c2c31a20-7f73-41a5-93a5-3fa58f94b74d,starter,NG,10,"Clean UI, nothing bloated",Mobile app improvements
+4b0b12a0-9e9,2024-03-01T09:07:03Z,23e341b2-eccc-496f-b7d4-e72a402e5245,starter,NG,9,Love the kanban board,Mobile app improvements
+cd6d8d09-cc2,2024-06-01T01:30:39Z,23e341b2-eccc-496f-b7d4-e72a402e5245,starter,NG,9,Best tool for my team,
+c4d46b01-c8b,2024-09-01T13:09:09Z,23e341b2-eccc-496f-b7d4-e72a402e5245,starter,NG,10,"Clean UI, nothing bloated",
+306a516b-234,2024-12-01T15:40:51Z,23e341b2-eccc-496f-b7d4-e72a402e5245,starter,NG,10,Best tool for my team,Better reporting
+eb09960d-9a5,2025-03-01T07:21:09Z,23e341b2-eccc-496f-b7d4-e72a402e5245,starter,NG,8,Decent price,Mobile app improvements
+a99a19e1-6dd,2025-06-01T06:50:27Z,23e341b2-eccc-496f-b7d4-e72a402e5245,starter,NG,9,Love the kanban board,
+9a8f029f-552,2024-12-01T08:29:03Z,ca12b056-22b6-4998-8cc4-42349b6fba9f,pro,ZA,9,Great value,
+15952c72-5a6,2025-03-01T11:38:02Z,ca12b056-22b6-4998-8cc4-42349b6fba9f,pro,ZA,5,Too expensive for what it offers,
+eb5d8123-428,2025-06-01T12:18:27Z,ca12b056-22b6-4998-8cc4-42349b6fba9f,pro,ZA,9,Best tool for my team,Bulk actions
+ad302e7c-de2,2024-09-01T09:53:27Z,8dbe8f93-229b-4b71-ba51-db7a098000f8,starter,NG,10,Love the kanban board,Bulk actions
+aab70e02-7a8,2024-12-01T10:30:07Z,8dbe8f93-229b-4b71-ba51-db7a098000f8,starter,NG,4,Confusing onboarding,Mobile app improvements
+aa70bff8-018,2025-03-01T06:38:49Z,8dbe8f93-229b-4b71-ba51-db7a098000f8,starter,NG,5,Support was slow,Better reporting
+913a63aa-136,2025-06-01T18:08:25Z,8dbe8f93-229b-4b71-ba51-db7a098000f8,starter,NG,10,Super easy to use,Bulk actions
+e9aaa222-eef,2025-06-01T03:10:37Z,c8ad0b79-a216-4af3-9358-8d4e4fea79a0,business,BR,8,Works well enough,
+0fa6d9f0-35a,2024-03-01T14:39:04Z,efdfa648-767c-49a8-a140-9f0a3487743b,starter,GB,2,Confusing onboarding,Bulk actions
+14e08b22-a0a,2024-06-01T01:13:30Z,efdfa648-767c-49a8-a140-9f0a3487743b,starter,GB,5,Support was slow,API docs
+54e30b13-17f,2024-09-01T10:47:16Z,efdfa648-767c-49a8-a140-9f0a3487743b,starter,GB,8,Decent price,
+76eb885a-43e,2024-12-01T08:51:41Z,efdfa648-767c-49a8-a140-9f0a3487743b,starter,GB,0,Missing integrations I need,
+a964bef3-6f6,2025-03-01T16:47:31Z,efdfa648-767c-49a8-a140-9f0a3487743b,starter,GB,8,Some bugs occasionally,Better reporting
+c5982941-c83,2025-06-01T03:06:36Z,efdfa648-767c-49a8-a140-9f0a3487743b,starter,GB,10,Love the kanban board,Mobile app improvements
+9bcd3164-486,2025-03-01T20:53:36Z,093466c8-ea84-49ba-81a2-3dabc4337926,pro,CA,1,Support was slow,Mobile app improvements
+2e628a65-c65,2025-06-01T13:04:21Z,093466c8-ea84-49ba-81a2-3dabc4337926,pro,CA,9,Best tool for my team,
+8a76b586-584,2024-09-01T16:42:41Z,a57ca7ec-1eee-4983-a757-c1209c79c28f,business,IN,6,Support was slow,Bulk actions
+6819556f-22f,2024-12-01T00:59:36Z,a57ca7ec-1eee-4983-a757-c1209c79c28f,business,IN,9,Love the kanban board,API docs
+56ef6888-3e6,2025-03-01T18:46:39Z,a57ca7ec-1eee-4983-a757-c1209c79c28f,business,IN,10,Love the kanban board,More integrations
+80e135c1-9db,2025-06-01T07:32:37Z,a57ca7ec-1eee-4983-a757-c1209c79c28f,business,IN,9,Super easy to use,Mobile app improvements
+cf3d9c7f-c38,2024-12-01T22:58:24Z,3593c02a-ff8a-4326-9fef-c809b95b9e69,pro,US,9,Super easy to use,Better reporting
+8335d30c-627,2025-03-01T09:21:35Z,3593c02a-ff8a-4326-9fef-c809b95b9e69,pro,US,9,Saves me hours every week,Bulk actions
+50e5a2b2-0ef,2025-06-01T13:17:25Z,3593c02a-ff8a-4326-9fef-c809b95b9e69,pro,US,9,Love the kanban board,Mobile app improvements
+6e140267-3d9,2025-03-01T00:36:57Z,a26c9114-d8ec-4afe-89f5-99075f0604a6,starter,US,9,Great value,Bulk actions
+baaa1c58-50a,2025-06-01T20:02:19Z,a26c9114-d8ec-4afe-89f5-99075f0604a6,starter,US,9,Great value,Better reporting
+14a94e52-953,2024-12-01T03:31:31Z,e15a0b40-a90b-416b-bf7d-616692d2cbde,starter,GH,10,Love the kanban board,Bulk actions
+a9494628-371,2025-03-01T19:50:43Z,e15a0b40-a90b-416b-bf7d-616692d2cbde,starter,GH,8,Works well enough,Bulk actions
+f74cff35-b9d,2025-06-01T09:28:10Z,e15a0b40-a90b-416b-bf7d-616692d2cbde,starter,GH,9,Love the kanban board,More integrations
+22edc049-a05,2024-09-01T21:50:31Z,b479fea2-737c-43f4-8a13-45b11ceda9b9,business,GB,6,Too expensive for what it offers,Mobile app improvements
+408bba3b-867,2024-12-01T23:22:34Z,b479fea2-737c-43f4-8a13-45b11ceda9b9,business,GB,9,Best tool for my team,Better reporting
+8e65c30f-278,2025-03-01T19:22:29Z,b479fea2-737c-43f4-8a13-45b11ceda9b9,business,GB,9,Saves me hours every week,Mobile app improvements
+548e5d97-7eb,2025-06-01T09:33:41Z,b479fea2-737c-43f4-8a13-45b11ceda9b9,business,GB,9,"Clean UI, nothing bloated",More integrations
+11526bee-6a7,2024-12-01T00:59:11Z,4da574fd-6df1-4f0a-9f4d-bea06a80899c,starter,NG,10,Best tool for my team,Mobile app improvements
+c1b42cc4-51a,2025-03-01T04:25:46Z,4da574fd-6df1-4f0a-9f4d-bea06a80899c,starter,NG,10,Super easy to use,Better reporting
+369a1a80-b33,2025-06-01T08:22:02Z,4da574fd-6df1-4f0a-9f4d-bea06a80899c,starter,NG,10,Best tool for my team,More integrations
+4856bc6f-98a,2025-03-01T07:17:47Z,11f8f909-f1e9-45dd-bae0-ef3529c2e02e,starter,KE,8,Some bugs occasionally,More integrations
+b2797546-a2b,2025-06-01T12:09:35Z,11f8f909-f1e9-45dd-bae0-ef3529c2e02e,starter,KE,8,Some bugs occasionally,API docs
+1f630883-e9f,2024-12-01T21:57:46Z,666be192-4deb-42fd-bbac-5590535625af,pro,GB,8,Some bugs occasionally,Bulk actions
+d0fbb426-df4,2025-03-01T07:23:53Z,666be192-4deb-42fd-bbac-5590535625af,pro,GB,9,"Clean UI, nothing bloated",Bulk actions
+84a78741-ce4,2025-06-01T01:28:23Z,666be192-4deb-42fd-bbac-5590535625af,pro,GB,7,Some bugs occasionally,Better reporting
+c4ecc09a-e72,2025-03-01T20:15:46Z,f5a0204b-fc7b-4976-8f72-e0aae49e5073,pro,US,5,Missing integrations I need,API docs
+4e76f166-af2,2025-06-01T06:29:39Z,f5a0204b-fc7b-4976-8f72-e0aae49e5073,pro,US,9,Saves me hours every week,More integrations
+125813b0-510,2025-03-01T07:31:01Z,aee746d2-670a-4d9c-9a7a-feb882af1cbd,starter,US,5,Support was slow,Mobile app improvements
+74d58274-6eb,2025-06-01T08:51:17Z,aee746d2-670a-4d9c-9a7a-feb882af1cbd,starter,US,10,Super easy to use,Bulk actions
+40bee48f-6f2,2025-06-01T10:45:20Z,12882739-54b3-4611-904d-80fba15d9b2a,starter,IN,9,Best tool for my team,Bulk actions
+4f499986-4eb,2024-03-01T11:32:26Z,237258e9-4cbf-4424-91de-a752ab129cf3,pro,IN,10,Best tool for my team,Better reporting
+9b43f085-a0a,2024-06-01T07:31:26Z,237258e9-4cbf-4424-91de-a752ab129cf3,pro,IN,8,Good but missing a few features,Mobile app improvements
+602fc4b0-6c1,2024-09-01T23:52:10Z,237258e9-4cbf-4424-91de-a752ab129cf3,pro,IN,9,"Clean UI, nothing bloated",Mobile app improvements
+4617c676-8d2,2024-12-01T23:23:31Z,237258e9-4cbf-4424-91de-a752ab129cf3,pro,IN,9,Super easy to use,More integrations
+9beb4bb1-0f0,2025-03-01T22:41:12Z,237258e9-4cbf-4424-91de-a752ab129cf3,pro,IN,9,Great value,API docs
+f3dcc260-8fe,2025-06-01T01:50:22Z,237258e9-4cbf-4424-91de-a752ab129cf3,pro,IN,9,"Clean UI, nothing bloated",Better reporting

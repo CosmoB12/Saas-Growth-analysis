@@ -1,0 +1,7 @@
+id,product,unit_amount,currency,recurring.interval,recurring.interval_count,active,nickname
+price_starter_monthly,prod_starter,900,usd,month,1,true,Starter Monthly
+price_starter_annual,prod_starter,9000,usd,year,1,true,Starter Annual
+price_pro_monthly,prod_pro,2500,usd,month,1,true,Pro Monthly
+price_pro_annual,prod_pro,25000,usd,year,1,true,Pro Annual
+price_business_monthly,prod_business,7900,usd,month,1,true,Business Monthly
+price_business_annual,prod_business,79000,usd,year,1,true,Business Annual
