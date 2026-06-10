@@ -1,1 +1,0 @@
-CREATE DATABASE saas_growth_analysis
