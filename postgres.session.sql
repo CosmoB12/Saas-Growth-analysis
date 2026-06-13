@@ -1,0 +1,1 @@
+SELECT * FROM dimensions.dim_plans

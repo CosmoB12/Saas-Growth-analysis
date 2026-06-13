@@ -1,0 +1,6 @@
+"channel_id","channel_name","channel_type","channel_category","is_paid","source_table"
+"google_ads","Google Ads","Paid","Search & Display",1,"google_ads_campaigns"
+"linkedin_ads","LinkedIn Ads","Paid","Social",1,"linkedin_ads_campaigns"
+"organic_search","Organic Search","Organic","SEO","","hubspot_contacts"
+"referral","Referral","Organic","Referral","","hubspot_contacts"
+"product_hunt","Product Hunt","Organic","Community","","hubspot_contacts"

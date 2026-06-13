@@ -1,0 +1,7 @@
+"plan_id","plan_name","plan_tier","plan_description","price_id","billing_interval","price_cents","price_usd","monthly_equivalent_usd","is_active","tier_rank"
+"prod_starter","TaskFlow Starter","starter","Solo plan — 3 projects, 1 user","price_starter_monthly","month",900,"9.0000000000000000","9.0000000000000000","true",1
+"prod_starter","TaskFlow Starter","starter","Solo plan — 3 projects, 1 user","price_starter_annual","year",9000,"90.0000000000000000","7.5000000000000000","true",1
+"prod_pro","TaskFlow Pro","pro","Team plan — 20 projects, 5 users","price_pro_monthly","month",2500,"25.0000000000000000","25.0000000000000000","true",2
+"prod_pro","TaskFlow Pro","pro","Team plan — 20 projects, 5 users","price_pro_annual","year",25000,"250.0000000000000000","20.8333333333333333","true",2
+"prod_business","TaskFlow Business","business","Company plan — unlimited projects, 25 users","price_business_monthly","month",7900,"79.0000000000000000","79.0000000000000000","true",3
+"prod_business","TaskFlow Business","business","Company plan — unlimited projects, 25 users","price_business_annual","year",79000,"790.0000000000000000","65.8333333333333333","true",3

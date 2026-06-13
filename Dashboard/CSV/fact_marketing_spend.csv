@@ -1,0 +1,181 @@
+"date_key","year_month","channel_id","channel_name","channel_type","campaign_name","impressions","clicks","spend_usd","conversions","ctr_pct","avg_cpc_usd","conversion_rate_pct","cost_per_conversion_usd","leads"
+20240101,"2024-01","google_ads","Google Ads","Paid","Brand Search",14411,1139,"1423.75",90,"7.91","1.25","7.97","15.82",""
+20240101,"2024-01","google_ads","Google Ads","Paid","Non-Brand Search",21410,1678,"2835.82",142,"7.84","1.69","8.50","19.97",""
+20240101,"2024-01","google_ads","Google Ads","Paid","Competitor Keywords",29407,1041,"2893.98",116,"3.54","2.78","11.16","24.95",""
+20240101,"2024-01","google_ads","Google Ads","Paid","Display - Retargeting",30304,2069,"2979.36",64,"6.83","1.44","3.10","46.55",""
+20240101,"2024-01","google_ads","Google Ads","Paid","Display - Prospecting",28732,1508,"4433.52",122,"5.25","2.94","8.10","36.34",""
+20240101,"2024-01","google_ads","Google Ads","Paid","Performance Max",16697,908,"2369.88",71,"5.44","2.61","7.88","33.38",""
+20240201,"2024-02","google_ads","Google Ads","Paid","Brand Search",8879,262,"468.98",29,"2.96","1.79","11.13","16.17",""
+20240201,"2024-02","google_ads","Google Ads","Paid","Non-Brand Search",21057,1126,"2252.00",70,"5.35","2.00","6.22","32.17",""
+20240201,"2024-02","google_ads","Google Ads","Paid","Competitor Keywords",34305,1118,"2985.06",85,"3.26","2.67","7.63","35.12",""
+20240201,"2024-02","google_ads","Google Ads","Paid","Display - Retargeting",32184,1702,"3182.74",188,"5.29","1.87","11.09","16.93",""
+20240201,"2024-02","google_ads","Google Ads","Paid","Display - Prospecting",12874,633,"1993.95",72,"4.92","3.15","11.38","27.69",""
+20240201,"2024-02","google_ads","Google Ads","Paid","Performance Max",18504,940,"1428.80",97,"5.08","1.52","10.34","14.73",""
+20240301,"2024-03","google_ads","Google Ads","Paid","Brand Search",10972,729,"2143.26",25,"6.65","2.94","3.48","85.73",""
+20240301,"2024-03","google_ads","Google Ads","Paid","Non-Brand Search",11503,784,"1568.00",74,"6.82","2.00","9.46","21.19",""
+20240301,"2024-03","google_ads","Google Ads","Paid","Competitor Keywords",17867,580,"1183.20",58,"3.25","2.04","10.09","20.40",""
+20240301,"2024-03","google_ads","Google Ads","Paid","Display - Retargeting",31547,2347,"5351.16",268,"7.44","2.28","11.45","19.97",""
+20240301,"2024-03","google_ads","Google Ads","Paid","Display - Prospecting",21967,1693,"3656.88",188,"7.71","2.16","11.12","19.45",""
+20240301,"2024-03","google_ads","Google Ads","Paid","Performance Max",35034,1072,"3226.72",102,"3.06","3.01","9.59","31.63",""
+20240401,"2024-04","google_ads","Google Ads","Paid","Brand Search",23631,1502,"2478.30",96,"6.36","1.65","6.43","25.82",""
+20240401,"2024-04","google_ads","Google Ads","Paid","Non-Brand Search",29179,1987,"4192.57",198,"6.81","2.11","10.01","21.17",""
+20240401,"2024-04","google_ads","Google Ads","Paid","Competitor Keywords",18520,892,"2212.16",66,"4.82","2.48","7.42","33.52",""
+20240401,"2024-04","google_ads","Google Ads","Paid","Display - Retargeting",27184,1658,"4493.18",140,"6.10","2.71","8.48","32.09",""
+20240401,"2024-04","google_ads","Google Ads","Paid","Display - Prospecting",8990,235,"665.05",20,"2.62","2.83","8.69","33.25",""
+20240401,"2024-04","google_ads","Google Ads","Paid","Performance Max",16575,707,"1781.64",49,"4.27","2.52","6.94","36.36",""
+20240501,"2024-05","google_ads","Google Ads","Paid","Brand Search",14011,545,"566.80",61,"3.89","1.04","11.29","9.29",""
+20240501,"2024-05","google_ads","Google Ads","Paid","Non-Brand Search",8345,202,"547.42",23,"2.43","2.71","11.77","23.80",""
+20240501,"2024-05","google_ads","Google Ads","Paid","Competitor Keywords",26129,543,"1525.83",16,"2.08","2.81","3.13","95.36",""
+20240501,"2024-05","google_ads","Google Ads","Paid","Display - Retargeting",24482,1461,"4835.91",79,"5.97","3.31","5.43","61.21",""
+20240501,"2024-05","google_ads","Google Ads","Paid","Display - Prospecting",31870,729,"1304.91",63,"2.29","1.79","8.65","20.71",""
+20240501,"2024-05","google_ads","Google Ads","Paid","Performance Max",23936,1783,"3851.28",123,"7.45","2.16","6.92","31.31",""
+20240601,"2024-06","google_ads","Google Ads","Paid","Brand Search",25492,884,"1670.76",33,"3.47","1.89","3.80","50.63",""
+20240601,"2024-06","google_ads","Google Ads","Paid","Non-Brand Search",37792,2456,"5452.32",261,"6.50","2.22","10.66","20.89",""
+20240601,"2024-06","google_ads","Google Ads","Paid","Competitor Keywords",26881,1868,"5622.68",202,"6.95","3.01","10.82","27.84",""
+20240601,"2024-06","google_ads","Google Ads","Paid","Display - Retargeting",8463,627,"1291.62",54,"7.42","2.06","8.67","23.92",""
+20240601,"2024-06","google_ads","Google Ads","Paid","Display - Prospecting",8057,342,"1080.72",35,"4.25","3.16","10.31","30.88",""
+20240601,"2024-06","google_ads","Google Ads","Paid","Performance Max",36442,2550,"2473.50",184,"7.00","0.97","7.24","13.44",""
+20240701,"2024-07","google_ads","Google Ads","Paid","Brand Search",13232,706,"1976.80",60,"5.34","2.80","8.58","32.95",""
+20240701,"2024-07","google_ads","Google Ads","Paid","Non-Brand Search",27456,2152,"4949.60",250,"7.84","2.30","11.63","19.80",""
+20240701,"2024-07","google_ads","Google Ads","Paid","Competitor Keywords",26577,1318,"2570.10",97,"4.96","1.95","7.36","26.50",""
+20240701,"2024-07","google_ads","Google Ads","Paid","Display - Retargeting",28161,749,"1168.44",77,"2.66","1.56","10.31","15.17",""
+20240701,"2024-07","google_ads","Google Ads","Paid","Display - Prospecting",11550,716,"594.28",39,"6.20","0.83","5.57","15.24",""
+20240701,"2024-07","google_ads","Google Ads","Paid","Performance Max",35953,1096,"3211.28",69,"3.05","2.93","6.35","46.54",""
+20240801,"2024-08","google_ads","Google Ads","Paid","Brand Search",17336,478,"430.20",36,"2.76","0.90","7.64","11.95",""
+20240801,"2024-08","google_ads","Google Ads","Paid","Non-Brand Search",35792,1249,"1848.52",140,"3.49","1.48","11.28","13.20",""
+20240801,"2024-08","google_ads","Google Ads","Paid","Competitor Keywords",10438,716,"1890.24",63,"6.86","2.64","8.81","30.00",""
+20240801,"2024-08","google_ads","Google Ads","Paid","Display - Retargeting",28833,608,"589.76",33,"2.11","0.97","5.44","17.87",""
+20240801,"2024-08","google_ads","Google Ads","Paid","Display - Prospecting",37971,2881,"5301.04",140,"7.59","1.84","4.89","37.86",""
+20240801,"2024-08","google_ads","Google Ads","Paid","Performance Max",28983,2194,"3620.10",192,"7.57","1.65","8.77","18.85",""
+20240901,"2024-09","google_ads","Google Ads","Paid","Brand Search",23817,1062,"2283.30",82,"4.46","2.15","7.79","27.85",""
+20240901,"2024-09","google_ads","Google Ads","Paid","Non-Brand Search",30417,1347,"2168.67",134,"4.43","1.61","9.97","16.18",""
+20240901,"2024-09","google_ads","Google Ads","Paid","Competitor Keywords",10127,715,"2409.55",34,"7.07","3.37","4.79","70.87",""
+20240901,"2024-09","google_ads","Google Ads","Paid","Display - Retargeting",32737,1757,"3320.73",164,"5.37","1.89","9.38","20.25",""
+20240901,"2024-09","google_ads","Google Ads","Paid","Display - Prospecting",21531,1588,"5129.24",180,"7.38","3.23","11.36","28.50",""
+20240901,"2024-09","google_ads","Google Ads","Paid","Performance Max",28739,1046,"836.80",98,"3.64","0.80","9.38","8.54",""
+20241001,"2024-10","google_ads","Google Ads","Paid","Brand Search",36052,829,"2627.93",87,"2.30","3.17","10.50","30.21",""
+20241001,"2024-10","google_ads","Google Ads","Paid","Non-Brand Search",22024,1491,"4577.37",107,"6.77","3.07","7.24","42.78",""
+20241001,"2024-10","google_ads","Google Ads","Paid","Competitor Keywords",21421,921,"2274.87",65,"4.30","2.47","7.12","35.00",""
+20241001,"2024-10","google_ads","Google Ads","Paid","Display - Retargeting",12126,733,"2499.53",23,"6.05","3.41","3.21","108.68",""
+20241001,"2024-10","google_ads","Google Ads","Paid","Display - Prospecting",28385,2032,"5974.08",88,"7.16","2.94","4.34","67.89",""
+20241001,"2024-10","google_ads","Google Ads","Paid","Performance Max",16340,834,"850.68",88,"5.11","1.02","10.60","9.67",""
+20241101,"2024-11","google_ads","Google Ads","Paid","Brand Search",35917,1066,"1897.48",125,"2.97","1.78","11.80","15.18",""
+20241101,"2024-11","google_ads","Google Ads","Paid","Non-Brand Search",13793,746,"1342.80",44,"5.41","1.80","6.00","30.52",""
+20241101,"2024-11","google_ads","Google Ads","Paid","Competitor Keywords",12942,315,"359.10",16,"2.44","1.14","5.16","22.44",""
+20241101,"2024-11","google_ads","Google Ads","Paid","Display - Retargeting",12265,598,"2051.14",52,"4.88","3.43","8.84","39.45",""
+20241101,"2024-11","google_ads","Google Ads","Paid","Display - Prospecting",27681,1298,"3089.24",90,"4.69","2.38","6.97","34.32",""
+20241101,"2024-11","google_ads","Google Ads","Paid","Performance Max",37936,2063,"6622.23",71,"5.44","3.21","3.46","93.27",""
+20241201,"2024-12","google_ads","Google Ads","Paid","Brand Search",12492,709,"886.25",70,"5.68","1.25","9.92","12.66",""
+20241201,"2024-12","google_ads","Google Ads","Paid","Non-Brand Search",21201,1240,"2988.40",122,"5.85","2.41","9.84","24.50",""
+20241201,"2024-12","google_ads","Google Ads","Paid","Competitor Keywords",33140,788,"2371.88",73,"2.38","3.01","9.33","32.49",""
+20241201,"2024-12","google_ads","Google Ads","Paid","Display - Retargeting",29281,1420,"4899.00",140,"4.85","3.45","9.88","34.99",""
+20241201,"2024-12","google_ads","Google Ads","Paid","Display - Prospecting",32822,1293,"3943.65",143,"3.94","3.05","11.13","27.58",""
+20241201,"2024-12","google_ads","Google Ads","Paid","Performance Max",31799,1103,"1533.17",82,"3.47","1.39","7.46","18.70",""
+20250101,"2025-01","google_ads","Google Ads","Paid","Brand Search",17185,604,"1268.40",62,"3.52","2.10","10.37","20.46",""
+20250101,"2025-01","google_ads","Google Ads","Paid","Non-Brand Search",34146,983,"3430.67",34,"2.88","3.49","3.56","100.90",""
+20250101,"2025-01","google_ads","Google Ads","Paid","Competitor Keywords",24826,1380,"1311.00",70,"5.56","0.95","5.10","18.73",""
+20250101,"2025-01","google_ads","Google Ads","Paid","Display - Retargeting",35738,2469,"2148.03",255,"6.91","0.87","10.36","8.42",""
+20250101,"2025-01","google_ads","Google Ads","Paid","Display - Prospecting",16909,963,"1319.31",108,"5.70","1.37","11.26","12.22",""
+20250101,"2025-01","google_ads","Google Ads","Paid","Performance Max",8313,622,"1890.88",27,"7.49","3.04","4.44","70.03",""
+20250201,"2025-02","google_ads","Google Ads","Paid","Brand Search",18242,747,"2569.68",65,"4.10","3.44","8.80","39.53",""
+20250201,"2025-02","google_ads","Google Ads","Paid","Non-Brand Search",35279,1711,"4688.14",117,"4.85","2.74","6.85","40.07",""
+20250201,"2025-02","google_ads","Google Ads","Paid","Competitor Keywords",35797,1023,"2874.63",107,"2.86","2.81","10.47","26.87",""
+20250201,"2025-02","google_ads","Google Ads","Paid","Display - Retargeting",25829,2058,"6832.56",112,"7.97","3.32","5.46","61.01",""
+20250201,"2025-02","google_ads","Google Ads","Paid","Display - Prospecting",11596,648,"1529.28",69,"5.59","2.36","10.76","22.16",""
+20250201,"2025-02","google_ads","Google Ads","Paid","Performance Max",24597,1552,"4842.24",93,"6.31","3.12","6.02","52.07",""
+20250301,"2025-03","google_ads","Google Ads","Paid","Brand Search",23945,562,"887.96",44,"2.35","1.58","7.92","20.18",""
+20250301,"2025-03","google_ads","Google Ads","Paid","Non-Brand Search",14288,488,"941.84",57,"3.42","1.93","11.77","16.52",""
+20250301,"2025-03","google_ads","Google Ads","Paid","Competitor Keywords",13019,761,"1658.98",32,"5.85","2.18","4.27","51.84",""
+20250301,"2025-03","google_ads","Google Ads","Paid","Display - Retargeting",25425,1370,"3452.40",120,"5.39","2.52","8.82","28.77",""
+20250301,"2025-03","google_ads","Google Ads","Paid","Display - Prospecting",19890,568,"1192.80",65,"2.86","2.10","11.47","18.35",""
+20250301,"2025-03","google_ads","Google Ads","Paid","Performance Max",23580,997,"1565.29",50,"4.23","1.57","5.09","31.31",""
+20250401,"2025-04","google_ads","Google Ads","Paid","Brand Search",21165,465,"1255.50",25,"2.20","2.70","5.47","50.22",""
+20250401,"2025-04","google_ads","Google Ads","Paid","Non-Brand Search",33140,782,"922.76",45,"2.36","1.18","5.76","20.51",""
+20250401,"2025-04","google_ads","Google Ads","Paid","Competitor Keywords",39876,2241,"4101.03",205,"5.62","1.83","9.15","20.01",""
+20250401,"2025-04","google_ads","Google Ads","Paid","Display - Retargeting",25152,835,"1853.70",38,"3.32","2.22","4.65","48.78",""
+20250401,"2025-04","google_ads","Google Ads","Paid","Display - Prospecting",22977,751,"653.37",51,"3.27","0.87","6.89","12.81",""
+20250401,"2025-04","google_ads","Google Ads","Paid","Performance Max",12323,701,"2208.15",45,"5.69","3.15","6.53","49.07",""
+20250501,"2025-05","google_ads","Google Ads","Paid","Brand Search",38425,814,"2083.84",77,"2.12","2.56","9.53","27.06",""
+20250501,"2025-05","google_ads","Google Ads","Paid","Non-Brand Search",9798,207,"699.66",16,"2.12","3.38","8.07","43.73",""
+20250501,"2025-05","google_ads","Google Ads","Paid","Competitor Keywords",19459,821,"1880.09",41,"4.22","2.29","5.05","45.86",""
+20250501,"2025-05","google_ads","Google Ads","Paid","Display - Retargeting",30211,1021,"1184.36",34,"3.38","1.16","3.35","34.83",""
+20250501,"2025-05","google_ads","Google Ads","Paid","Display - Prospecting",32072,881,"2272.98",48,"2.75","2.58","5.46","47.35",""
+20250501,"2025-05","google_ads","Google Ads","Paid","Performance Max",31337,1247,"3080.09",144,"3.98","2.47","11.62","21.39",""
+20250601,"2025-06","google_ads","Google Ads","Paid","Brand Search",20655,1228,"2701.60",37,"5.95","2.20","3.08","73.02",""
+20250601,"2025-06","google_ads","Google Ads","Paid","Non-Brand Search",15423,592,"1260.96",59,"3.84","2.13","10.02","21.37",""
+20250601,"2025-06","google_ads","Google Ads","Paid","Competitor Keywords",18111,952,"1266.16",51,"5.26","1.33","5.37","24.83",""
+20250601,"2025-06","google_ads","Google Ads","Paid","Display - Retargeting",19087,690,"1959.60",27,"3.62","2.84","3.97","72.58",""
+20250601,"2025-06","google_ads","Google Ads","Paid","Display - Prospecting",36324,958,"1599.86",48,"2.64","1.67","5.09","33.33",""
+20250601,"2025-06","google_ads","Google Ads","Paid","Performance Max",36897,745,"774.80",80,"2.02","1.04","10.76","9.68",""
+20240101,"2024-01","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",7070,134,"659.54","","","4.92","","82.44",8
+20240101,"2024-01","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",9936,71,"376.76","","","5.31","","94.19",4
+20240101,"2024-01","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",13391,187,"818.97","","","4.38","","74.45",11
+20240101,"2024-01","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",9752,117,"747.80","","","6.39","","93.47",8
+20240201,"2024-02","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",8162,158,"1127.09","","","7.13","","86.70",13
+20240201,"2024-02","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",13512,147,"1704.26","","","11.59","","94.68",18
+20240201,"2024-02","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",7599,85,"528.73","","","6.22","","105.75",5
+20240201,"2024-02","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",3711,45,"535.24","","","11.89","","133.81",4
+20240301,"2024-03","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",5023,73,"367.41","","","5.03","","73.48",5
+20240301,"2024-03","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",5530,98,"640.52","","","6.54","","64.05",10
+20240301,"2024-03","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",8784,115,"1073.31","","","9.33","","97.57",11
+20240301,"2024-03","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",14420,131,"1222.14","","","9.33","","111.10",11
+20240401,"2024-04","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",13685,254,"2980.40","","","11.73","","175.32",17
+20240401,"2024-04","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",8116,134,"795.05","","","5.93","","79.50",10
+20240401,"2024-04","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",6071,62,"696.38","","","11.23","","232.13",3
+20240401,"2024-04","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",5781,63,"395.34","","","6.28","","65.89",6
+20240501,"2024-05","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",6372,34,"154.63","","","4.55","","154.63",1
+20240501,"2024-05","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",11527,170,"1912.72","","","11.25","","127.51",15
+20240501,"2024-05","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",5908,97,"472.75","","","4.87","","47.27",10
+20240501,"2024-05","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",9389,130,"619.47","","","4.77","","38.72",16
+20240601,"2024-06","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",9756,69,"366.15","","","5.31","","45.77",8
+20240601,"2024-06","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",10700,209,"1866.88","","","8.93","","81.17",23
+20240601,"2024-06","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",11088,71,"470.91","","","6.63","","117.73",4
+20240601,"2024-06","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",9788,163,"1674.78","","","10.27","","139.56",12
+20240701,"2024-07","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",10555,134,"1023.81","","","7.64","","78.75",13
+20240701,"2024-07","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",8998,52,"347.03","","","6.67","","173.51",2
+20240701,"2024-07","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",9663,115,"1147.75","","","9.98","","127.53",9
+20240701,"2024-07","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",10425,136,"1628.61","","","11.98","","135.72",12
+20240801,"2024-08","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",7940,57,"405.02","","","7.11","","67.50",6
+20240801,"2024-08","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",7977,98,"1054.22","","","10.76","","175.70",6
+20240801,"2024-08","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",13144,192,"1793.46","","","9.34","","81.52",22
+20240801,"2024-08","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",10013,82,"560.00","","","6.83","","140.00",4
+20240901,"2024-09","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",14830,276,"2597.10","","","9.41","","152.77",17
+20240901,"2024-09","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",11639,226,"2381.23","","","10.54","","183.17",13
+20240901,"2024-09","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",10410,135,"1540.20","","","11.41","","140.02",11
+20240901,"2024-09","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",8587,94,"643.61","","","6.85","","53.63",12
+20241001,"2024-10","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",11284,174,"1017.63","","","5.85","","72.69",14
+20241001,"2024-10","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",11824,92,"1033.21","","","11.23","","258.30",4
+20241001,"2024-10","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",10226,195,"2184.81","","","11.20","","198.62",11
+20241001,"2024-10","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",8099,80,"600.39","","","7.50","","75.05",8
+20241101,"2024-11","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",5858,105,"1089.63","","","10.38","","181.61",6
+20241101,"2024-11","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",9886,52,"544.50","","","10.47","","108.90",5
+20241101,"2024-11","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",5018,89,"1063.45","","","11.95","","177.24",6
+20241101,"2024-11","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",6052,117,"1168.26","","","9.99","","97.36",12
+20241201,"2024-12","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",4588,37,"294.70","","","7.96","","98.23",3
+20241201,"2024-12","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",14237,225,"1805.15","","","8.02","","78.48",23
+20241201,"2024-12","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",12004,137,"669.29","","","4.89","","83.66",8
+20241201,"2024-12","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",9131,177,"828.97","","","4.68","","59.21",14
+20250101,"2025-01","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",12496,91,"668.09","","","7.34","","95.44",7
+20250101,"2025-01","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",10010,119,"869.12","","","7.30","","79.01",11
+20250101,"2025-01","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",8542,47,"457.78","","","9.74","","114.44",4
+20250101,"2025-01","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",8328,52,"228.36","","","4.39","","32.62",7
+20250201,"2025-02","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",7534,85,"876.52","","","10.31","","219.13",4
+20250201,"2025-02","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",14980,285,"2432.24","","","8.53","","73.70",33
+20250201,"2025-02","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",14692,220,"1764.69","","","8.02","","196.08",9
+20250201,"2025-02","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",5077,79,"507.30","","","6.42","","72.47",7
+20250301,"2025-03","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",11506,82,"948.34","","","11.57","","135.48",7
+20250301,"2025-03","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",5313,42,"465.60","","","11.09","","116.40",4
+20250301,"2025-03","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",7686,44,"326.58","","","7.42","","54.43",6
+20250301,"2025-03","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",9264,90,"411.12","","","4.57","","68.52",6
+20250401,"2025-04","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",6215,86,"831.77","","","9.67","","207.94",4
+20250401,"2025-04","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",4455,26,"129.82","","","4.99","","43.27",3
+20250401,"2025-04","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",7562,91,"597.02","","","6.56","","85.29",7
+20250401,"2025-04","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",4116,51,"583.77","","","11.45","","194.59",3
+20250501,"2025-05","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",5569,34,"336.66","","","9.90","","112.22",3
+20250501,"2025-05","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",4213,34,"158.20","","","4.65","","52.73",3
+20250501,"2025-05","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",7029,80,"487.56","","","6.09","","121.89",4
+20250501,"2025-05","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",13951,135,"1581.63","","","11.72","","143.78",11
+20250601,"2025-06","linkedin_ads","LinkedIn Ads","Paid","SaaS Founders - Lead Gen",5682,73,"541.46","","","7.42","","90.24",6
+20250601,"2025-06","linkedin_ads","LinkedIn Ads","Paid","Product Managers - Sponsored Content",7861,74,"467.87","","","6.32","","58.48",8
+20250601,"2025-06","linkedin_ads","LinkedIn Ads","Paid","Tech Startups - Message Ad",14123,232,"1220.86","","","5.26","","64.26",19
+20250601,"2025-06","linkedin_ads","LinkedIn Ads","Paid","Retargeting - Website Visitors",7210,86,"917.62","","","10.67","","101.96",9
