@@ -55,7 +55,7 @@ facts.*       — 4 fact tables with calculated measures and foreign keys
 
 **Entity Relationship Diagram:**
 
-![ERD](assests\erd.png)
+![ERD](assests/erd.png)
 <!-- Add your ERD image to the assets/ folder and it will render here -->
 
 | Table | Layer | Primary Key | Powers |
@@ -79,7 +79,7 @@ TaskFlow shows strong top-line growth, MRR grew steadily from ~$1K in early 2024
 
 These findings suggest an immediate opportunity to reallocate acquisition budget away from Starter tier and toward Business and Pro upsell, which would improve blended unit economics without requiring any increase in total spend.
 
-![Dashboard Overview](assests\dashboard_overview.png)
+![Dashboard Overview](assests/dashboard_overview.png)
 <!-- Export a screenshot of your full Power BI dashboard and save it to assets/dashboard_overview.png -->
 
 ---
@@ -90,7 +90,7 @@ These findings suggest an immediate opportunity to reallocate acquisition budget
 
 MRR grew from ~$1K (Jan 2024) to ~$10K (Apr 2025), approximately 10x growth over 18 months. Monthly churn averaged 2% across the period, which sits within the healthy SaaS benchmark of 1–3%. However, two months stand out as anomalies: **April 2024 (4.04%)** and **February 2025 (3.25%)**, both roughly double the baseline. These spikes warrant investigation into whether they correlate with a product release, pricing change, or seasonal pattern.
 
-![MRR and Churn Trend](assests\mrr_churn_trend.png)
+![MRR and Churn Trend](assests/mrr_churn_trend.png)
 <!-- Screenshot of your Zone 2 trend charts side by side -->
 
 ### 2. Starter plan is losing money on paid acquisition
@@ -105,21 +105,21 @@ The LTV:CAC breakdown by plan tier tells the clearest story in the data:
 
 Starter's LTV:CAC below 1.0x means every paid-acquired Starter customer costs more than they will ever generate in revenue. The combination of low ARPU ($8.64) and the highest churn rate (22.8%) makes the economics untenable at current ad spend levels.
 
-![LTV CAC by Plan](assests\ltv_cac_plan.png)
+![LTV CAC by Plan](assests/ltv_cac_plan.png)
 <!-- Screenshot of your LTV:CAC by plan bar chart from Zone 3 -->
 
 ### 3. LinkedIn's high CAC is still justified — for the right customers
 
 Google Ads delivers a CAC of $27.77 vs LinkedIn's $102.34 — a 3.7x difference. On the surface this makes LinkedIn look inefficient. However, LinkedIn's B2B targeting skews heavily toward Business plan customers, where LTV is $320.57. A $102 CAC against a $320 LTV produces a 3.1x ratio on LinkedIn alone — still healthy. The issue is not LinkedIn's cost; it is whether Starter customers are being reached through either channel.
 
-![CAC by Channel](assests\cac_by_channel.png)
+![CAC by Channel](assests/cac_by_channel.png)
 <!-- Screenshot of your CAC by channel bar chart from Zone 3 -->
 
 ### 4. NPS is healthy but detractors deserve attention
 
 NPS of 45 places TaskFlow in the "Great" tier (30–50 range). Promoters account for 60% of respondents, passives 25%, and detractors 15%. While the headline number is strong, 15% detractors at 1,562 responses represents approximately 234 customers actively dissatisfied, a cohort worth engaging through the open-text feedback fields already captured in the Typeform data.
 
-![NPS Breakdown](assests\nps_breakdown.png)
+![NPS Breakdown](assests/nps_breakdown.png)
 <!-- Screenshot of your NPS stacked bar chart from Zone 3 -->
 
 ---
